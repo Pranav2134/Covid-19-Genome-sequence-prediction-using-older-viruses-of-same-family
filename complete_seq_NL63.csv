@@ -1,0 +1,784 @@
+Sequence_token,sequence,character_token
+[1],"CTTAAAGAATTTTTCTATCTATAGATAGAGAATTTTCTTATTTAGACTTTGTGTCTACTCTTCTCAACTA
+","[4, 1, 1, 2, 2, 2, 3, 2, 2, 1, 1, 1, 1, 1, 4, 1, 2, 1, 4, 1, 2, 1, 2, 3, 2, 1, 2, 3, 2, 3, 2, 2, 1, 1, 1, 1, 4, 1, 1, 2, 1, 1, 1, 2, 3, 2, 4, 1, 1, 1, 3, 1, 3, 1, 4, 1, 2, 4, 1, 4, 1, 1, 4, 1, 4, 2, 2, 4, 1, 2, 5]"
+[2],"AACGAAATTTTTCTAGTGCTGTCATTTGTTATGGCAGTCCTAGTGTAATTGAAATTTCGTCAAGTTTGTA
+","[2, 2, 4, 3, 2, 2, 2, 1, 1, 1, 1, 1, 4, 1, 2, 3, 1, 3, 4, 1, 3, 1, 4, 2, 1, 1, 1, 3, 1, 1, 2, 1, 3, 3, 4, 2, 3, 1, 4, 4, 1, 2, 3, 1, 3, 1, 2, 2, 1, 1, 3, 2, 2, 2, 1, 1, 1, 4, 3, 1, 4, 2, 2, 3, 1, 1, 1, 3, 1, 2, 5]"
+[3],"AACTGGTTAGGCAAGTGTTGTATTTTCTGTGTCTAAGCACTGGTGATTCTGTTCACTAGTGCATACATTG
+","[2, 2, 4, 1, 3, 3, 1, 1, 2, 3, 3, 4, 2, 2, 3, 1, 3, 1, 1, 3, 1, 2, 1, 1, 1, 1, 4, 1, 3, 1, 3, 1, 4, 1, 2, 2, 3, 4, 2, 4, 1, 3, 3, 1, 3, 2, 1, 1, 4, 1, 3, 1, 1, 4, 2, 4, 1, 2, 3, 1, 3, 4, 2, 1, 2, 4, 2, 1, 1, 3, 5]"
+[4],"ATATTTAAGTGGTGTTCCGTCACTGCTTATTGTGGAAGCAACGTTCTGTCGTTGTGGAAACCAATAACTG
+","[2, 1, 2, 1, 1, 1, 2, 2, 3, 1, 3, 3, 1, 3, 1, 1, 4, 4, 3, 1, 4, 2, 4, 1, 3, 4, 1, 1, 2, 1, 1, 3, 1, 3, 3, 2, 2, 3, 4, 2, 2, 4, 3, 1, 1, 4, 1, 3, 1, 4, 3, 1, 1, 3, 1, 3, 3, 2, 2, 2, 4, 4, 2, 2, 1, 2, 2, 4, 1, 3, 5]"
+[5],"CTAACCATGTTTTACAATCAAGTGACACTTGCTGTTGCAAGTGATTCGGAAATTTCAGGTTTTGGTTTTG
+","[4, 1, 2, 2, 4, 4, 2, 1, 3, 1, 1, 1, 1, 2, 4, 2, 2, 1, 4, 2, 2, 3, 1, 3, 2, 4, 2, 4, 1, 1, 3, 4, 1, 3, 1, 1, 3, 4, 2, 2, 3, 1, 3, 2, 1, 1, 4, 3, 3, 2, 2, 2, 1, 1, 1, 4, 2, 3, 3, 1, 1, 1, 1, 3, 3, 1, 1, 1, 1, 3, 5]"
+[6],"CCATTCCTTCTGTAGCCGTTCGCACCTATAGCGAAGCCGCTGCACAAGGTTTTCAGGCATGCCGTTTTGT
+","[4, 4, 2, 1, 1, 4, 4, 1, 1, 4, 1, 3, 1, 2, 3, 4, 4, 3, 1, 1, 4, 3, 4, 2, 4, 4, 1, 2, 1, 2, 3, 4, 3, 2, 2, 3, 4, 4, 3, 4, 1, 3, 4, 2, 4, 2, 2, 3, 3, 1, 1, 1, 1, 4, 2, 3, 3, 4, 2, 1, 3, 4, 4, 3, 1, 1, 1, 1, 3, 1, 5]"
+[7],"TGCTTTTGGCTTACAGGATTGTGTAACCGGTATTAATGATGATGATTATGTCATTGCATTGACTGGTACT
+","[1, 3, 4, 1, 1, 1, 1, 3, 3, 4, 1, 1, 2, 4, 2, 3, 3, 2, 1, 1, 3, 1, 3, 1, 2, 2, 4, 4, 3, 3, 1, 2, 1, 1, 2, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 4, 2, 1, 1, 3, 4, 2, 1, 1, 3, 2, 4, 1, 3, 3, 1, 2, 4, 1, 5]"
+[8],"AATCAGCTCTGTGCCAAAATTTTACCTTTTTCTGATAGACCCCTTAATTTGCGAGGTTGGCTCATTTTTT
+","[2, 2, 1, 4, 2, 3, 4, 1, 4, 1, 3, 1, 3, 4, 4, 2, 2, 2, 2, 1, 1, 1, 1, 2, 4, 4, 1, 1, 1, 1, 1, 4, 1, 3, 2, 1, 2, 3, 2, 4, 4, 4, 4, 1, 1, 2, 2, 1, 1, 1, 3, 4, 3, 2, 3, 3, 1, 1, 3, 3, 4, 1, 4, 2, 1, 1, 1, 1, 1, 1, 5]"
+[9],"CTAACAGCAATTATGTTCTTCAGGACTTTGATGTTGTTTTTGGCCATGGTGCAGGAAGTGTGGTTTTTGT
+","[4, 1, 2, 2, 4, 2, 3, 4, 2, 2, 1, 1, 2, 1, 3, 1, 1, 4, 1, 1, 4, 2, 3, 3, 2, 4, 1, 1, 1, 3, 2, 1, 3, 1, 1, 3, 1, 1, 1, 1, 1, 3, 3, 4, 4, 2, 1, 3, 3, 1, 3, 4, 2, 3, 3, 2, 2, 3, 1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 3, 1, 5]"
+[10],"GGATAAGTACATGTGTGGTTTTGATGGTAAACCTGTGTTACCTAAAAACATGTGGGAATTTAGGGATTAC
+","[3, 3, 2, 1, 2, 2, 3, 1, 2, 4, 2, 1, 3, 1, 3, 1, 3, 3, 1, 1, 1, 1, 3, 2, 1, 3, 3, 1, 2, 2, 2, 4, 4, 1, 3, 1, 3, 1, 1, 2, 4, 4, 1, 2, 2, 2, 2, 2, 4, 2, 1, 3, 1, 3, 3, 3, 2, 2, 1, 1, 1, 2, 3, 3, 3, 2, 1, 1, 2, 4, 5]"
+[11],"TTTAATAATAATACTGATAGTATTGTTATTGGTGGTGTCACTTATCAACTAGCATGGGATGTTATACGTA
+","[1, 1, 1, 2, 2, 1, 2, 2, 1, 2, 2, 1, 2, 4, 1, 3, 2, 1, 2, 3, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 3, 3, 1, 3, 3, 1, 3, 1, 4, 2, 4, 1, 1, 2, 1, 4, 2, 2, 4, 1, 2, 3, 4, 2, 1, 3, 3, 3, 2, 1, 3, 1, 1, 2, 1, 2, 4, 3, 1, 2, 5]"
+[12],"AAGACCTTTCTTATGAACAGCAAAATGTTTTAGCCATTGAGAGCATTCATTACCTTGGTACTACAGGTCA
+","[2, 2, 3, 2, 4, 4, 1, 1, 1, 4, 1, 1, 2, 1, 3, 2, 2, 4, 2, 3, 4, 2, 2, 2, 2, 1, 3, 1, 1, 1, 1, 2, 3, 4, 4, 2, 1, 1, 3, 2, 3, 2, 3, 4, 2, 1, 1, 4, 2, 1, 1, 2, 4, 4, 1, 1, 3, 3, 1, 2, 4, 1, 2, 4, 2, 3, 3, 1, 4, 2, 5]"
+[13],"TACTTTGAAGTCTGGTTGCAAACTTACTAATGCTAAGCCGCCTAAATATTCTTCTAAGGTTGTTTTGAGT
+","[1, 2, 4, 1, 1, 1, 3, 2, 2, 3, 1, 4, 1, 3, 3, 1, 1, 3, 4, 2, 2, 2, 4, 1, 1, 2, 4, 1, 2, 2, 1, 3, 4, 1, 2, 2, 3, 4, 4, 3, 4, 4, 1, 2, 2, 2, 1, 2, 1, 1, 4, 1, 1, 4, 1, 2, 2, 3, 3, 1, 1, 3, 1, 1, 1, 1, 3, 2, 3, 1, 5]"
+[14],"GGTGAATGGAATGCTGTGTATAGGGCGTTTGGTTCACCATTTATTACAAATGGTATGTCATTGCTAGATA
+","[3, 3, 1, 3, 2, 2, 1, 3, 3, 2, 2, 1, 3, 4, 1, 3, 1, 3, 1, 2, 1, 2, 3, 3, 3, 4, 3, 1, 1, 1, 3, 3, 1, 1, 4, 2, 4, 4, 2, 1, 1, 1, 2, 1, 1, 2, 4, 2, 2, 2, 1, 3, 3, 1, 2, 1, 3, 1, 4, 2, 1, 1, 3, 4, 1, 2, 3, 2, 1, 2, 5]"
+[15],"TAATTGTTAAACCAGTTTTCTTTAATGCTTTTGTTAAATGCAATTGTGGTTCTGAGAGTTGGAGTGTTGG
+","[1, 2, 2, 1, 1, 3, 1, 1, 2, 2, 2, 4, 4, 2, 3, 1, 1, 1, 1, 4, 1, 1, 1, 2, 2, 1, 3, 4, 1, 1, 1, 1, 3, 1, 1, 2, 2, 2, 1, 3, 4, 2, 2, 1, 1, 3, 1, 3, 3, 1, 1, 4, 1, 3, 2, 3, 2, 3, 1, 1, 3, 3, 2, 3, 1, 3, 1, 1, 3, 3, 5]"
+[16],"TGCATGGGATGGTTACTTATCTTCTTGTTGTGGCACACCTGCTAAGAAACTTTGTGTTGTTCCTGGTAAT
+","[1, 3, 4, 2, 1, 3, 3, 3, 2, 1, 3, 3, 1, 1, 2, 4, 1, 1, 2, 1, 4, 1, 1, 4, 1, 1, 3, 1, 1, 3, 1, 3, 3, 4, 2, 4, 2, 4, 4, 1, 3, 4, 1, 2, 2, 3, 2, 2, 2, 4, 1, 1, 1, 3, 1, 3, 1, 1, 3, 1, 1, 4, 4, 1, 3, 3, 1, 2, 2, 1, 5]"
+[17],"GTCGTTCCTGGTGATGTGATCATCACCTCAACTAGTGCTGGTTGTGGTGTTAAATACTATGCTGGCTTAG
+","[3, 1, 4, 3, 1, 1, 4, 4, 1, 3, 3, 1, 3, 2, 1, 3, 1, 3, 2, 1, 4, 2, 1, 4, 2, 4, 4, 1, 4, 2, 2, 4, 1, 2, 3, 1, 3, 4, 1, 3, 3, 1, 1, 3, 1, 3, 3, 1, 3, 1, 1, 2, 2, 2, 1, 2, 4, 1, 2, 1, 3, 4, 1, 3, 3, 4, 1, 1, 2, 3, 5]"
+[18],"TTGTTAAACATATTACTAACATTACTGGTGTGTCTTTATGGCGTGTTACAGCTGTTCATTCTGATGGAAT
+","[1, 1, 3, 1, 1, 2, 2, 2, 4, 2, 1, 2, 1, 1, 2, 4, 1, 2, 2, 4, 2, 1, 1, 2, 4, 1, 3, 3, 1, 3, 1, 3, 1, 4, 1, 1, 1, 2, 1, 3, 3, 4, 3, 1, 3, 1, 1, 2, 4, 2, 3, 4, 1, 3, 1, 1, 4, 2, 1, 1, 4, 1, 3, 2, 1, 3, 3, 2, 2, 1, 5]"
+[19],"GTTTGTGGCATCATCTTCTTATGATGCACTCTTGCATAGAAATTCATTAGACCCTTTTTGCTTTGATGTT
+","[3, 1, 1, 1, 3, 1, 3, 3, 4, 2, 1, 4, 2, 1, 4, 1, 1, 4, 1, 1, 2, 1, 3, 2, 1, 3, 4, 2, 4, 1, 4, 1, 1, 3, 4, 2, 1, 2, 3, 2, 2, 2, 1, 1, 4, 2, 1, 1, 2, 3, 2, 4, 4, 4, 1, 1, 1, 1, 1, 3, 4, 1, 1, 1, 3, 2, 1, 3, 1, 1, 5]"
+[20],"AACACTTTACTTTCTAATCAATTACGTCTAGCTTTTCTTGGTGCTTCTGTTACAGAAGATGTTAAATTTG
+","[2, 2, 4, 2, 4, 1, 1, 1, 2, 4, 1, 1, 1, 4, 1, 2, 2, 1, 4, 2, 2, 1, 1, 2, 4, 3, 1, 4, 1, 2, 3, 4, 1, 1, 1, 1, 4, 1, 1, 3, 3, 1, 3, 4, 1, 1, 4, 1, 3, 1, 1, 2, 4, 2, 3, 2, 2, 3, 2, 1, 3, 1, 1, 2, 2, 2, 1, 1, 1, 3, 5]"
+[21],"CTGCTAGCACTGGTGTTATTGACATTAGTGCTGGTATGTTTGGTCTTTACGATGACATATTGACAAACAA
+","[4, 1, 3, 4, 1, 2, 3, 4, 2, 4, 1, 3, 3, 1, 3, 1, 1, 2, 1, 1, 3, 2, 4, 2, 1, 1, 2, 3, 1, 3, 4, 1, 3, 3, 1, 2, 1, 3, 1, 1, 1, 3, 3, 1, 4, 1, 1, 1, 2, 4, 3, 2, 1, 3, 2, 4, 2, 1, 2, 1, 1, 3, 2, 4, 2, 2, 2, 4, 2, 2, 5]"
+[22],"TAAACCTTGGTTTGTACGCAAAGCTTCTGGGCTTTTTGATGCAATCTGGGATGCTTTTGTTGCCGCTATT
+","[1, 2, 2, 2, 4, 4, 1, 1, 3, 3, 1, 1, 1, 3, 1, 2, 4, 3, 4, 2, 2, 2, 3, 4, 1, 1, 4, 1, 3, 3, 3, 4, 1, 1, 1, 1, 1, 3, 2, 1, 3, 4, 2, 2, 1, 4, 1, 3, 3, 3, 2, 1, 3, 4, 1, 1, 1, 1, 3, 1, 1, 3, 4, 4, 3, 4, 1, 2, 1, 1, 5]"
+[23],"AAGCTTGTACCAACTACTACTGGTGTTTTGGTTAGGTTTGTTAAGTCTATTGCTTCAACTGTTTTAACTG
+","[2, 2, 3, 4, 1, 1, 3, 1, 2, 4, 4, 2, 2, 4, 1, 2, 4, 1, 2, 4, 1, 3, 3, 1, 3, 1, 1, 1, 1, 3, 3, 1, 1, 2, 3, 3, 1, 1, 1, 3, 1, 1, 2, 2, 3, 1, 4, 1, 2, 1, 1, 3, 4, 1, 1, 4, 2, 2, 4, 1, 3, 1, 1, 1, 1, 2, 2, 4, 1, 3, 5]"
+[24],"TCTCTAATGGTGTTATTATTATGTGTGCAGATGTTCCAGATGCTTTTCAATCAGTTTATCGCACATTTAC
+","[1, 4, 1, 4, 1, 2, 2, 1, 3, 3, 1, 3, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 3, 1, 3, 1, 3, 4, 2, 3, 2, 1, 3, 1, 1, 4, 4, 2, 3, 2, 1, 3, 4, 1, 1, 1, 1, 4, 2, 2, 1, 4, 2, 3, 1, 1, 1, 2, 1, 4, 3, 4, 2, 4, 2, 1, 1, 1, 2, 4, 5]"
+[25],"ACAAGCTATTTGTGCTGCATTTGATTTTTCTTTAGATGTATTTAAAATTGGTGATGTTAAATTTAAACGA
+","[2, 4, 2, 2, 3, 4, 1, 2, 1, 1, 1, 3, 1, 3, 4, 1, 3, 4, 2, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 4, 1, 1, 1, 2, 3, 2, 1, 3, 1, 2, 1, 1, 1, 2, 2, 2, 2, 1, 1, 3, 3, 1, 3, 2, 1, 3, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 4, 3, 2, 5]"
+[26],"CTTGGTGATTATGTTCTTACTGAAAACGCTCTTGTTCGTTTGACTACTGAAGTTGTTCGTGGTGTTCGTG
+","[4, 1, 1, 3, 3, 1, 3, 2, 1, 1, 2, 1, 3, 1, 1, 4, 1, 1, 2, 4, 1, 3, 2, 2, 2, 2, 4, 3, 4, 1, 4, 1, 1, 3, 1, 1, 4, 3, 1, 1, 1, 3, 2, 4, 1, 2, 4, 1, 3, 2, 2, 3, 1, 1, 3, 1, 1, 4, 3, 1, 3, 3, 1, 3, 1, 1, 4, 3, 1, 3, 5]"
+[27],"ATGCTCGCATAAAGAAAGCCATGTTTACTAAAGTAGTTGTAGGTCCTACAACTGAAGTTAAGTTTTCTGT
+","[2, 1, 3, 4, 1, 4, 3, 4, 2, 1, 2, 2, 2, 3, 2, 2, 2, 3, 4, 4, 2, 1, 3, 1, 1, 1, 2, 4, 1, 2, 2, 2, 3, 1, 2, 3, 1, 1, 3, 1, 2, 3, 3, 1, 4, 4, 1, 2, 4, 2, 2, 4, 1, 3, 2, 2, 3, 1, 1, 2, 2, 3, 1, 1, 1, 1, 4, 1, 3, 1, 5]"
+[28],"TATTGAACTTGCCACTGTTAATTTGCGTCTTGTTGATTGTGCACCTGTAGTTTGCCCTAAAGGTAAGATT
+","[1, 2, 1, 1, 3, 2, 2, 4, 1, 1, 3, 4, 4, 2, 4, 1, 3, 1, 1, 2, 2, 1, 1, 1, 3, 4, 3, 1, 4, 1, 1, 3, 1, 1, 3, 2, 1, 1, 3, 1, 3, 4, 2, 4, 4, 1, 3, 1, 2, 3, 1, 1, 1, 3, 4, 4, 4, 1, 2, 2, 2, 3, 3, 1, 2, 2, 3, 2, 1, 1, 5]"
+[29],"GTTGTTATTGCTGGACAAGCTTTTTTCTATAGTGGTGGTTTTTATCGTTTTATGGTTGATCCTACAACTG
+","[3, 1, 1, 3, 1, 1, 2, 1, 1, 3, 4, 1, 3, 3, 2, 4, 2, 2, 3, 4, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 2, 3, 1, 3, 3, 1, 3, 3, 1, 1, 1, 1, 1, 2, 1, 4, 3, 1, 1, 1, 1, 2, 1, 3, 3, 1, 1, 3, 2, 1, 4, 4, 1, 2, 4, 2, 2, 4, 1, 3, 5]"
+[30],"TATTAAATGATCCTGTTTTTACTGGTGATTTATTCTACACTATTAAGTTTAGTGGTTTTAAGCTTGATGG
+","[1, 2, 1, 1, 2, 2, 2, 1, 3, 2, 1, 4, 4, 1, 3, 1, 1, 1, 1, 1, 2, 4, 1, 3, 3, 1, 3, 2, 1, 1, 1, 2, 1, 1, 4, 1, 2, 4, 2, 4, 1, 2, 1, 1, 2, 2, 3, 1, 1, 1, 2, 3, 1, 3, 3, 1, 1, 1, 1, 2, 2, 3, 4, 1, 1, 3, 2, 1, 3, 3, 5]"
+[31],"TTTTAACCATCAGTTTGTTACTGCTAGTTCTGCTACAGATGCCATTATTGCTGTTGAGCTGTTGTTATTG
+","[1, 1, 1, 1, 2, 2, 4, 4, 2, 1, 4, 2, 3, 1, 1, 1, 3, 1, 1, 2, 4, 1, 3, 4, 1, 2, 3, 1, 1, 4, 1, 3, 4, 1, 2, 4, 2, 3, 2, 1, 3, 4, 4, 2, 1, 1, 2, 1, 1, 3, 4, 1, 3, 1, 1, 3, 2, 3, 4, 1, 3, 1, 1, 3, 1, 1, 2, 1, 1, 3, 5]"
+[32],"GATTTTAAAACTGCAGTTTTTGTGTACACATGTGTGGTTGATGGCTGTAGTGTCATTGTTAGACGTGATG
+","[3, 2, 1, 1, 1, 1, 2, 2, 2, 2, 4, 1, 3, 4, 2, 3, 1, 1, 1, 1, 1, 3, 1, 3, 1, 2, 4, 2, 4, 2, 1, 3, 1, 3, 1, 3, 3, 1, 1, 3, 2, 1, 3, 3, 4, 1, 3, 1, 2, 3, 1, 3, 1, 4, 2, 1, 1, 3, 1, 1, 2, 3, 2, 4, 3, 1, 3, 2, 1, 3, 5]"
+[33],"CTACATTCGCTACACATGTGTGTTTTAAGGACTGTTATAATGTTTGGGAGCAATTCTGCATTGATAATTG
+","[4, 1, 2, 4, 2, 1, 1, 4, 3, 4, 1, 2, 4, 2, 4, 2, 1, 3, 1, 3, 1, 3, 1, 1, 1, 1, 2, 2, 3, 3, 2, 4, 1, 3, 1, 1, 2, 1, 2, 2, 1, 3, 1, 1, 1, 3, 3, 3, 2, 3, 4, 2, 2, 1, 1, 4, 1, 3, 4, 2, 1, 1, 3, 2, 1, 2, 2, 1, 1, 3, 5]"
+[34],"TGGTGAGCCATGGTTTTTGACTGATTATAATGCTATCTTGCAGAGTAATAACCCTCAATGTGCTATTGTT
+","[1, 3, 3, 1, 3, 2, 3, 4, 4, 2, 1, 3, 3, 1, 1, 1, 1, 1, 3, 2, 4, 1, 3, 2, 1, 1, 2, 1, 2, 2, 1, 3, 4, 1, 2, 1, 4, 1, 1, 3, 4, 2, 3, 2, 3, 1, 2, 2, 1, 2, 2, 4, 4, 4, 1, 4, 2, 2, 1, 3, 1, 3, 4, 1, 2, 1, 1, 3, 1, 1, 5]"
+[35],"CAAGCATCAGAGTCTAAAGTTTTGCTTGAGAGGTTTTTACCTAAGTGTCCTGAAATACTGTTGAGTATTG
+","[4, 2, 2, 3, 4, 2, 1, 4, 2, 3, 2, 3, 1, 4, 1, 2, 2, 2, 3, 1, 1, 1, 1, 3, 4, 1, 1, 3, 2, 3, 2, 3, 3, 1, 1, 1, 1, 1, 2, 4, 4, 1, 2, 2, 3, 1, 3, 1, 4, 4, 1, 3, 2, 2, 2, 1, 2, 4, 1, 3, 1, 1, 3, 2, 3, 1, 2, 1, 1, 3, 5]"
+[36],"ATGATGGCCATTTATGGAATCTTTTTGTTGAAAAGTTTAATTTTGTTACAGATTGGTTAAAAACTCTTAA
+","[2, 1, 3, 2, 1, 3, 3, 4, 4, 2, 1, 1, 1, 2, 1, 3, 3, 2, 2, 1, 4, 1, 1, 1, 1, 1, 3, 1, 1, 3, 2, 2, 2, 2, 3, 1, 1, 1, 2, 2, 1, 1, 1, 1, 3, 1, 1, 2, 4, 2, 3, 2, 1, 1, 3, 3, 1, 1, 2, 2, 2, 2, 2, 4, 1, 4, 1, 1, 2, 2, 5]"
+[37],"GCTTACACTTACTTCTAATGGTCTTTTAGGTAATTGTGCCAAACGTTTTAGACGTGTTTTGGTAAAATTG
+","[3, 4, 1, 1, 2, 4, 2, 4, 1, 1, 2, 4, 1, 1, 4, 1, 2, 2, 1, 3, 3, 1, 4, 1, 1, 1, 1, 2, 3, 3, 1, 2, 2, 1, 1, 3, 1, 3, 4, 4, 2, 2, 2, 4, 3, 1, 1, 1, 1, 2, 3, 2, 4, 3, 1, 3, 1, 1, 1, 1, 3, 3, 1, 2, 2, 2, 2, 1, 1, 3, 5]"
+[38],"CTTGATGTCTATAATGGTTTTCTTGAAACTGTCTGTAGTGTCGCATACACTGCTGGTGTTTGCATCAAAT
+","[4, 1, 1, 3, 2, 1, 3, 1, 4, 1, 2, 1, 2, 2, 1, 3, 3, 1, 1, 1, 1, 4, 1, 1, 3, 2, 2, 2, 4, 1, 3, 1, 4, 1, 3, 1, 2, 3, 1, 3, 1, 4, 3, 4, 2, 1, 2, 4, 2, 4, 1, 3, 4, 1, 3, 3, 1, 3, 1, 1, 1, 3, 4, 2, 1, 4, 2, 2, 2, 1, 5]"
+[39],"ATTATGCTGTTAATGTTCCATATGTAGTTATTAGTGGTTTTGTAAGTCGTGTAATTCGTAGAGAAAGGTG
+","[2, 1, 1, 2, 1, 3, 4, 1, 3, 1, 1, 2, 2, 1, 3, 1, 1, 4, 4, 2, 1, 2, 1, 3, 1, 2, 3, 1, 1, 2, 1, 1, 2, 3, 1, 3, 3, 1, 1, 1, 1, 3, 1, 2, 2, 3, 1, 4, 3, 1, 3, 1, 2, 2, 1, 1, 4, 3, 1, 2, 3, 2, 3, 2, 2, 2, 3, 3, 1, 3, 5]"
+[40],"TGACATGACTTTTCCTTGTGTTAGTTGTGTCACCTTTTTCTATGAATTTTTAGACACTTGTTTTGGTGTT
+","[1, 3, 2, 4, 2, 1, 3, 2, 4, 1, 1, 1, 1, 4, 4, 1, 1, 3, 1, 3, 1, 1, 2, 3, 1, 1, 3, 1, 3, 1, 4, 2, 4, 4, 1, 1, 1, 1, 1, 4, 1, 2, 1, 3, 2, 2, 1, 1, 1, 1, 1, 2, 3, 2, 4, 2, 4, 1, 1, 3, 1, 1, 1, 1, 3, 3, 1, 3, 1, 1, 5]"
+[41],"AGTAAACCTAATGCCATTGATGTTGAACATTTAGAGCTTAAAGAAACTGTTTTTGTTGAACCTAAGGATG
+","[2, 3, 1, 2, 2, 2, 4, 4, 1, 2, 2, 1, 3, 4, 4, 2, 1, 1, 3, 2, 1, 3, 1, 1, 3, 2, 2, 4, 2, 1, 1, 1, 2, 3, 2, 3, 4, 1, 1, 2, 2, 2, 3, 2, 2, 2, 4, 1, 3, 1, 1, 1, 1, 1, 3, 1, 1, 3, 2, 2, 4, 4, 1, 2, 2, 3, 3, 2, 1, 3, 5]"
+[42],"GTGGTCAATTTTTTGTTTCTGGTGATTATCTTTGGTATGTTGTAGATGACATTTATTATCCAGCTTCATG
+","[3, 1, 3, 3, 1, 4, 2, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 4, 1, 3, 3, 1, 3, 2, 1, 1, 2, 1, 4, 1, 1, 1, 3, 3, 1, 2, 1, 3, 1, 1, 3, 1, 2, 3, 2, 1, 3, 2, 4, 2, 1, 1, 1, 2, 1, 1, 2, 1, 4, 4, 2, 3, 4, 1, 1, 4, 2, 1, 3, 5]"
+[43],"TAATGGTGTATTGCCTGTTGCTTTTACAAAATTAGCTGGTGGTAAAATATCTTTTTCTGATGATGTTATA
+","[1, 2, 2, 1, 3, 3, 1, 3, 1, 2, 1, 1, 3, 4, 4, 1, 3, 1, 1, 3, 4, 1, 1, 1, 1, 2, 4, 2, 2, 2, 2, 1, 1, 2, 3, 4, 1, 3, 3, 1, 3, 3, 1, 2, 2, 2, 2, 1, 2, 1, 4, 1, 1, 1, 1, 1, 4, 1, 3, 2, 1, 3, 2, 1, 3, 1, 1, 2, 1, 2, 5]"
+[44],"GTTCATGATGTTGAACCTACCCATAAAGTCAAGCTCATATTTGAGTTTGAAGATGATGTTGTTACCAGTC
+","[3, 1, 1, 4, 2, 1, 3, 2, 1, 3, 1, 1, 3, 2, 2, 4, 4, 1, 2, 4, 4, 4, 2, 1, 2, 2, 2, 3, 1, 4, 2, 2, 3, 4, 1, 4, 2, 1, 2, 1, 1, 1, 3, 2, 3, 1, 1, 1, 3, 2, 2, 3, 2, 1, 3, 2, 1, 3, 1, 1, 3, 1, 1, 2, 4, 4, 2, 3, 1, 4, 5]"
+[45],"TTTGTAAGAAGAGTTTTGGTAAGTCCATTATTTATACAGGTGATTGGGAAGGTCTACATGAAGTTCTTAC
+","[1, 1, 1, 3, 1, 2, 2, 3, 2, 2, 3, 2, 3, 1, 1, 1, 1, 3, 3, 1, 2, 2, 3, 1, 4, 4, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 4, 2, 3, 3, 1, 3, 2, 1, 1, 3, 3, 3, 2, 2, 3, 3, 1, 4, 1, 2, 4, 2, 1, 3, 2, 2, 3, 1, 1, 4, 1, 1, 2, 4, 5]"
+[46],"ATCTGCAATGAATGTCATTGGGCAACATATTAAGTTGCCACAATTTTATATTTATGATGAAGAGGGTGGT
+","[2, 1, 4, 1, 3, 4, 2, 2, 1, 3, 2, 2, 1, 3, 1, 4, 2, 1, 1, 3, 3, 3, 4, 2, 2, 4, 2, 1, 2, 1, 1, 2, 2, 3, 1, 1, 3, 4, 4, 2, 4, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 3, 2, 1, 3, 2, 2, 3, 2, 3, 3, 3, 1, 3, 3, 1, 5]"
+[47],"TATGATGTTTCTAAACCAGTTATGATTTCACAATGGCCTATTAGTAATGATAGTAATGGTTGTGTTGTTG
+","[1, 2, 1, 3, 2, 1, 3, 1, 1, 1, 4, 1, 2, 2, 2, 4, 4, 2, 3, 1, 1, 2, 1, 3, 2, 1, 1, 1, 4, 2, 4, 2, 2, 1, 3, 3, 4, 4, 1, 2, 1, 1, 2, 3, 1, 2, 2, 1, 3, 2, 1, 2, 3, 1, 2, 2, 1, 3, 3, 1, 1, 3, 1, 3, 1, 1, 3, 1, 1, 3, 5]"
+[48],"AAGCGAGCACTGATTTTCATCAATTAGAATGTATTGTTGATGACTCTGTTAGAGAAGAGGTTGATATAAT
+","[2, 2, 3, 4, 3, 2, 3, 4, 2, 4, 1, 3, 2, 1, 1, 1, 1, 4, 2, 1, 4, 2, 2, 1, 1, 2, 3, 2, 2, 1, 3, 1, 2, 1, 1, 3, 1, 1, 3, 2, 1, 3, 2, 4, 1, 4, 1, 3, 1, 1, 2, 3, 2, 3, 2, 2, 3, 2, 3, 3, 1, 1, 3, 2, 1, 2, 1, 2, 2, 1, 5]"
+[49],"TGAACAACCTTTTGAAGAAGTTGAACATGTGCTCTCAATTAAGCAACCTTTTTCTTTTTCTTTTAGAGAT
+","[1, 3, 2, 2, 4, 2, 2, 4, 4, 1, 1, 1, 1, 3, 2, 2, 3, 2, 2, 3, 1, 1, 3, 2, 2, 4, 2, 1, 3, 1, 3, 4, 1, 4, 1, 4, 2, 2, 1, 1, 2, 2, 3, 4, 2, 2, 4, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 2, 3, 2, 3, 2, 1, 5]"
+[50],"GAATTGGGTGTTCGTGTTTTAGATCAATCTGATAATAATTGTTGGATTAGTACCACACTTGTACAGTTGC
+","[3, 2, 2, 1, 1, 3, 3, 3, 1, 3, 1, 1, 4, 3, 1, 3, 1, 1, 1, 1, 2, 3, 2, 1, 4, 2, 2, 1, 4, 1, 3, 2, 1, 2, 2, 1, 2, 2, 1, 1, 3, 1, 1, 3, 3, 2, 1, 1, 2, 3, 1, 2, 4, 4, 2, 4, 2, 4, 1, 1, 3, 1, 2, 4, 2, 3, 1, 1, 3, 4, 5]"
+[51],"AACTTACAAAGCTTTTGGATGATTCTATTGAGATGCAATTGTTTAAAGTTGGTAAAGTTGATTCAATTGT
+","[2, 2, 4, 1, 1, 2, 4, 2, 2, 2, 3, 4, 1, 1, 1, 1, 3, 3, 2, 1, 3, 2, 1, 1, 4, 1, 2, 1, 1, 3, 2, 3, 2, 1, 3, 4, 2, 2, 1, 1, 3, 1, 1, 1, 2, 2, 2, 3, 1, 1, 3, 3, 1, 2, 2, 2, 3, 1, 1, 3, 2, 1, 1, 4, 2, 2, 1, 1, 3, 1, 5]"
+[52],"CCAAAAGTGTTATGAGTTGTCTCATTTAATTAGTGGTTCACTTGGTGATAGTGGTAAACTTCTTAGTGAA
+","[4, 4, 2, 2, 2, 2, 3, 1, 3, 1, 1, 2, 1, 3, 2, 3, 1, 1, 3, 1, 4, 1, 4, 2, 1, 1, 1, 2, 2, 1, 1, 2, 3, 1, 3, 3, 1, 1, 4, 2, 4, 1, 1, 3, 3, 1, 3, 2, 1, 2, 3, 1, 3, 3, 1, 2, 2, 2, 4, 1, 1, 4, 1, 1, 2, 3, 1, 3, 2, 2, 5]"
+[53],"CTTCTTAAAGAAAAATATACATGTTCTATAACTTTTGAGATGTCTTGTGATTGTGGTAAAAAGTTTGATG
+","[4, 1, 1, 4, 1, 1, 2, 2, 2, 3, 2, 2, 2, 2, 2, 1, 2, 1, 2, 4, 2, 1, 3, 1, 1, 4, 1, 2, 1, 2, 2, 4, 1, 1, 1, 1, 3, 2, 3, 2, 1, 3, 1, 4, 1, 1, 3, 1, 3, 2, 1, 1, 3, 1, 3, 3, 1, 2, 2, 2, 2, 2, 3, 1, 1, 1, 3, 2, 1, 3, 5]"
+[54],"ATCAGGTTGGTTGTTTGTTTTGGATTATGCCTTACACAAAACTTTTTCAAAAAGGTGAGTGTTGTATTTG
+","[2, 1, 4, 2, 3, 3, 1, 1, 3, 3, 1, 1, 3, 1, 1, 1, 3, 1, 1, 1, 1, 3, 3, 2, 1, 1, 2, 1, 3, 4, 4, 1, 1, 2, 4, 2, 4, 2, 2, 2, 2, 4, 1, 1, 1, 1, 1, 4, 2, 2, 2, 2, 2, 3, 3, 1, 3, 2, 3, 1, 3, 1, 1, 3, 1, 2, 1, 1, 1, 3, 5]"
+[55],"TCATAAAATGCAGACTTATAAGCTTGTTAGTATGAAAGGTACTGGTGTGTTTGTACAGGATCCAGCACCT
+","[1, 4, 2, 1, 2, 2, 2, 2, 1, 3, 4, 2, 3, 2, 4, 1, 1, 2, 1, 2, 2, 3, 4, 1, 1, 3, 1, 1, 2, 3, 1, 2, 1, 3, 2, 2, 2, 3, 3, 1, 2, 4, 1, 3, 3, 1, 3, 1, 3, 1, 1, 1, 3, 1, 2, 4, 2, 3, 3, 2, 1, 4, 4, 2, 3, 4, 2, 4, 4, 1, 5]"
+[56],"ATTGACATTGATGCTTTCCCTGTGAAACCTATATGTTCATCTGTATATTTAGGTGTTAAGGGTTCTGGTC
+","[2, 1, 1, 3, 2, 4, 2, 1, 1, 3, 2, 1, 3, 4, 1, 1, 1, 4, 4, 4, 1, 3, 1, 3, 2, 2, 2, 4, 4, 1, 2, 1, 2, 1, 3, 1, 1, 4, 2, 1, 4, 1, 3, 1, 2, 1, 2, 1, 1, 1, 2, 3, 3, 1, 3, 1, 1, 2, 2, 3, 3, 3, 1, 1, 4, 1, 3, 3, 1, 4, 5]"
+[57],"ATTATCAAACAAATTTATACAGTTTTAACAAAGCTATTGATGGTTTTGGTGTCTTTGACATTAAAAATAG
+","[2, 1, 1, 2, 1, 4, 2, 2, 2, 4, 2, 2, 2, 1, 1, 1, 2, 1, 2, 4, 2, 3, 1, 1, 1, 1, 2, 2, 4, 2, 2, 2, 3, 4, 1, 2, 1, 1, 3, 2, 1, 3, 3, 1, 1, 1, 1, 3, 3, 1, 3, 1, 4, 1, 1, 1, 3, 2, 4, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 3, 5]"
+[58],"TAGTGTTAATACTGTTTGTTTTGTTGATGTTGATTTTCATAGTGTAGAAATAGAAGCTGGTGAAGTTAAA
+","[1, 2, 3, 1, 3, 1, 1, 2, 2, 1, 2, 4, 1, 3, 1, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 3, 2, 1, 3, 1, 1, 3, 2, 1, 1, 1, 1, 4, 2, 1, 2, 3, 1, 3, 1, 2, 3, 2, 2, 2, 1, 2, 3, 2, 2, 3, 4, 1, 3, 3, 1, 3, 2, 2, 3, 1, 1, 2, 2, 2, 5]"
+[59],"CCTTTTGCTGTATATAAAAATGTTAAATTTTATTTAGGTGATATTTCACACCTTGTAAACTGTGTTTCTT
+","[4, 4, 1, 1, 1, 1, 3, 4, 1, 3, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 3, 1, 1, 2, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 3, 3, 1, 3, 2, 1, 2, 1, 1, 1, 4, 2, 4, 2, 4, 4, 1, 1, 3, 1, 2, 2, 2, 4, 1, 3, 1, 3, 1, 1, 1, 4, 1, 1, 5]"
+[60],"TTGACTTTGTTGTCAATGCTGCTAATGAAAATCTCTTGCATGGAGGCGGTGTTGCACGTGCTATTGATAT
+","[1, 1, 3, 2, 4, 1, 1, 1, 3, 1, 1, 3, 1, 4, 2, 2, 1, 3, 4, 1, 3, 4, 1, 2, 2, 1, 3, 2, 2, 2, 2, 1, 4, 1, 4, 1, 1, 3, 4, 2, 1, 3, 3, 2, 3, 3, 4, 3, 3, 1, 3, 1, 1, 3, 4, 2, 4, 3, 1, 3, 4, 1, 2, 1, 1, 3, 2, 1, 2, 1, 5]"
+[61],"TTTGACTGAAGGTCAACTTCAGTCATTATCTAAAGATTACATTAGTAGTAATGGTCCACTTAAGGTTGGA
+","[1, 1, 1, 3, 2, 4, 1, 3, 2, 2, 3, 3, 1, 4, 2, 2, 4, 1, 1, 4, 2, 3, 1, 4, 2, 1, 1, 2, 1, 4, 1, 2, 2, 2, 3, 2, 1, 1, 2, 4, 2, 1, 1, 2, 3, 1, 2, 3, 1, 2, 2, 1, 3, 3, 1, 4, 4, 2, 4, 1, 1, 2, 2, 3, 3, 1, 1, 3, 3, 2, 5]"
+[62],"GCAGGTGTTATGTTGGAGTGTGAAAAATTCAACGTATTTAATGTTGTTGGTCCGCGAACTGGTAAACATG
+","[3, 4, 2, 3, 3, 1, 3, 1, 1, 2, 1, 3, 1, 1, 3, 3, 2, 3, 1, 3, 1, 3, 2, 2, 2, 2, 2, 1, 1, 4, 2, 2, 4, 3, 1, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 3, 3, 1, 4, 4, 3, 4, 3, 2, 2, 4, 1, 3, 3, 1, 2, 2, 2, 4, 2, 1, 3, 5]"
+[63],"AGCATTCATTACTTGTTGAAGCTTATAATTCTATTTTATTTGAAAATGGTATTCCACTTATGCCTCTTCT
+","[2, 3, 4, 2, 1, 1, 4, 2, 1, 1, 2, 4, 1, 1, 3, 1, 1, 3, 2, 2, 3, 4, 1, 1, 2, 1, 2, 2, 1, 1, 4, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 3, 2, 2, 2, 2, 1, 3, 3, 1, 2, 1, 1, 4, 4, 2, 4, 1, 1, 2, 1, 3, 4, 4, 1, 4, 1, 1, 4, 1, 5]"
+[64],"TAGTTGTGGTATTTTTGGTGTAAGGATTGAAAATTCTCTTAAAGCTTTGTTTAGTTGTGACATTAATAAA
+","[1, 2, 3, 1, 1, 3, 1, 3, 3, 1, 2, 1, 1, 1, 1, 1, 3, 3, 1, 3, 1, 2, 2, 3, 3, 2, 1, 1, 3, 2, 2, 2, 2, 1, 1, 4, 1, 4, 1, 1, 2, 2, 2, 3, 4, 1, 1, 1, 3, 1, 1, 1, 2, 3, 1, 1, 3, 1, 3, 2, 4, 2, 1, 1, 2, 2, 1, 2, 2, 2, 5]"
+[65],"CCATTGCAAGTTTTTGTTTATTCTTCAAATGAAGAACAAGCTGTTCTTAAGTTTTTAGATGGTTTAGATT
+","[4, 4, 2, 1, 1, 3, 4, 2, 2, 3, 1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 4, 1, 1, 4, 2, 2, 2, 1, 3, 2, 2, 3, 2, 2, 4, 2, 2, 3, 4, 1, 3, 1, 1, 4, 1, 1, 2, 2, 3, 1, 1, 1, 1, 1, 2, 3, 2, 1, 3, 3, 1, 1, 1, 2, 3, 2, 1, 1, 5]"
+[66],"TAACACCAGTCATTGATGATGTTGATGTTGTTAAACCTTTTAGAGTTGAAGGTAATTTTTCATTCTTTGA
+","[1, 2, 2, 4, 2, 4, 4, 2, 3, 1, 4, 2, 1, 1, 3, 2, 1, 3, 2, 1, 3, 1, 1, 3, 2, 1, 3, 1, 1, 3, 1, 1, 2, 2, 2, 4, 4, 1, 1, 1, 1, 2, 3, 2, 3, 1, 1, 3, 2, 2, 3, 3, 1, 2, 2, 1, 1, 1, 1, 1, 4, 2, 1, 1, 4, 1, 1, 1, 3, 2, 5]"
+[67],"TTGTGGTGTCAATGCCTTGGATGGTGATATTTACTTATTATTTACTAACTCTATTTTAATGTTGGATAAA
+","[1, 1, 3, 1, 3, 3, 1, 3, 1, 4, 2, 2, 1, 3, 4, 4, 1, 1, 3, 3, 2, 1, 3, 3, 1, 3, 2, 1, 2, 1, 1, 1, 2, 4, 1, 1, 2, 1, 1, 2, 1, 1, 1, 2, 4, 1, 2, 2, 4, 1, 4, 1, 2, 1, 1, 1, 1, 2, 2, 1, 3, 1, 1, 3, 3, 2, 1, 2, 2, 2, 5]"
+[68],"CAAGGACAATTATTGGACACAAAACTTAATGGTATTTTGCAACAGGCAGCTCTTGATTATCTTGCTACAG
+","[4, 2, 2, 3, 3, 2, 4, 2, 2, 1, 1, 2, 1, 1, 3, 3, 2, 4, 2, 4, 2, 2, 2, 2, 4, 1, 1, 2, 2, 1, 3, 3, 1, 2, 1, 1, 1, 1, 3, 4, 2, 2, 4, 2, 3, 3, 4, 2, 3, 4, 1, 4, 1, 1, 3, 2, 1, 1, 2, 1, 4, 1, 1, 3, 4, 1, 2, 4, 2, 3, 5]"
+[69],"TTAAAACTGTACCAGCTGGTAATTTGGTTAAACTTTTTGTTGAGAGTTGTACCATTTATATGTGTGTTGT
+","[1, 1, 2, 2, 2, 2, 4, 1, 3, 1, 2, 4, 4, 2, 3, 4, 1, 3, 3, 1, 2, 2, 1, 1, 1, 3, 3, 1, 1, 2, 2, 2, 4, 1, 1, 1, 1, 1, 3, 1, 1, 3, 2, 3, 2, 3, 1, 1, 3, 1, 2, 4, 4, 2, 1, 1, 1, 2, 1, 2, 1, 3, 1, 3, 1, 3, 1, 1, 3, 1, 5]"
+[70],"ACCATCGATAAATGATCTTTCTTTTGATAAAAATCTTGGTCGTTGTGTGCGTAAACTTAATAGATTGAAA
+","[2, 4, 4, 2, 1, 4, 3, 2, 1, 2, 2, 2, 1, 3, 2, 1, 4, 1, 1, 1, 4, 1, 1, 1, 1, 3, 2, 1, 2, 2, 2, 2, 2, 1, 4, 1, 1, 3, 3, 1, 4, 3, 1, 1, 3, 1, 3, 1, 3, 4, 3, 1, 2, 2, 2, 4, 1, 1, 2, 2, 1, 2, 3, 2, 1, 1, 3, 2, 2, 2, 5]"
+[71],"ACTTGTGTTATTGCCAATGTTCCTGCTATTGATGTTTTGAAAAAGCTTCTTTCAAGTTTGACTTTAACTG
+","[2, 4, 1, 1, 3, 1, 3, 1, 1, 2, 1, 1, 3, 4, 4, 2, 2, 1, 3, 1, 1, 4, 4, 1, 3, 4, 1, 2, 1, 1, 3, 2, 1, 3, 1, 1, 1, 1, 3, 2, 2, 2, 2, 2, 3, 4, 1, 1, 4, 1, 1, 1, 4, 2, 2, 3, 1, 1, 1, 3, 2, 4, 1, 1, 1, 2, 2, 4, 1, 3, 5]"
+[72],"TTAAATTTGTTGTAGAGAGTAATGTTATGGATGTTAACGACTGTTTTAAGAATGATAATGTAGTTTTGAA
+","[1, 1, 2, 2, 2, 1, 1, 1, 3, 1, 1, 3, 1, 2, 3, 2, 3, 2, 3, 1, 2, 2, 1, 3, 1, 1, 2, 1, 3, 3, 2, 1, 3, 1, 1, 2, 2, 4, 3, 2, 4, 1, 3, 1, 1, 1, 1, 2, 2, 3, 2, 2, 1, 3, 2, 1, 2, 2, 1, 3, 1, 2, 3, 1, 1, 1, 1, 3, 2, 2, 5]"
+[73],"AATTACTGAAGATGGTATTAATGTTAAAGATGTTGTTGTTGAGTCTTCTAAGTCACTTGGTAAACAATTG
+","[2, 2, 1, 1, 2, 4, 1, 3, 2, 2, 3, 2, 1, 3, 3, 1, 2, 1, 1, 2, 2, 1, 3, 1, 1, 2, 2, 2, 3, 2, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 2, 3, 1, 4, 1, 1, 4, 1, 2, 2, 3, 1, 4, 2, 4, 1, 1, 3, 3, 1, 2, 2, 2, 4, 2, 2, 1, 1, 3, 5]"
+[74],"GGTGTTGTGAGTGATGGTGTTGACTCTTTTGAAGGTGTTTTACCTATTAATACTGATACTGTCTTATCTG
+","[3, 3, 1, 3, 1, 1, 3, 1, 3, 2, 3, 1, 3, 2, 1, 3, 3, 1, 3, 1, 1, 3, 2, 4, 1, 4, 1, 1, 1, 1, 3, 2, 2, 3, 3, 1, 3, 1, 1, 1, 1, 2, 4, 4, 1, 2, 1, 1, 2, 2, 1, 2, 4, 1, 3, 2, 1, 2, 4, 1, 3, 1, 4, 1, 1, 2, 1, 4, 1, 3, 5]"
+[75],"TAGCTCCAGAAGTTGACTGGGTTGCTTTTTACGGTTTTGAAAAGGCAGCACTTTTTGCTTCTTTGGATGT
+","[1, 2, 3, 4, 1, 4, 4, 2, 3, 2, 2, 3, 1, 1, 3, 2, 4, 1, 3, 3, 3, 1, 1, 3, 4, 1, 1, 1, 1, 1, 2, 4, 3, 3, 1, 1, 1, 1, 3, 2, 2, 2, 2, 3, 3, 4, 2, 3, 4, 2, 4, 1, 1, 1, 1, 1, 3, 4, 1, 1, 4, 1, 1, 1, 3, 3, 2, 1, 3, 1, 5]"
+[76],"AAAGCCATATGGTTACCCTAATGATTTTGTTGGTGGTTTTAGAGTTCTTGGGACCACCGACAATAATTGT
+","[2, 2, 2, 3, 4, 4, 2, 1, 2, 1, 3, 3, 1, 1, 2, 4, 4, 4, 1, 2, 2, 1, 3, 2, 1, 1, 1, 1, 3, 1, 1, 3, 3, 1, 3, 3, 1, 1, 1, 1, 2, 3, 2, 3, 1, 1, 4, 1, 1, 3, 3, 3, 2, 4, 4, 2, 4, 4, 3, 2, 4, 2, 2, 1, 2, 2, 1, 1, 3, 1, 5]"
+[77],"TGGGTTAATGCAACTTGTATAATTTTACAGTATCTTAAGCCTACTTTTAAATCTAAGGGTTTAAATGTTC
+","[1, 3, 3, 3, 1, 1, 2, 2, 1, 3, 4, 2, 2, 4, 1, 1, 3, 1, 2, 1, 2, 2, 1, 1, 1, 1, 2, 4, 2, 3, 1, 2, 1, 4, 1, 1, 2, 2, 3, 4, 4, 1, 2, 4, 1, 1, 1, 1, 2, 2, 2, 1, 4, 1, 2, 2, 3, 3, 3, 1, 1, 1, 2, 2, 2, 1, 3, 1, 1, 4, 5]"
+[78],"TTTGGAACAAATTTGTTACAGGTGATGTTGGACCTTTTGTTAGTTTTATTTATTTTATAACTATGTCTTC
+","[1, 1, 1, 3, 3, 2, 2, 4, 2, 2, 2, 1, 1, 1, 3, 1, 1, 2, 4, 2, 3, 3, 1, 3, 2, 1, 3, 1, 1, 3, 3, 2, 4, 4, 1, 1, 1, 1, 3, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 4, 1, 2, 1, 3, 1, 4, 1, 1, 4, 5]"
+[79],"AAAGGGTCAAAAGGGTGATGCTGAAGAGGCATTATCTAAATTGTCAGAGTATTTGATTAGTGATTCTATT
+","[2, 2, 2, 3, 3, 3, 1, 4, 2, 2, 2, 2, 3, 3, 3, 1, 3, 2, 1, 3, 4, 1, 3, 2, 2, 3, 2, 3, 3, 4, 2, 1, 1, 2, 1, 4, 1, 2, 2, 2, 1, 1, 3, 1, 4, 2, 3, 2, 3, 1, 2, 1, 1, 1, 3, 2, 1, 1, 2, 3, 1, 3, 2, 1, 1, 4, 1, 2, 1, 1, 5]"
+[80],"GTTACTCTTGAACAATATTCAACTTGTGACATTTGTAAAAGTACTGTAGTTGAAGTTAAAAGTGCTATTG
+","[3, 1, 1, 2, 4, 1, 4, 1, 1, 3, 2, 2, 4, 2, 2, 1, 2, 1, 1, 4, 2, 2, 4, 1, 1, 3, 1, 3, 2, 4, 2, 1, 1, 1, 3, 1, 2, 2, 2, 2, 3, 1, 2, 4, 1, 3, 1, 2, 3, 1, 1, 3, 2, 2, 3, 1, 1, 2, 2, 2, 2, 3, 1, 3, 4, 1, 2, 1, 1, 3, 5]"
+[81],"TCTGTGCTAGTGTGCTTAAAGATGGTTGTGATGTTGGTTTTTGTCCACACAGACATAAATTGCGTTCACG
+","[1, 4, 1, 3, 1, 3, 4, 1, 2, 3, 1, 3, 1, 3, 4, 1, 1, 2, 2, 2, 3, 2, 1, 3, 3, 1, 1, 3, 1, 3, 2, 1, 3, 1, 1, 3, 3, 1, 1, 1, 1, 1, 3, 1, 4, 4, 2, 4, 2, 4, 2, 3, 2, 4, 2, 1, 2, 2, 2, 1, 1, 3, 4, 3, 1, 1, 4, 2, 4, 3, 5]"
+[82],"TGTTAAGTTTGTTAATGGACGTGTTGTTATTACCAATGTTGGTGAACCTATAATTTCACAACCTTCTAAG
+","[1, 3, 1, 1, 2, 2, 3, 1, 1, 1, 3, 1, 1, 2, 2, 1, 3, 3, 2, 4, 3, 1, 3, 1, 1, 3, 1, 1, 2, 1, 1, 2, 4, 4, 2, 2, 1, 3, 1, 1, 3, 3, 1, 3, 2, 2, 4, 4, 1, 2, 1, 2, 2, 1, 1, 1, 4, 2, 4, 2, 2, 4, 4, 1, 1, 4, 1, 2, 2, 3, 5]"
+[83],"TTGCTTAATGGTATTGCTTATACAACATTTTCAGGTTCTTTTGATAACGGTCACTATGTAGTTTATGATG
+","[1, 1, 3, 4, 1, 1, 2, 2, 1, 3, 3, 1, 2, 1, 1, 3, 4, 1, 1, 2, 1, 2, 4, 2, 2, 4, 2, 1, 1, 1, 1, 4, 2, 3, 3, 1, 1, 4, 1, 1, 1, 1, 3, 2, 1, 2, 2, 4, 3, 3, 1, 4, 2, 4, 1, 2, 1, 3, 1, 2, 3, 1, 1, 1, 2, 1, 3, 2, 1, 3, 5]"
+[84],"CTGCTAATAATGCTGTCTATGATGGTGCTCGTTTATTTTCTTCAGATTTGTCTACTTTAGCTGTTACAGC
+","[4, 1, 3, 4, 1, 2, 2, 1, 2, 2, 1, 3, 4, 1, 3, 1, 4, 1, 2, 1, 3, 2, 1, 3, 3, 1, 3, 4, 1, 4, 3, 1, 1, 1, 2, 1, 1, 1, 1, 4, 1, 1, 4, 2, 3, 2, 1, 1, 1, 3, 1, 4, 1, 2, 4, 1, 1, 1, 2, 3, 4, 1, 3, 1, 1, 2, 4, 2, 3, 4, 5]"
+[85],"TATTGTTGTAGTAGGTGGTTGTGTAACATCTAATGTTCCAACAATTGTTAGTGAGAAAATTTCTGTTATG
+","[1, 2, 1, 1, 3, 1, 1, 3, 1, 2, 3, 1, 2, 3, 3, 1, 3, 3, 1, 1, 3, 1, 3, 1, 2, 2, 4, 2, 1, 4, 1, 2, 2, 1, 3, 1, 1, 4, 4, 2, 2, 4, 2, 2, 1, 1, 3, 1, 1, 2, 3, 1, 3, 2, 3, 2, 2, 2, 2, 1, 1, 1, 4, 1, 3, 1, 1, 2, 1, 3, 5]"
+[86],"GATAAACTTGATACTGGTGCACAAAAATTTTTCCAATTTGGTGATTTTGTTATGAATAACATTGTTCTGT
+","[3, 2, 1, 2, 2, 2, 4, 1, 1, 3, 2, 1, 2, 4, 1, 3, 3, 1, 3, 4, 2, 4, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 4, 4, 2, 2, 1, 1, 1, 3, 3, 1, 3, 2, 1, 1, 1, 1, 3, 1, 1, 2, 1, 3, 2, 2, 1, 2, 2, 4, 2, 1, 1, 3, 1, 1, 4, 1, 3, 1, 5]"
+[87],"TTTTAACTTGGTTGCTTAGTATGTTTAGTCTTTTACGTACTTCTATTATGAAGCATGATATTAAAGTTAT
+","[1, 1, 1, 1, 2, 2, 4, 1, 1, 3, 3, 1, 1, 3, 4, 1, 1, 2, 3, 1, 2, 1, 3, 1, 1, 1, 2, 3, 1, 4, 1, 1, 1, 1, 2, 4, 3, 1, 2, 4, 1, 1, 4, 1, 2, 1, 1, 2, 1, 3, 2, 2, 3, 4, 2, 1, 3, 2, 1, 2, 1, 1, 2, 2, 2, 3, 1, 1, 2, 1, 5]"
+[88],"TGCCAAGGCTCCTAAACGTACAGGTGTTATTTTGACACGTAGTTTTAAGTATAACATTAGATCTGCTTTG
+","[1, 3, 4, 4, 2, 2, 3, 3, 4, 1, 4, 4, 1, 2, 2, 2, 4, 3, 1, 2, 4, 2, 3, 3, 1, 3, 1, 1, 2, 1, 1, 1, 1, 3, 2, 4, 2, 4, 3, 1, 2, 3, 1, 1, 1, 1, 2, 2, 3, 1, 2, 1, 2, 2, 4, 2, 1, 1, 2, 3, 2, 1, 4, 1, 3, 4, 1, 1, 1, 3, 5]"
+[89],"TTTGTTATAAAGCAGAAGTGGTGTGTTATTGTTACTTTGTTTAAGTTCTTATTATTATTATATGCTATTT
+","[1, 1, 1, 3, 1, 1, 2, 1, 2, 2, 2, 3, 4, 2, 3, 2, 2, 3, 1, 3, 3, 1, 3, 1, 3, 1, 1, 2, 1, 1, 3, 1, 1, 2, 4, 1, 1, 1, 3, 1, 1, 1, 2, 2, 3, 1, 1, 4, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 3, 4, 1, 2, 1, 1, 1, 5]"
+[90],"ATGCACTTGTTTTTATGATTGTGCAATTTAGTCCTTTTAATAGTCTTTTATGTGGTGACATTGTAAGTGG
+","[2, 1, 3, 4, 2, 4, 1, 1, 3, 1, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 3, 1, 3, 4, 2, 2, 1, 1, 1, 2, 3, 1, 4, 4, 1, 1, 1, 1, 2, 2, 1, 2, 3, 1, 4, 1, 1, 1, 1, 2, 1, 3, 1, 3, 3, 1, 3, 2, 4, 2, 1, 1, 3, 1, 2, 2, 3, 1, 3, 3, 5]"
+[91],"TTATGAAAAATCCACTTTTAATAAGGATATTTATTGTGGTAATTCTATGGTTTGTAAGATGTGTTTGTTC
+","[1, 1, 2, 1, 3, 2, 2, 2, 2, 2, 1, 4, 4, 2, 4, 1, 1, 1, 1, 2, 2, 1, 2, 2, 3, 3, 2, 1, 2, 1, 1, 1, 2, 1, 1, 3, 1, 3, 3, 1, 2, 2, 1, 1, 4, 1, 2, 1, 3, 3, 1, 1, 1, 3, 1, 2, 2, 3, 2, 1, 3, 1, 3, 1, 1, 1, 3, 1, 1, 4, 5]"
+[92],"AGTTATCAAGAGTTTAATGATTTGGATCATACTAGTCTTGTTTGGAAGCACATTCGTGATCCTATATTAA
+","[2, 3, 1, 1, 2, 1, 4, 2, 2, 3, 2, 3, 1, 1, 1, 2, 2, 1, 3, 2, 1, 1, 1, 3, 3, 2, 1, 4, 2, 1, 2, 4, 1, 2, 3, 1, 4, 1, 1, 3, 1, 1, 1, 3, 3, 2, 2, 3, 4, 2, 4, 2, 1, 1, 4, 3, 1, 3, 2, 1, 4, 4, 1, 2, 1, 2, 1, 1, 2, 2, 5]"
+[93],"TCAGTTTACAACCATTTGTTATACTTGTTATTTTGTTAATTTTTGGTAATATGTATTTGCGTTTTGGACT
+","[1, 4, 2, 3, 1, 1, 1, 2, 4, 2, 2, 4, 4, 2, 1, 1, 1, 3, 1, 1, 2, 1, 2, 4, 1, 1, 3, 1, 1, 2, 1, 1, 1, 1, 3, 1, 1, 2, 2, 1, 1, 1, 1, 1, 3, 3, 1, 2, 2, 1, 2, 1, 3, 1, 2, 1, 1, 1, 3, 4, 3, 1, 1, 1, 1, 3, 3, 2, 4, 1, 5]"
+[94],"TTTATATTTTGTTGCACAATTTATTAGTACTTTTGGTTCTTTCTTAGGCTTTCATCAGAAACAGTGGTTT
+","[1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 3, 1, 1, 3, 4, 2, 4, 2, 2, 1, 1, 1, 2, 1, 1, 2, 3, 1, 2, 4, 1, 1, 1, 1, 3, 3, 1, 1, 4, 1, 1, 1, 4, 1, 1, 2, 3, 3, 4, 1, 1, 1, 4, 2, 1, 4, 2, 3, 2, 2, 2, 4, 2, 3, 1, 3, 3, 1, 1, 1, 5]"
+[95],"TTACATTTTGTGCCGTTTGATGTTTTATGTAATGAGTTTTTAGCTACATTTATTGTCTGCAAAATCGTTT
+","[1, 1, 2, 4, 2, 1, 1, 1, 1, 3, 1, 3, 4, 4, 3, 1, 1, 1, 3, 2, 1, 3, 1, 1, 1, 1, 2, 1, 3, 1, 2, 2, 1, 3, 2, 3, 1, 1, 1, 1, 1, 2, 3, 4, 1, 2, 4, 2, 1, 1, 1, 2, 1, 1, 3, 1, 4, 1, 3, 4, 2, 2, 2, 2, 1, 4, 3, 1, 1, 1, 5]"
+[96],"TATTTGTTAGACATATTATTGTTGGCTGTAATAATGCTGACTGTGTAGCTTGTTCTAAAAGTGCTAGACT
+","[1, 2, 1, 1, 1, 3, 1, 1, 2, 3, 2, 4, 2, 1, 2, 1, 1, 2, 1, 1, 3, 1, 1, 3, 3, 4, 1, 3, 1, 2, 2, 1, 2, 2, 1, 3, 4, 1, 3, 2, 4, 1, 3, 1, 3, 1, 2, 3, 4, 1, 1, 3, 1, 1, 4, 1, 2, 2, 2, 2, 3, 1, 3, 4, 1, 2, 3, 2, 4, 1, 5]"
+[97],"TAAACGTGTACCACTTCAAACTATTATTAATGGTATGCATAAATCATTCTATGTTAATGCTAATGGTGGT
+","[1, 2, 2, 2, 4, 3, 1, 3, 1, 2, 4, 4, 2, 4, 1, 1, 4, 2, 2, 2, 4, 1, 2, 1, 1, 2, 1, 1, 2, 2, 1, 3, 3, 1, 2, 1, 3, 4, 2, 1, 2, 2, 2, 1, 4, 2, 1, 1, 4, 1, 2, 1, 3, 1, 1, 2, 2, 1, 3, 4, 1, 2, 2, 1, 3, 3, 1, 3, 3, 1, 5]"
+[98],"ACTTGTTTCTGTAATAAACATAACTTCTTTTGTGTTAATTGTGATTCTTTTGGGCCTGGTAATACTTTTA
+","[2, 4, 1, 1, 3, 1, 1, 1, 4, 1, 3, 1, 2, 2, 1, 2, 2, 2, 4, 2, 1, 2, 2, 4, 1, 1, 4, 1, 1, 1, 1, 3, 1, 3, 1, 1, 2, 2, 1, 1, 3, 1, 3, 2, 1, 1, 4, 1, 1, 1, 1, 3, 3, 3, 4, 4, 1, 3, 3, 1, 2, 2, 1, 2, 4, 1, 1, 1, 1, 2, 5]"
+[99],"TTAATGGTGATATTGCAAGAGAGCTTGGTAATGTTGTTAAAACAGCTGTTCAACCCACAGCTCCTGCATA
+","[1, 1, 2, 2, 1, 3, 3, 1, 3, 2, 1, 2, 1, 1, 3, 4, 2, 2, 3, 2, 3, 2, 3, 4, 1, 1, 3, 3, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 2, 2, 2, 2, 4, 2, 3, 4, 1, 3, 1, 1, 4, 2, 2, 4, 4, 4, 2, 4, 2, 3, 4, 1, 4, 4, 1, 3, 4, 2, 1, 2, 5]"
+[100],"TGTTATTATTGATAAGGTAGATTTTGTTAATGGATTTTATCGTCTTTATAGTGGTGACACTTTTTGGCGG
+","[1, 3, 1, 1, 2, 1, 1, 2, 1, 1, 3, 2, 1, 2, 2, 3, 3, 1, 2, 3, 2, 1, 1, 1, 1, 3, 1, 1, 2, 2, 1, 3, 3, 2, 1, 1, 1, 1, 2, 1, 4, 3, 1, 4, 1, 1, 1, 2, 1, 2, 3, 1, 3, 3, 1, 3, 2, 4, 2, 4, 1, 1, 1, 1, 1, 3, 3, 4, 3, 3, 5]"
+[101],"TATGACTTTGACATTACTGAATCTAAGTATAGTTGTAAAGAGGTTCTGAAGAATTGTAATGTTTTAGAAA
+","[1, 2, 1, 3, 2, 4, 1, 1, 1, 3, 2, 4, 2, 1, 1, 2, 4, 1, 3, 2, 2, 1, 4, 1, 2, 2, 3, 1, 2, 1, 2, 3, 1, 1, 3, 1, 2, 2, 2, 3, 2, 3, 3, 1, 1, 4, 1, 3, 2, 2, 3, 2, 2, 1, 1, 3, 1, 2, 2, 1, 3, 1, 1, 1, 1, 2, 3, 2, 2, 2, 5]"
+[102],"ATTTTATTGTTTACAATAATAGTGGTAGTAACATTACACAGATTAAAAATGCTTGTGTTTATTTTTCTCA
+","[2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 2, 4, 2, 2, 1, 2, 2, 1, 2, 3, 1, 3, 3, 1, 2, 3, 1, 2, 2, 4, 2, 1, 1, 2, 4, 2, 4, 2, 3, 2, 1, 1, 2, 2, 2, 2, 2, 1, 3, 4, 1, 1, 3, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 4, 1, 4, 2, 5]"
+[103],"ATTGTTGTGTGAACCTATAAAGTTGGTAAATTCAGAGTTGTTGTCAACTTTATCTGTTGATTTTAATGGT
+","[2, 1, 1, 3, 1, 1, 3, 1, 3, 1, 3, 2, 2, 4, 4, 1, 2, 1, 2, 2, 2, 3, 1, 1, 3, 3, 1, 2, 2, 2, 1, 1, 4, 2, 3, 2, 3, 1, 1, 3, 1, 1, 3, 1, 4, 2, 2, 4, 1, 1, 1, 2, 1, 4, 1, 3, 1, 1, 3, 2, 1, 1, 1, 1, 2, 2, 1, 3, 3, 1, 5]"
+[104],"GTTTTGCATAAGGCATATGTTGATGTTTTGTGTAATAGTTTTTTTAAGGAGTTAACTGCTAACATGTCCA
+","[3, 1, 1, 1, 1, 3, 4, 2, 1, 2, 2, 3, 3, 4, 2, 1, 2, 1, 3, 1, 1, 3, 2, 1, 3, 1, 1, 1, 1, 3, 1, 3, 1, 2, 2, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 2, 3, 1, 1, 2, 2, 4, 1, 3, 4, 1, 2, 2, 4, 2, 1, 3, 1, 4, 4, 2, 5]"
+[105],"TGGCTGAATGTAAAGCTACACTTGGTTTGACTGTTTCTGATGATGATTTTGTTTCAGCTGTTGCCAATGC
+","[1, 3, 3, 4, 1, 3, 2, 2, 1, 3, 1, 2, 2, 2, 3, 4, 1, 2, 4, 2, 4, 1, 1, 3, 3, 1, 1, 1, 3, 2, 4, 1, 3, 1, 1, 1, 4, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 1, 1, 1, 3, 1, 1, 1, 4, 2, 3, 4, 1, 3, 1, 1, 3, 4, 4, 2, 2, 1, 3, 4, 5]"
+[106],"ACATAGGTATGACGTTTTGCTTTCAGATTTGTCATTTAATAATTTTTTTATTTCTTATGCTAAACCTGAA
+","[2, 4, 2, 1, 2, 3, 3, 1, 2, 1, 3, 2, 4, 3, 1, 1, 1, 1, 3, 4, 1, 1, 1, 4, 2, 3, 2, 1, 1, 1, 3, 1, 4, 2, 1, 1, 1, 2, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 4, 1, 1, 2, 1, 3, 4, 1, 2, 2, 2, 4, 4, 1, 3, 2, 2, 5]"
+[107],"GATAAGTTGTCCGTTTATGACATTGCTTGTTGTATGCGTGCCGGTTCTAAGGTTGTTAACCATAATGTTT
+","[3, 2, 1, 2, 2, 3, 1, 1, 3, 1, 4, 4, 3, 1, 1, 1, 2, 1, 3, 2, 4, 2, 1, 1, 3, 4, 1, 1, 3, 1, 1, 3, 1, 2, 1, 3, 4, 3, 1, 3, 4, 4, 3, 3, 1, 1, 4, 1, 2, 2, 3, 3, 1, 1, 3, 1, 1, 2, 2, 4, 4, 2, 1, 2, 2, 1, 3, 1, 1, 1, 5]"
+[108],"TAATTAAAGAGTCAATACCTATTGTTTGGGGTGTCAAGGACTTTAATACTCTTTCTCAAGAAGGTAAGAA
+","[1, 2, 2, 1, 1, 2, 2, 2, 3, 2, 3, 1, 4, 2, 2, 1, 2, 4, 4, 1, 2, 1, 1, 3, 1, 1, 1, 3, 3, 3, 3, 1, 3, 1, 4, 2, 2, 3, 3, 2, 4, 1, 1, 1, 2, 2, 1, 2, 4, 1, 4, 1, 1, 1, 4, 1, 4, 2, 2, 3, 2, 2, 3, 3, 1, 2, 2, 3, 2, 2, 5]"
+[109],"GTACCTTGTTAAAACAACTAAAGCAAAGGGTTTGACTTTTTTATTAACTTTTAATGATAACCAAGCAATT
+","[3, 1, 2, 4, 4, 1, 1, 3, 1, 1, 2, 2, 2, 2, 4, 2, 2, 4, 1, 2, 2, 2, 3, 4, 2, 2, 2, 3, 3, 3, 1, 1, 1, 3, 2, 4, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 4, 1, 1, 1, 1, 2, 2, 1, 3, 2, 1, 2, 2, 4, 4, 2, 2, 3, 4, 2, 2, 1, 1, 5]"
+[110],"ACACAAGTTCCTGCTACTAGTATAGTTGCAAAACAGGGTGCTGGTTTTAAACGTACTTATAATTTTCTGT
+","[2, 4, 2, 4, 2, 2, 3, 1, 1, 4, 4, 1, 3, 4, 1, 2, 4, 1, 2, 3, 1, 2, 1, 2, 3, 1, 1, 3, 4, 2, 2, 2, 2, 4, 2, 3, 3, 3, 1, 3, 4, 1, 3, 3, 1, 1, 1, 1, 2, 2, 2, 4, 3, 1, 2, 4, 1, 1, 2, 1, 2, 2, 1, 1, 1, 1, 4, 1, 3, 1, 5]"
+[111],"GGTATGTATGTTTATTTGTTGTTGCATTGTTTATTGGTGTCTCATTTATTGATTATACAACCACTGTAAC
+","[3, 3, 1, 2, 1, 3, 1, 2, 1, 3, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 3, 1, 1, 3, 4, 2, 1, 1, 3, 1, 1, 1, 2, 1, 1, 3, 3, 1, 3, 1, 4, 1, 4, 2, 1, 1, 1, 2, 1, 1, 3, 2, 1, 1, 2, 1, 2, 4, 2, 2, 4, 4, 2, 4, 1, 3, 1, 2, 2, 4, 5]"
+[112],"TAGCTTTCATGGTTATGATTTTAAGTACATTGAGAATGGTCAGTTGAAGGTGTTTGAAGCACCTTTACAC
+","[1, 2, 3, 4, 1, 1, 1, 4, 2, 1, 3, 3, 1, 1, 2, 1, 3, 2, 1, 1, 1, 1, 2, 2, 3, 1, 2, 4, 2, 1, 1, 3, 2, 3, 2, 2, 1, 3, 3, 1, 4, 2, 3, 1, 1, 3, 2, 2, 3, 3, 1, 3, 1, 1, 1, 3, 2, 2, 3, 4, 2, 4, 4, 1, 1, 1, 2, 4, 2, 4, 5]"
+[113],"TGTGTTCGTAATGTTTTTGATAATTTTAATCAATGGCATGAGGCTAAGTTTGGTGTTGTTACTACTAATA
+","[1, 3, 1, 3, 1, 1, 4, 3, 1, 2, 2, 1, 3, 1, 1, 1, 1, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 4, 2, 2, 1, 3, 3, 4, 2, 1, 3, 2, 3, 3, 4, 1, 2, 2, 3, 1, 1, 1, 3, 3, 1, 3, 1, 1, 3, 1, 1, 2, 4, 1, 2, 4, 1, 2, 2, 1, 2, 5]"
+[114],"GTGATAAATGTCCTATAGTTGTTGGTGTTTCAGAGCGTATTAATGTTGTTCCTGGTGTTCCAACAAATGT
+","[3, 1, 3, 2, 1, 2, 2, 2, 1, 3, 1, 4, 4, 1, 2, 1, 2, 3, 1, 1, 3, 1, 1, 3, 3, 1, 3, 1, 1, 1, 4, 2, 3, 2, 3, 4, 3, 1, 2, 1, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 4, 4, 1, 3, 3, 1, 3, 1, 1, 4, 4, 2, 2, 4, 2, 2, 2, 1, 3, 1, 5]"
+[115],"ATATTTGGTAGGAAAGACTCTTGTTTTTACATTACAGGCTGCTTTTGGAAACACAGGTGTTTGTTATGAC
+","[2, 1, 2, 1, 1, 1, 3, 3, 1, 2, 3, 3, 2, 2, 2, 3, 2, 4, 1, 4, 1, 1, 3, 1, 1, 1, 1, 1, 2, 4, 2, 1, 1, 2, 4, 2, 3, 3, 4, 1, 3, 4, 1, 1, 1, 1, 3, 3, 2, 2, 2, 4, 2, 4, 2, 3, 3, 1, 3, 1, 1, 1, 3, 1, 1, 2, 1, 3, 2, 4, 5]"
+[116],"TTTGATGGTGTTACCACTAGTGATAAGTGTATTTTTAATTCTGCTTGTACTAGGTTGGAAGGTTTGGGTG
+","[1, 1, 1, 3, 2, 1, 3, 3, 1, 3, 1, 1, 2, 4, 4, 2, 4, 1, 2, 3, 1, 3, 2, 1, 2, 2, 3, 1, 3, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 4, 1, 3, 4, 1, 1, 3, 1, 2, 4, 1, 2, 3, 3, 1, 1, 3, 3, 2, 2, 3, 3, 1, 1, 1, 3, 3, 3, 1, 3, 5]"
+[117],"GTGACAATGTTTATTGTTACAACACTGATCTTATTGAAGGTTCTAAACCTTATAGTACTTTACAGCCCAA
+","[3, 1, 3, 2, 4, 2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 3, 1, 1, 2, 4, 2, 2, 4, 2, 4, 1, 3, 2, 1, 4, 1, 1, 2, 1, 1, 3, 2, 2, 3, 3, 1, 1, 4, 1, 2, 2, 2, 4, 4, 1, 1, 2, 1, 2, 3, 1, 2, 4, 1, 1, 1, 2, 4, 2, 3, 4, 4, 4, 2, 2, 5]"
+[118],"TGCGTATTATAAGTATGATGCTAAAAATTATGTACGTTTTCCAGAAATTTTAGCTAGAGGTTTTGGCTTA
+","[1, 3, 4, 3, 1, 2, 1, 1, 2, 1, 2, 2, 3, 1, 2, 1, 3, 2, 1, 3, 4, 1, 2, 2, 2, 2, 2, 1, 1, 2, 1, 3, 1, 2, 4, 3, 1, 1, 1, 1, 4, 4, 2, 3, 2, 2, 2, 1, 1, 1, 1, 2, 3, 4, 1, 2, 3, 2, 3, 3, 1, 1, 1, 1, 3, 3, 4, 1, 1, 2, 5]"
+[119],"CGTACTATTAGAACTTTGGCTACACGTTATTGTAGAGTTGGTGAATGCCGTGACTCACATAAAGGTGTTT
+","[4, 3, 1, 2, 4, 1, 2, 1, 1, 2, 3, 2, 2, 4, 1, 1, 1, 3, 3, 4, 1, 2, 4, 2, 4, 3, 1, 1, 2, 1, 1, 3, 1, 2, 3, 2, 3, 1, 1, 3, 3, 1, 3, 2, 2, 1, 3, 4, 4, 3, 1, 3, 2, 4, 1, 4, 2, 4, 2, 1, 2, 2, 2, 3, 3, 1, 3, 1, 1, 1, 5]"
+[120],"GTTTTGGTTTTGATAAATGGTATGTTAATGATGGACGTGTTGATGACGGTTACATTTGTGGTGATGGTCT
+","[3, 1, 1, 1, 1, 3, 3, 1, 1, 1, 1, 3, 2, 1, 2, 2, 2, 1, 3, 3, 1, 2, 1, 3, 1, 1, 2, 2, 1, 3, 2, 1, 3, 3, 2, 4, 3, 1, 3, 1, 1, 3, 2, 1, 3, 2, 4, 3, 3, 1, 1, 2, 4, 2, 1, 1, 1, 3, 1, 3, 3, 1, 3, 2, 1, 3, 3, 1, 4, 1, 5]"
+[121],"TATAGACCTTCTTGTTAATGTACTCTCAATCTTTAGTTCATCTTTTAGCGTTGTGGCTATGTCTGGACAT
+","[1, 2, 1, 2, 3, 2, 4, 4, 1, 1, 4, 1, 1, 3, 1, 1, 2, 2, 1, 3, 1, 2, 4, 1, 4, 1, 4, 2, 2, 1, 4, 1, 1, 1, 2, 3, 1, 1, 4, 2, 1, 4, 1, 1, 1, 1, 2, 3, 4, 3, 1, 1, 3, 1, 3, 3, 4, 1, 2, 1, 3, 1, 4, 1, 3, 3, 2, 4, 2, 1, 5]"
+[122],"ATGTTGTTTAATTTTCTTTTTGCAGCATTTATTACATTTTTGTGCTTTTTAGTTACTAAATTTAAACGTG
+","[2, 1, 3, 1, 1, 3, 1, 1, 1, 2, 2, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 3, 4, 2, 3, 4, 2, 1, 1, 1, 2, 1, 1, 2, 4, 2, 1, 1, 1, 1, 1, 3, 1, 3, 4, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2, 4, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 4, 3, 1, 3, 5]"
+[123],"TTTTTGGTGATCTTTCTTATGGTGTTTTTACTGTTGTTTGTGCAACTTTGATTAATAACATTTCTTATGT
+","[1, 1, 1, 1, 1, 3, 3, 1, 3, 2, 1, 4, 1, 1, 1, 4, 1, 1, 2, 1, 3, 3, 1, 3, 1, 1, 1, 1, 1, 2, 4, 1, 3, 1, 1, 3, 1, 1, 1, 3, 1, 3, 4, 2, 2, 4, 1, 1, 1, 3, 2, 1, 1, 2, 2, 1, 2, 2, 4, 2, 1, 1, 1, 4, 1, 1, 2, 1, 3, 1, 5]"
+[124],"TGTTACTCAAAATTTATTTTTTATGTTGCTTTATGCTATTTTGTATTTTGTTTTTACTAGGACAGTGCGT
+","[1, 3, 1, 1, 2, 4, 1, 4, 2, 2, 2, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 3, 4, 1, 1, 1, 2, 1, 3, 4, 1, 2, 1, 1, 1, 1, 3, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 2, 4, 1, 2, 3, 3, 2, 4, 2, 3, 1, 3, 4, 3, 1, 5]"
+[125],"TATGCTTGGATTTGGCATATTGCATACATTGTTGCATACTTCTTGTTAATACCATGGTGGCTTCTCACAT
+","[1, 2, 1, 3, 4, 1, 1, 3, 3, 2, 1, 1, 1, 3, 3, 4, 2, 1, 2, 1, 1, 3, 4, 2, 1, 2, 4, 2, 1, 1, 3, 1, 1, 3, 4, 2, 1, 2, 4, 1, 1, 4, 1, 1, 3, 1, 1, 2, 2, 1, 2, 4, 4, 2, 1, 3, 3, 1, 3, 3, 4, 1, 1, 4, 1, 4, 2, 4, 2, 1, 5]"
+[126],"GGTTTAGTTTTGCTGCATTTTTAGAGCTTTTACCTAATGTTTTTAAGTTAAAAATCTCTACTCAATTGTT
+","[3, 3, 1, 1, 1, 2, 3, 1, 1, 1, 1, 3, 4, 1, 3, 4, 2, 1, 1, 1, 1, 1, 2, 3, 2, 3, 4, 1, 1, 1, 1, 2, 4, 4, 1, 2, 2, 1, 3, 1, 1, 1, 1, 1, 2, 2, 3, 1, 1, 2, 2, 2, 2, 2, 1, 4, 1, 4, 1, 2, 4, 1, 4, 2, 2, 1, 1, 3, 1, 1, 5]"
+[127],"TGAAGGTGATAAGTTTATAGGTACTTTTGAGAGTGCTGCTGCAGGTACATTTGTTCTTGACATGCGTTCT
+","[1, 3, 2, 2, 3, 3, 1, 3, 2, 1, 2, 2, 3, 1, 1, 1, 2, 1, 2, 3, 3, 1, 2, 4, 1, 1, 1, 1, 3, 2, 3, 2, 3, 1, 3, 4, 1, 3, 4, 1, 3, 4, 2, 3, 3, 1, 2, 4, 2, 1, 1, 1, 3, 1, 1, 4, 1, 1, 3, 2, 4, 2, 1, 3, 4, 3, 1, 1, 4, 1, 5]"
+[128],"TATGAAAGGCTGATAAATACTATTTCACCTGAGAAACTTAAGAATTATGCTGCAAGTTATAATAAATATA
+","[1, 2, 1, 3, 2, 2, 2, 3, 3, 4, 1, 3, 2, 1, 2, 2, 2, 1, 2, 4, 1, 2, 1, 1, 1, 4, 2, 4, 4, 1, 3, 2, 3, 2, 2, 2, 4, 1, 1, 2, 2, 3, 2, 2, 1, 1, 2, 1, 3, 4, 1, 3, 4, 2, 2, 3, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2, 5]"
+[129],"AATATTATAGTGGTAGTGCTAGTGAGGCTGATTATCGTTGTGCTTGTTATGCTCATTTAGCCAAGGCTAT
+","[2, 2, 1, 2, 1, 1, 2, 1, 2, 3, 1, 3, 3, 1, 2, 3, 1, 3, 4, 1, 2, 3, 1, 3, 2, 3, 3, 4, 1, 3, 2, 1, 1, 2, 1, 4, 3, 1, 1, 3, 1, 3, 4, 1, 1, 3, 1, 1, 2, 1, 3, 4, 1, 4, 2, 1, 1, 1, 2, 3, 4, 4, 2, 2, 3, 3, 4, 1, 2, 1, 5]"
+[130],"GTTAGATTATGCAAAAGATCATAATGACATGTTATATTCTCCACCTACTATTAGCTACAATTCCACCTTA
+","[3, 1, 1, 2, 3, 2, 1, 1, 2, 1, 3, 4, 2, 2, 2, 2, 3, 2, 1, 4, 2, 1, 2, 2, 1, 3, 2, 4, 2, 1, 3, 1, 1, 2, 1, 2, 1, 1, 4, 1, 4, 4, 2, 4, 4, 1, 2, 4, 1, 2, 1, 1, 2, 3, 4, 1, 2, 4, 2, 2, 1, 1, 4, 4, 2, 4, 4, 1, 1, 2, 5]"
+[131],"CAATCTGGTCTTAAGAAGATGGCACAACCATCTGGTTGTGTTGAGAGATGTGTGGTTCGCGTCTGTTATG
+","[4, 2, 2, 1, 4, 1, 3, 3, 1, 4, 1, 1, 2, 2, 3, 2, 2, 3, 2, 1, 3, 3, 4, 2, 4, 2, 2, 4, 4, 2, 1, 4, 1, 3, 3, 1, 1, 3, 1, 3, 1, 1, 3, 2, 3, 2, 3, 2, 1, 3, 1, 3, 1, 3, 3, 1, 1, 4, 3, 4, 3, 1, 4, 1, 3, 1, 1, 2, 1, 3, 5]"
+[132],"GTAGTACTGTGCTTAATGGAGTTTGGTTAGGTGACACTGTTACTTGTCCTAGACATGTCATAGCACCATC
+","[3, 1, 2, 3, 1, 2, 4, 1, 3, 1, 3, 4, 1, 1, 2, 2, 1, 3, 3, 2, 3, 1, 1, 1, 3, 3, 1, 1, 2, 3, 3, 1, 3, 2, 4, 2, 4, 1, 3, 1, 1, 2, 4, 1, 1, 3, 1, 4, 4, 1, 2, 3, 2, 4, 2, 1, 3, 1, 4, 2, 1, 2, 3, 4, 2, 4, 4, 2, 1, 4, 5]"
+[133],"AACCACTGTTCTTATTGATTATGATCATGCATATAGTACTATGCGTTTGCATAATTTTTCAGTGTCTCAT
+","[2, 2, 4, 4, 2, 4, 1, 3, 1, 1, 4, 1, 1, 2, 1, 1, 3, 2, 1, 1, 2, 1, 3, 2, 1, 4, 2, 1, 3, 4, 2, 1, 2, 1, 2, 3, 1, 2, 4, 1, 2, 1, 3, 4, 3, 1, 1, 1, 3, 4, 2, 1, 2, 2, 1, 1, 1, 1, 1, 4, 2, 3, 1, 3, 1, 4, 1, 4, 2, 1, 5]"
+[134],"AATGGTGTCTTCTTGGGAGTTGTCGGTGTTACAATGCATGGTTCTGTGTTGCGTATTAAGGTTTCACAAT
+","[2, 2, 1, 3, 3, 1, 3, 1, 4, 1, 1, 4, 1, 1, 3, 3, 3, 2, 3, 1, 1, 3, 1, 4, 3, 3, 1, 3, 1, 1, 2, 4, 2, 2, 1, 3, 4, 2, 1, 3, 3, 1, 1, 4, 1, 3, 1, 3, 1, 1, 3, 4, 3, 1, 2, 1, 1, 2, 2, 3, 3, 1, 1, 1, 4, 2, 4, 2, 2, 1, 5]"
+[135],"CTAATGTACATACACCTAAACATGTTTTTAAAACGTTGAAACCTGGTGATTCTTTTAATATTTTAGCATG
+","[4, 1, 2, 2, 1, 3, 1, 2, 4, 2, 1, 2, 4, 2, 4, 4, 1, 2, 2, 2, 4, 2, 1, 3, 1, 1, 1, 1, 1, 2, 2, 2, 2, 4, 3, 1, 1, 3, 2, 2, 2, 4, 4, 1, 3, 3, 1, 3, 2, 1, 1, 4, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 2, 3, 4, 2, 1, 3, 5]"
+[136],"TTATGAAGGTATTGCATCTGGTGTTTTTGGTGTTAATTTACGTACAAACTTTACTATTAAAGGTTCTTTT
+","[1, 1, 2, 1, 3, 2, 2, 3, 3, 1, 2, 1, 1, 3, 4, 2, 1, 4, 1, 3, 3, 1, 3, 1, 1, 1, 1, 1, 3, 3, 1, 3, 1, 1, 2, 2, 1, 1, 1, 2, 4, 3, 1, 2, 4, 2, 2, 2, 4, 1, 1, 1, 2, 4, 1, 2, 1, 1, 2, 2, 2, 3, 3, 1, 1, 4, 1, 1, 1, 1, 5]"
+[137],"ATAAATGGAGCTTGTGGTTCTCCTGGTTATAATGTTAGAAATGATGGTACTGTTGAGTTTTGTTATTTAC
+","[2, 1, 2, 2, 2, 1, 3, 3, 2, 3, 4, 1, 1, 3, 1, 3, 3, 1, 1, 4, 1, 4, 4, 1, 3, 3, 1, 1, 2, 1, 2, 2, 1, 3, 1, 1, 2, 3, 2, 2, 2, 1, 3, 2, 1, 3, 3, 1, 2, 4, 1, 3, 1, 1, 3, 2, 3, 1, 1, 1, 1, 3, 1, 1, 2, 1, 1, 1, 2, 4, 5]"
+[138],"ACCAAATTGAGTTAGGTAGTGGTGCTCATGTTGGTTCTGATTTTACTGGTAGTGTTTATGGTAATTTTGA
+","[2, 4, 4, 2, 2, 2, 1, 1, 3, 2, 3, 1, 1, 2, 3, 3, 1, 2, 3, 1, 3, 3, 1, 3, 4, 1, 4, 2, 1, 3, 1, 1, 3, 3, 1, 1, 4, 1, 3, 2, 1, 1, 1, 1, 2, 4, 1, 3, 3, 1, 2, 3, 1, 3, 1, 1, 1, 2, 1, 3, 3, 1, 2, 2, 1, 1, 1, 1, 3, 2, 5]"
+[139],"TGACCAACCTAGTTTGCAAGTTGAGAGTGCCAACCTTATGCTATCAGATAATGTTGTTGCCTTTTTGTAT
+","[1, 3, 2, 4, 4, 2, 2, 4, 4, 1, 2, 3, 1, 1, 1, 3, 4, 2, 2, 3, 1, 1, 3, 2, 3, 2, 3, 1, 3, 4, 4, 2, 2, 4, 4, 1, 1, 2, 1, 3, 4, 1, 2, 1, 4, 2, 3, 2, 1, 2, 2, 1, 3, 1, 1, 3, 1, 1, 3, 4, 4, 1, 1, 1, 1, 1, 3, 1, 2, 1, 5]"
+[140],"GCTGCTTTGTTGAATGGTTGTAGGTGGTGGTTGTGTTCAACTAGAGTTAATGTTGATGGTTTTAATGAAT
+","[3, 4, 1, 3, 4, 1, 1, 1, 3, 1, 1, 3, 2, 2, 1, 3, 3, 1, 1, 3, 1, 2, 3, 3, 1, 3, 3, 1, 3, 3, 1, 1, 3, 1, 3, 1, 1, 4, 2, 2, 4, 1, 2, 3, 2, 3, 1, 1, 2, 2, 1, 3, 1, 1, 3, 2, 1, 3, 3, 1, 1, 1, 1, 2, 2, 1, 3, 2, 2, 1, 5]"
+[141],"GGGCTATGGCTAATGGTTATACAAGTGTTTCTAGTGTTGAGTGCTATTCTATTTTGGCAGCAAAAACTGG
+","[3, 3, 3, 4, 1, 2, 1, 3, 3, 4, 1, 2, 2, 1, 3, 3, 1, 1, 2, 1, 2, 4, 2, 2, 3, 1, 3, 1, 1, 1, 4, 1, 2, 3, 1, 3, 1, 1, 3, 2, 3, 1, 3, 4, 1, 2, 1, 1, 4, 1, 2, 1, 1, 1, 1, 3, 3, 4, 2, 3, 4, 2, 2, 2, 2, 2, 4, 1, 3, 3, 5]"
+[142],"TGTTAGTGTTGAACAATTGTTAGCTTCCATTCAACATCTTCATGAAGGTTTTGGTGGTAAAAACATACTT
+","[1, 3, 1, 1, 2, 3, 1, 3, 1, 1, 3, 2, 2, 4, 2, 2, 1, 1, 3, 1, 1, 2, 3, 4, 1, 1, 4, 4, 2, 1, 1, 4, 2, 2, 4, 2, 1, 4, 1, 1, 4, 2, 1, 3, 2, 2, 3, 3, 1, 1, 1, 1, 3, 3, 1, 3, 3, 1, 2, 2, 2, 2, 2, 4, 2, 1, 2, 4, 1, 1, 5]"
+[143],"GGTTATTCTAGTTTATGTGATGAGTTCACACTAGCTGAAGTTGTGAAGCAGATGTATGGTGTTAACTTGC
+","[3, 3, 1, 1, 2, 1, 1, 4, 1, 2, 3, 1, 1, 1, 2, 1, 3, 1, 3, 2, 1, 3, 2, 3, 1, 1, 4, 2, 4, 2, 4, 1, 2, 3, 4, 1, 3, 2, 2, 3, 1, 1, 3, 1, 3, 2, 2, 3, 4, 2, 3, 2, 1, 3, 1, 2, 1, 3, 3, 1, 3, 1, 1, 2, 2, 4, 1, 1, 3, 4, 5]"
+[144],"AAAGTGGTAAGGTTATTTTTGGTTTAAAAACAATGTTTTTATTTAGCGTTTTCTTCACAATGTTTTGGGC
+","[2, 2, 2, 3, 1, 3, 3, 1, 2, 2, 3, 3, 1, 1, 2, 1, 1, 1, 1, 1, 3, 3, 1, 1, 1, 2, 2, 2, 2, 2, 4, 2, 2, 1, 3, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 3, 4, 3, 1, 1, 1, 1, 4, 1, 1, 4, 2, 4, 2, 2, 1, 3, 1, 1, 1, 1, 3, 3, 3, 4, 5]"
+[145],"AGAACTCTTTATTTATACAAACACTATATGGATAAACCCTGTGATACTTACACCTATATTTTGTCTACTT
+","[2, 3, 2, 2, 4, 1, 4, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2, 4, 2, 2, 2, 4, 2, 4, 1, 2, 1, 2, 1, 3, 3, 2, 1, 2, 2, 2, 4, 4, 4, 1, 3, 1, 3, 2, 1, 2, 4, 1, 1, 2, 4, 2, 4, 4, 1, 2, 1, 2, 1, 1, 1, 1, 3, 1, 4, 1, 2, 4, 1, 1, 5]"
+[146],"TTGTTTTTGTCATTAGTTTTAACTATGTTTCTTAAACATAAGTTTTTGTTTTTGCAAGTATTTTTATTAC
+","[1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 4, 2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 2, 4, 1, 2, 1, 3, 1, 1, 1, 4, 1, 1, 2, 2, 2, 4, 2, 1, 2, 2, 3, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 3, 4, 2, 2, 3, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 4, 5]"
+[147],"CTACTGTTATTGCAACTGCTTTATATAATTGTGTTTTGGATTATTACATAGTAAAATTTTTGGCTGACCA
+","[4, 1, 2, 4, 1, 3, 1, 1, 2, 1, 1, 3, 4, 2, 2, 4, 1, 3, 4, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 3, 3, 2, 1, 1, 2, 1, 1, 2, 4, 2, 1, 2, 3, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1, 3, 3, 4, 1, 3, 2, 4, 4, 2, 5]"
+[148],"TTTTAACTATAATGTTTCAGTATTACAAATGGATGTTCAGGGTTTAGTTAATGTTTTGGTCTGTTTATTT
+","[1, 1, 1, 1, 2, 2, 4, 1, 2, 1, 2, 2, 1, 3, 1, 1, 1, 4, 2, 3, 1, 2, 1, 1, 2, 4, 2, 2, 2, 1, 3, 3, 2, 1, 3, 1, 1, 4, 2, 3, 3, 3, 1, 1, 1, 2, 3, 1, 1, 2, 2, 1, 3, 1, 1, 1, 1, 3, 3, 1, 4, 1, 3, 1, 1, 1, 2, 1, 1, 1, 5]"
+[149],"GTTGTATTTTTACACACATGGCGCTTTTCTAAAGAACGTTTTACACATTGGTTTACATATGTGTGTTCTC
+","[3, 1, 1, 3, 1, 2, 1, 1, 1, 1, 1, 2, 4, 2, 4, 2, 4, 2, 1, 3, 3, 4, 3, 4, 1, 1, 1, 1, 4, 1, 2, 2, 2, 3, 2, 2, 4, 3, 1, 1, 1, 1, 2, 4, 2, 4, 2, 1, 1, 3, 3, 1, 1, 1, 2, 4, 2, 1, 2, 1, 3, 1, 3, 1, 3, 1, 1, 4, 1, 4, 5]"
+[150],"TTATAGCAGTTGCTTACACTTATTTTTATAGTGGTGACTTTTTGAGTTTGCTTGTTATGTTTTTATGTGC
+","[1, 1, 2, 1, 2, 3, 4, 2, 3, 1, 1, 3, 4, 1, 1, 2, 4, 2, 4, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 3, 1, 3, 3, 1, 3, 2, 4, 1, 1, 1, 1, 1, 3, 2, 3, 1, 1, 1, 3, 4, 1, 1, 3, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 2, 1, 3, 1, 3, 4, 5]"
+[151],"TATATCTAGTGATTGGTACATTGGTGCCATTGTTTTTAGGTTGTCACGTTTGATTGTATTTTTTTCACCT
+","[1, 2, 1, 2, 1, 4, 1, 2, 3, 1, 3, 2, 1, 1, 3, 3, 1, 2, 4, 2, 1, 1, 3, 3, 1, 3, 4, 4, 2, 1, 1, 3, 1, 1, 1, 1, 1, 2, 3, 3, 1, 1, 3, 1, 4, 2, 4, 3, 1, 1, 1, 3, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1, 4, 2, 4, 4, 1, 5]"
+[152],"GAAAGTGTATTTAGTGTTTTTGGTGATGTGAAACTTACTTTAGTTGTTTATTTAATTTGTGGTTATTTAG
+","[3, 2, 2, 2, 3, 1, 3, 1, 2, 1, 1, 1, 2, 3, 1, 3, 1, 1, 1, 1, 1, 3, 3, 1, 3, 2, 1, 3, 1, 3, 2, 2, 2, 4, 1, 1, 2, 4, 1, 1, 1, 2, 3, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3, 1, 3, 3, 1, 1, 2, 1, 1, 1, 2, 3, 5]"
+[153],"TTTGTACTTATTGGGGCATTTTGTATTGGTTCAATAGGTTTTTTAAATGTACTATGGGTGTTTATGATTT
+","[1, 1, 1, 3, 1, 2, 4, 1, 1, 2, 1, 1, 3, 3, 3, 3, 4, 2, 1, 1, 1, 1, 3, 1, 2, 1, 1, 3, 3, 1, 1, 4, 2, 2, 1, 2, 3, 3, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 3, 1, 2, 4, 1, 2, 1, 3, 3, 3, 1, 3, 1, 1, 1, 2, 1, 3, 2, 1, 1, 1, 5]"
+[154],"TAAGGTGAGTGCTGCTGAATTTAAATACATGGTTGCTAATGGACTTCATGCACCACATGGACCTTTTGAT
+","[1, 2, 2, 3, 3, 1, 3, 2, 3, 1, 3, 4, 1, 3, 4, 1, 3, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 4, 2, 1, 3, 3, 1, 1, 3, 4, 1, 2, 2, 1, 3, 3, 2, 4, 1, 1, 4, 2, 1, 3, 4, 2, 4, 4, 2, 4, 2, 1, 3, 3, 2, 4, 4, 1, 1, 1, 1, 3, 2, 1, 5]"
+[155],"GCACTTTGGTTATCATTCAAACTACTTGGTATTGGTGGTGACCGTTGTATAAAAATTTCAACTGTCCAAT
+","[3, 4, 2, 4, 1, 1, 1, 3, 3, 1, 1, 2, 1, 4, 2, 1, 1, 4, 2, 2, 2, 4, 1, 2, 4, 1, 1, 3, 3, 1, 2, 1, 1, 3, 3, 1, 3, 3, 1, 3, 2, 4, 4, 3, 1, 1, 3, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 4, 2, 2, 4, 1, 3, 1, 4, 4, 2, 2, 1, 5]"
+[156],"CCAAACTGACTGATTTGAAGTGTACTAATGTTGTGTTATTGGGTTGTTTGTCTAGTATGAACATTGCAGC
+","[4, 4, 2, 2, 2, 4, 1, 3, 2, 4, 1, 3, 2, 1, 1, 1, 3, 2, 2, 3, 1, 3, 1, 2, 4, 1, 2, 2, 1, 3, 1, 1, 3, 1, 3, 1, 1, 2, 1, 1, 3, 3, 3, 1, 1, 3, 1, 1, 1, 3, 1, 4, 1, 2, 3, 1, 2, 1, 3, 2, 2, 4, 2, 1, 1, 3, 4, 2, 3, 4, 5]"
+[157],"TAATTCTAGTGAATGGGCTTATTGTGTTGATTTACACAATAAGATTAATCTTTGTGATGACCCTGAAAAA
+","[1, 2, 2, 1, 1, 4, 1, 2, 3, 1, 3, 2, 2, 1, 3, 3, 3, 4, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 3, 2, 1, 1, 1, 2, 4, 2, 4, 2, 2, 1, 2, 2, 3, 2, 1, 1, 2, 2, 1, 4, 1, 1, 1, 3, 1, 3, 2, 1, 3, 2, 4, 4, 4, 1, 3, 2, 2, 2, 2, 2, 5]"
+[158],"GCTCAAAGTATGTTGTTAGCACTCCTTGCGTTCTTTCTAAGTAAACATAGTGATTTTGGTCTTGATGGCC
+","[3, 4, 1, 4, 2, 2, 2, 3, 1, 2, 1, 3, 1, 1, 3, 1, 1, 2, 3, 4, 2, 4, 1, 4, 4, 1, 1, 3, 4, 3, 1, 1, 4, 1, 1, 1, 4, 1, 2, 2, 3, 1, 2, 2, 2, 4, 2, 1, 2, 3, 1, 3, 2, 1, 1, 1, 1, 3, 3, 1, 4, 1, 1, 3, 2, 1, 3, 3, 4, 4, 5]"
+[159],"TTATTGATTCTTATTTTGATAATAGTAGCACCCTTCAGAGTGTTGCTTCATCATTTGTTAGTATGCCATC
+","[1, 1, 2, 1, 1, 3, 2, 1, 1, 4, 1, 1, 2, 1, 1, 1, 1, 3, 2, 1, 2, 2, 1, 2, 3, 1, 2, 3, 4, 2, 4, 4, 4, 1, 1, 4, 2, 3, 2, 3, 1, 3, 1, 1, 3, 4, 1, 1, 4, 2, 1, 4, 2, 1, 1, 1, 3, 1, 1, 2, 3, 1, 2, 1, 3, 4, 4, 2, 1, 4, 5]"
+[160],"ATATATTGCTTATGAAAATGCTAGACAAGCTTATGAGGATGCTATTGCTAATGGATCTTCTTCTCAACTT
+","[2, 1, 2, 1, 2, 1, 1, 3, 4, 1, 1, 2, 1, 3, 2, 2, 2, 2, 1, 3, 4, 1, 2, 3, 2, 4, 2, 2, 3, 4, 1, 1, 2, 1, 3, 2, 3, 3, 2, 1, 3, 4, 1, 2, 1, 1, 3, 4, 1, 2, 2, 1, 3, 3, 2, 1, 4, 1, 1, 4, 1, 1, 4, 1, 4, 2, 2, 4, 1, 1, 5]"
+[161],"ATTAAACAATTGAAGCGTGCCATGAATATCGCAAAGTCTGAATTTGATCATGAGATATCTGTTCAGAAGA
+","[2, 1, 1, 2, 2, 2, 4, 2, 2, 1, 1, 3, 2, 2, 3, 4, 3, 1, 3, 4, 4, 2, 1, 3, 2, 2, 1, 2, 1, 4, 3, 4, 2, 2, 2, 3, 1, 4, 1, 3, 2, 2, 1, 1, 1, 3, 2, 1, 4, 2, 1, 3, 2, 3, 2, 1, 2, 1, 4, 1, 3, 1, 1, 4, 2, 3, 2, 2, 3, 2, 5]"
+[162],"AAATTAATAGAATGGCTGAACAAGCTGCTACTCAGATGTATAAAGAAGCACGCTCTGTTAATAGAAAATC
+","[2, 2, 2, 1, 1, 2, 2, 1, 2, 3, 2, 2, 1, 3, 3, 4, 1, 3, 2, 2, 4, 2, 2, 3, 4, 1, 3, 4, 1, 2, 4, 1, 4, 2, 3, 2, 1, 3, 1, 2, 1, 2, 2, 2, 3, 2, 2, 3, 4, 2, 4, 3, 4, 1, 4, 1, 3, 1, 1, 2, 2, 1, 2, 3, 2, 2, 2, 2, 1, 4, 5]"
+[163],"TAAAGTTATTAGTGCTATGCACTCTTTACTTTTTGGAATGTTAAGACGTTTGGATATGTCTAGTGTTGAA
+","[1, 2, 2, 2, 3, 1, 1, 2, 1, 1, 2, 3, 1, 3, 4, 1, 2, 1, 3, 4, 2, 4, 1, 4, 1, 1, 1, 2, 4, 1, 1, 1, 1, 1, 3, 3, 2, 2, 1, 3, 1, 1, 2, 2, 3, 2, 4, 3, 1, 1, 1, 3, 3, 2, 1, 2, 1, 3, 1, 4, 1, 2, 3, 1, 3, 1, 1, 3, 2, 2, 5]"
+[164],"ACTGTTTTGAATTTAGCACGTGATGGTGTTGTGCCATTGTCAGTTATACCTGCAACTTCAGCTTCTAAAC
+","[2, 4, 1, 3, 1, 1, 1, 1, 3, 2, 2, 1, 1, 1, 2, 3, 4, 2, 4, 3, 1, 3, 2, 1, 3, 3, 1, 3, 1, 1, 3, 1, 3, 4, 4, 2, 1, 1, 3, 1, 4, 2, 3, 1, 1, 2, 1, 2, 4, 4, 1, 3, 4, 2, 2, 4, 1, 1, 4, 2, 3, 4, 1, 1, 4, 1, 2, 2, 2, 4, 5]"
+[165],"TAACTATTGTTAGTCCAGATCTTGAATCTTATTCTAAGATTGTTTGTGATGGTTCTGTTCATTATGCTGG
+","[1, 2, 2, 4, 1, 2, 1, 1, 3, 1, 1, 2, 3, 1, 4, 4, 2, 3, 2, 1, 4, 1, 1, 3, 2, 2, 1, 4, 1, 1, 2, 1, 1, 4, 1, 2, 2, 3, 2, 1, 1, 3, 1, 1, 1, 3, 1, 3, 2, 1, 3, 3, 1, 1, 4, 1, 3, 1, 1, 4, 2, 1, 1, 2, 1, 3, 4, 1, 3, 3, 5]"
+[166],"AGTTGTTTGGACACTTAATGATGTTAAAGACAATGATGGTAGACCTGTTCATGTTAAAGAGATTACAAAG
+","[2, 3, 1, 1, 3, 1, 1, 1, 3, 3, 2, 4, 2, 4, 1, 1, 2, 2, 1, 3, 2, 1, 3, 1, 1, 2, 2, 2, 3, 2, 4, 2, 2, 1, 3, 2, 1, 3, 3, 1, 2, 3, 2, 4, 4, 1, 3, 1, 1, 4, 2, 1, 3, 1, 1, 2, 2, 2, 3, 2, 3, 2, 1, 1, 2, 4, 2, 2, 2, 3, 5]"
+[167],"GAAAATGTTGAAACTTTGACATGGCCTCTTATCCTTAATTGTGAACGTGTTGTTAAACTTCAAAATAATG
+","[3, 2, 2, 2, 2, 1, 3, 1, 1, 3, 2, 2, 2, 4, 1, 1, 1, 3, 2, 4, 2, 1, 3, 3, 4, 4, 1, 4, 1, 1, 2, 1, 4, 4, 1, 1, 2, 2, 1, 1, 3, 1, 3, 2, 2, 4, 3, 1, 3, 1, 1, 3, 1, 1, 2, 2, 2, 4, 1, 1, 4, 2, 2, 2, 2, 1, 2, 2, 1, 3, 5]"
+[168],"AAATTATGCCTGGTAAACTTAAGCAAAAACCTATGAAAGCTGAGGGTGATGGTGGTGTTTTAGGTGATGG
+","[2, 2, 2, 1, 1, 2, 1, 3, 4, 4, 1, 3, 3, 1, 2, 2, 2, 4, 1, 1, 2, 2, 3, 4, 2, 2, 2, 2, 2, 4, 4, 1, 2, 1, 3, 2, 2, 2, 3, 4, 1, 3, 2, 3, 3, 3, 1, 3, 2, 1, 3, 3, 1, 3, 3, 1, 3, 1, 1, 1, 1, 2, 3, 3, 1, 3, 2, 1, 3, 3, 5]"
+[169],"TAATGCCTTGTATAATACTGAGGGTGGTAAAACTTTTATGTACGCTTATATTTCTAATAAAGCTGACCTT
+","[1, 2, 2, 1, 3, 4, 4, 1, 1, 3, 1, 2, 1, 2, 2, 1, 2, 4, 1, 3, 2, 3, 3, 3, 1, 3, 3, 1, 2, 2, 2, 2, 4, 1, 1, 1, 1, 2, 1, 3, 1, 2, 4, 3, 4, 1, 1, 2, 1, 2, 1, 1, 1, 4, 1, 2, 2, 1, 2, 2, 2, 3, 4, 1, 3, 2, 4, 4, 1, 1, 5]"
+[170],"AAATTTGTTAAGTGGGAGTATGAGGGTGGTTGCAACACAATCGAGTTAGACTCTCCTTGTCGATTTATGG
+","[2, 2, 2, 1, 1, 1, 3, 1, 1, 2, 2, 3, 1, 3, 3, 3, 2, 3, 1, 2, 1, 3, 2, 3, 3, 3, 1, 3, 3, 1, 1, 3, 4, 2, 2, 4, 2, 4, 2, 2, 1, 4, 3, 2, 3, 1, 1, 2, 3, 2, 4, 1, 4, 1, 4, 4, 1, 1, 3, 1, 4, 3, 2, 1, 1, 1, 2, 1, 3, 3, 5]"
+[171],"TCGAAACACCTAATGGTCCTCAAGTGAAGTATTTGTATTTTGTTAAAAATTTAAATACCTTACGTAGAGG
+","[1, 4, 3, 2, 2, 2, 4, 2, 4, 4, 1, 2, 2, 1, 3, 3, 1, 4, 4, 1, 4, 2, 2, 3, 1, 3, 2, 2, 3, 1, 2, 1, 1, 1, 3, 1, 2, 1, 1, 1, 1, 3, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 4, 4, 1, 1, 2, 4, 3, 1, 2, 3, 2, 3, 3, 5]"
+[172],"TGCCGTTCTTGGTTTTATAGGTGCCACAATTCGTCTACAAGCTGGTAAACAAACTGAATTGGCTGTTAAT
+","[1, 3, 4, 4, 3, 1, 1, 4, 1, 1, 3, 3, 1, 1, 1, 1, 2, 1, 2, 3, 3, 1, 3, 4, 4, 2, 4, 2, 2, 1, 1, 4, 3, 1, 4, 1, 2, 4, 2, 2, 3, 4, 1, 3, 3, 1, 2, 2, 2, 4, 2, 2, 2, 4, 1, 3, 2, 2, 1, 1, 3, 3, 4, 1, 3, 1, 1, 2, 2, 1, 5]"
+[173],"TCTGGACTTTTAACTGCTTGTGCTTTTTCTGTTGATCCAGCAACTACTTACTTGGAAGCTGTTAAACATG
+","[1, 4, 1, 3, 3, 2, 4, 1, 1, 1, 1, 2, 2, 4, 1, 3, 4, 1, 1, 3, 1, 3, 4, 1, 1, 1, 1, 1, 4, 1, 3, 1, 1, 3, 2, 1, 4, 4, 2, 3, 4, 2, 2, 4, 1, 2, 4, 1, 1, 2, 4, 1, 1, 3, 3, 2, 2, 3, 4, 1, 3, 1, 1, 2, 2, 2, 4, 2, 1, 3, 5]"
+[174],"GTGCAAAACCTGTAAGTAATTGTATTAAGATGTTATCTAATGGTGCTGGTAATGGTCAAGCTATAACAAC
+","[3, 1, 3, 4, 2, 2, 2, 2, 4, 4, 1, 3, 1, 2, 2, 3, 1, 2, 2, 1, 1, 3, 1, 2, 1, 1, 2, 2, 3, 2, 1, 3, 1, 1, 2, 1, 4, 1, 2, 2, 1, 3, 3, 1, 3, 4, 1, 3, 3, 1, 2, 2, 1, 3, 3, 1, 4, 2, 2, 3, 4, 1, 2, 1, 2, 2, 4, 2, 2, 4, 5]"
+[175],"TAGTGTAGATGCTAACACCAATCAAGATTCTTATGGTGGAGCGTCTATTTGTTTGTATTGTCGGGCCCAC
+","[1, 2, 3, 1, 3, 1, 2, 3, 2, 1, 3, 4, 1, 2, 2, 4, 2, 4, 4, 2, 2, 1, 4, 2, 2, 3, 2, 1, 1, 4, 1, 1, 2, 1, 3, 3, 1, 3, 3, 2, 3, 4, 3, 1, 4, 1, 2, 1, 1, 1, 3, 1, 1, 1, 3, 1, 2, 1, 1, 3, 1, 4, 3, 3, 3, 4, 4, 4, 2, 4, 5]"
+[176],"GTTCCTCACCCTAGTATGGATGGTTACTGTAAGTTTAAGGGTAAATGTGTTCAGGTTCCTATTGGTTGTT
+","[3, 1, 1, 4, 4, 1, 4, 2, 4, 4, 4, 1, 2, 3, 1, 2, 1, 3, 3, 2, 1, 3, 3, 1, 1, 2, 4, 1, 3, 1, 2, 2, 3, 1, 1, 1, 2, 2, 3, 3, 3, 1, 2, 2, 2, 1, 3, 1, 3, 1, 1, 4, 2, 3, 3, 1, 1, 4, 4, 1, 2, 1, 1, 3, 3, 1, 1, 3, 1, 1, 5]"
+[177],"TGGATCCTATTAGGTTTTGTTTAGAAAATAATGTGTGTAATGTTTGTGGTTGTTGGTTGGGACACGGGTG
+","[1, 3, 3, 2, 1, 4, 4, 1, 2, 1, 1, 2, 3, 3, 1, 1, 1, 1, 3, 1, 1, 1, 2, 3, 2, 2, 2, 2, 1, 2, 2, 1, 3, 1, 3, 1, 3, 1, 2, 2, 1, 3, 1, 1, 1, 3, 1, 3, 3, 1, 1, 3, 1, 1, 3, 3, 1, 1, 3, 3, 3, 2, 4, 2, 4, 3, 3, 3, 1, 3, 5]"
+[178],"TGCTTGTGACCGTACAACTATTCAAAGTGTTGACATTTCTTATTTAAACGAGCAAGGGGTTCTAGTGCAG
+","[1, 3, 4, 1, 1, 3, 1, 3, 2, 4, 4, 3, 1, 2, 4, 2, 2, 4, 1, 2, 1, 1, 4, 2, 2, 2, 3, 1, 3, 1, 1, 3, 2, 4, 2, 1, 1, 1, 4, 1, 1, 2, 1, 1, 1, 2, 2, 2, 4, 3, 2, 3, 4, 2, 2, 3, 3, 3, 3, 1, 1, 4, 1, 2, 3, 1, 3, 4, 2, 3, 5]"
+[179],"CTCGACTAGAACCCTGCAATGGCACGGACATCGATAAGTGTGTTCGTGCTTTTGACATTTATAATAAAAA
+","[4, 1, 4, 3, 2, 4, 1, 2, 3, 2, 2, 4, 4, 4, 1, 3, 4, 2, 2, 1, 3, 3, 4, 2, 4, 3, 3, 2, 4, 2, 1, 4, 3, 2, 1, 2, 2, 3, 1, 3, 1, 3, 1, 1, 4, 3, 1, 3, 4, 1, 1, 1, 1, 3, 2, 4, 2, 1, 1, 1, 2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 5]"
+[180],"TGTTTCATTCTTGGGTAAGTGTTTGAAGATGAACTGTGTTCGTTTTAAAAATGCTGATCTTAAGGATGGT
+","[1, 3, 1, 1, 1, 4, 2, 1, 1, 4, 1, 1, 3, 3, 3, 1, 2, 2, 3, 1, 3, 1, 1, 1, 3, 2, 2, 3, 2, 1, 3, 2, 2, 4, 1, 3, 1, 3, 1, 1, 4, 3, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 3, 4, 1, 3, 2, 1, 4, 1, 1, 2, 2, 3, 3, 2, 1, 3, 3, 1, 5]"
+[181],"TATTTTGTTATAAAGAGGTGTACTAAGTCGGTTATGGAACACGAGCAATCCATGTATAACCTACTTAACT
+","[1, 2, 1, 1, 1, 1, 3, 1, 1, 2, 1, 2, 2, 2, 3, 2, 3, 3, 1, 3, 1, 2, 4, 1, 2, 2, 3, 1, 4, 3, 3, 1, 1, 2, 1, 3, 3, 2, 2, 4, 2, 4, 3, 2, 3, 4, 2, 2, 1, 4, 4, 2, 1, 3, 1, 2, 1, 2, 2, 4, 4, 1, 2, 4, 1, 1, 2, 2, 4, 1, 5]"
+[182],"TTTCTGGTGCTTTGGCTGAGCATGATTTCTTTACTTGGAAAGATGGCAGAGTCATTTATGGTAATGTTAG
+","[1, 1, 1, 4, 1, 3, 3, 1, 3, 4, 1, 1, 1, 3, 3, 4, 1, 3, 2, 3, 4, 2, 1, 3, 2, 1, 1, 1, 4, 1, 1, 1, 2, 4, 1, 1, 3, 3, 2, 2, 2, 3, 2, 1, 3, 3, 4, 2, 3, 2, 3, 1, 4, 2, 1, 1, 1, 2, 1, 3, 3, 1, 2, 2, 1, 3, 1, 1, 2, 3, 5]"
+[183],"TAGACATAATCTTACTAAATATACTATGATGGACTTGGTCTATGCTATGCGTAACTTTGATGAACAAAAT
+","[1, 2, 3, 2, 4, 2, 1, 2, 2, 1, 4, 1, 1, 2, 4, 1, 2, 2, 2, 1, 2, 1, 2, 4, 1, 2, 1, 3, 2, 1, 3, 3, 2, 4, 1, 1, 3, 3, 1, 4, 1, 2, 1, 3, 4, 1, 2, 1, 3, 4, 3, 1, 2, 2, 4, 1, 1, 1, 3, 2, 1, 3, 2, 2, 4, 2, 2, 2, 2, 1, 5]"
+[184],"TGTGATGTTCTAAAAGAAGTATTAGTTTTAACTGGTTGTTGTGACAATTCTTATTTTGATAGTAAGGGTT
+","[1, 3, 1, 3, 2, 1, 3, 1, 1, 4, 1, 2, 2, 2, 2, 3, 2, 2, 3, 1, 2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 2, 4, 1, 3, 3, 1, 1, 3, 1, 1, 3, 1, 3, 2, 4, 2, 2, 1, 1, 4, 1, 1, 2, 1, 1, 1, 1, 3, 2, 1, 2, 3, 1, 2, 2, 3, 3, 3, 1, 1, 5]"
+[185],"GGTATGACCCAGTTGAAAATGAAGATATACATAGAGTTTATGCATCTCTTGGCAAAATTGTAGCTAGAGC
+","[3, 3, 1, 2, 1, 3, 2, 4, 4, 4, 2, 3, 1, 1, 3, 2, 2, 2, 2, 1, 3, 2, 2, 3, 2, 1, 2, 1, 2, 4, 2, 1, 2, 3, 2, 3, 1, 1, 1, 2, 1, 3, 4, 2, 1, 4, 1, 4, 1, 1, 3, 3, 4, 2, 2, 2, 2, 1, 1, 3, 1, 2, 3, 4, 1, 2, 3, 2, 3, 4, 5]"
+[186],"TATGCTTAAATGCGTTGCTCTATGCGATGCGATGGTTGCTAAAGGTGTTGTTGGTGTTTTAACATTAGAT
+","[1, 2, 1, 3, 4, 1, 1, 2, 2, 2, 1, 3, 4, 3, 1, 1, 3, 4, 1, 4, 1, 2, 1, 3, 4, 3, 2, 1, 3, 4, 3, 2, 1, 3, 3, 1, 1, 3, 4, 1, 2, 2, 2, 3, 3, 1, 3, 1, 1, 3, 1, 1, 3, 3, 1, 3, 1, 1, 1, 1, 2, 2, 4, 2, 1, 1, 2, 3, 2, 1, 5]"
+[187],"AACCAAGATCTTAATGGTAACTTTTATGATTTTGGTGATTTTGTTGTTAGCTTACCTAATATGGGTGTTC
+","[2, 2, 4, 4, 2, 2, 3, 2, 1, 4, 1, 1, 2, 2, 1, 3, 3, 1, 2, 2, 4, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 1, 1, 3, 3, 1, 3, 2, 1, 1, 1, 1, 3, 1, 1, 3, 1, 1, 2, 3, 4, 1, 1, 2, 4, 4, 1, 2, 2, 1, 2, 1, 3, 3, 3, 1, 3, 1, 1, 4, 5]"
+[188],"CCTGTTGTACATCATATTATTCTTATATGATGCCTATTATGGGTTTAACTAATTGTTTAGCTAGTGAGTG
+","[4, 4, 1, 3, 1, 1, 3, 1, 2, 4, 2, 1, 4, 2, 1, 2, 1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 2, 1, 3, 2, 1, 3, 4, 4, 1, 2, 1, 1, 2, 1, 3, 3, 3, 1, 1, 1, 2, 2, 4, 1, 2, 2, 1, 1, 3, 1, 1, 1, 2, 3, 4, 1, 2, 3, 1, 3, 2, 3, 1, 3, 5]"
+[189],"TTTTGTCAAGAGTGATATTTTTGGTAGTGATTTTAAAACTTTTGATTTGCTTAAGTATGATTTCACTGAA
+","[1, 1, 1, 1, 3, 1, 4, 2, 2, 3, 2, 3, 1, 3, 2, 1, 2, 1, 1, 1, 1, 1, 3, 3, 1, 2, 3, 1, 3, 2, 1, 1, 1, 1, 2, 2, 2, 2, 4, 1, 1, 1, 1, 3, 2, 1, 1, 1, 3, 4, 1, 1, 2, 2, 3, 1, 2, 1, 3, 2, 1, 1, 1, 4, 2, 4, 1, 3, 2, 2, 5]"
+[190],"CATAAAGAAAATTTATTCAATAAGTACTTTAAGCATTGGAGTTTTGATTATCATCCTAATTGTAGTGACT
+","[4, 2, 1, 2, 2, 2, 3, 2, 2, 2, 2, 1, 1, 1, 2, 1, 1, 4, 2, 2, 1, 2, 2, 3, 1, 2, 4, 1, 1, 1, 2, 2, 3, 4, 2, 1, 1, 3, 3, 2, 3, 1, 1, 1, 1, 3, 2, 1, 1, 2, 1, 4, 2, 1, 4, 4, 1, 2, 2, 1, 1, 3, 1, 2, 3, 1, 3, 2, 4, 1, 5]"
+[191],"GTTATGATGATATGTGTGTTATACATTGTGCTAATTTTAATACACTATTTGCCACAACTATACCAGGTAC
+","[3, 1, 1, 2, 1, 3, 2, 1, 3, 2, 1, 2, 1, 3, 1, 3, 1, 3, 1, 1, 2, 1, 2, 4, 2, 1, 1, 3, 1, 3, 4, 1, 2, 2, 1, 1, 1, 1, 2, 2, 1, 2, 4, 2, 4, 1, 2, 1, 1, 1, 3, 4, 4, 2, 4, 2, 2, 4, 1, 2, 1, 2, 4, 4, 2, 3, 3, 1, 2, 4, 5]"
+[192],"TGCTTTTGGTCCACTATGTCGTAAAGTTTTTATAGATGGTGTTCCACTTGTTACAACTGCTGGTTATCAT
+","[1, 3, 4, 1, 1, 1, 1, 3, 3, 1, 4, 4, 2, 4, 1, 2, 1, 3, 1, 4, 3, 1, 2, 2, 2, 3, 1, 1, 1, 1, 1, 2, 1, 2, 3, 2, 1, 3, 3, 1, 3, 1, 1, 4, 4, 2, 4, 1, 1, 3, 1, 1, 2, 4, 2, 2, 4, 1, 3, 4, 1, 3, 3, 1, 1, 2, 1, 4, 2, 1, 5]"
+[193],"TTTAAGCAATTAGGTTTGGTTTGGAATAAAGATGTTAACACACACTCAGTTAGGTTGACAATTACTGAAC
+","[1, 1, 1, 2, 2, 3, 4, 2, 2, 1, 1, 2, 3, 3, 1, 1, 1, 3, 3, 1, 1, 1, 3, 3, 2, 2, 1, 2, 2, 2, 3, 2, 1, 3, 1, 1, 2, 2, 4, 2, 4, 2, 4, 2, 4, 1, 4, 2, 3, 1, 1, 2, 3, 3, 1, 1, 3, 2, 4, 2, 2, 1, 1, 2, 4, 1, 3, 2, 2, 4, 5]"
+[194],"TTTTGCAATTTGTCACCGACCCTTCCTTGATAATAGCTTCTTCCCCAGCACTCGTTGATCAACGCACTAT
+","[1, 1, 1, 1, 3, 4, 2, 2, 1, 1, 1, 3, 1, 4, 2, 4, 4, 3, 2, 4, 4, 4, 1, 1, 4, 4, 1, 1, 3, 2, 1, 2, 2, 1, 2, 3, 4, 1, 1, 4, 1, 1, 4, 4, 4, 4, 2, 3, 4, 2, 4, 1, 4, 3, 1, 1, 3, 2, 1, 4, 2, 2, 4, 3, 4, 2, 4, 1, 2, 1, 5]"
+[195],"TTGTTTTTCTGTTGCAGCATTGAGTACTGGTTTGACAAATCAAGTTGTTAAGCCAGGTCATTTTAATGAA
+","[1, 1, 3, 1, 1, 1, 1, 1, 4, 1, 3, 1, 1, 3, 4, 2, 3, 4, 2, 1, 1, 3, 2, 3, 1, 2, 4, 1, 3, 3, 1, 1, 1, 3, 2, 4, 2, 2, 2, 1, 4, 2, 2, 3, 1, 1, 3, 1, 1, 2, 2, 3, 4, 4, 2, 3, 3, 1, 4, 2, 1, 1, 1, 1, 2, 2, 1, 3, 2, 2, 5]"
+[196],"GAGTTTTATAACTTTCTTCGTTTAAGAGGTTTCTTTGATGAAGGTTCTGAACTTACATTAAAACATTTCT
+","[3, 2, 3, 1, 1, 1, 1, 2, 1, 2, 2, 4, 1, 1, 1, 4, 1, 1, 4, 3, 1, 1, 1, 2, 2, 3, 2, 3, 3, 1, 1, 1, 4, 1, 1, 1, 3, 2, 1, 3, 2, 2, 3, 3, 1, 1, 4, 1, 3, 2, 2, 4, 1, 1, 2, 4, 2, 1, 1, 2, 2, 2, 2, 4, 2, 1, 1, 1, 4, 1, 5]"
+[197],"TCTTCGCACAGAATGGTGATGCTGCTGTTAAAGATTTTGACTTTTACCGTTATAATAAGCCTACCATTTT
+","[1, 4, 1, 1, 4, 3, 4, 2, 4, 2, 3, 2, 2, 1, 3, 3, 1, 3, 2, 1, 3, 4, 1, 3, 4, 1, 3, 1, 1, 2, 2, 2, 3, 2, 1, 1, 1, 1, 3, 2, 4, 1, 1, 1, 1, 2, 4, 4, 3, 1, 1, 2, 1, 2, 2, 1, 2, 2, 3, 4, 4, 1, 2, 4, 4, 2, 1, 1, 1, 1, 5]"
+[198],"AGATATTTGTCAAGCTAGAGTTACATATAAGATAGTCTCTCGTTATTTTGACATTTATGAAGGTGGCTGT
+","[2, 3, 2, 1, 2, 1, 1, 1, 3, 1, 4, 2, 2, 3, 4, 1, 2, 3, 2, 3, 1, 1, 2, 4, 2, 1, 2, 1, 2, 2, 3, 2, 1, 2, 3, 1, 4, 1, 4, 1, 4, 3, 1, 1, 2, 1, 1, 1, 1, 3, 2, 4, 2, 1, 1, 1, 2, 1, 3, 2, 2, 3, 3, 1, 3, 3, 4, 1, 3, 1, 5]"
+[199],"ATTAAGGCATGTGAAGTTGTTGTAACAAATCTTAATAAGAGTGCTGGTTGGCCATTAAATAAGTTTGGTA
+","[2, 1, 1, 2, 2, 3, 3, 4, 2, 1, 3, 1, 3, 2, 2, 3, 1, 1, 3, 1, 1, 3, 1, 2, 2, 4, 2, 2, 2, 1, 4, 1, 1, 2, 2, 1, 2, 2, 3, 2, 3, 1, 3, 4, 1, 3, 3, 1, 1, 3, 3, 4, 4, 2, 1, 1, 2, 2, 2, 1, 2, 2, 3, 1, 1, 1, 3, 3, 1, 2, 5]"
+[200],"AAGCTAGTTTGTATTATGAATCTATATCTTATGAAGAACAGGATGCTTTGTTTGCTTTGACAAAGCGTAA
+","[2, 2, 3, 4, 1, 2, 3, 1, 1, 1, 3, 1, 2, 1, 1, 2, 1, 3, 2, 2, 1, 4, 1, 2, 1, 2, 1, 4, 1, 1, 2, 1, 3, 2, 2, 3, 2, 2, 4, 2, 3, 3, 2, 1, 3, 4, 1, 1, 1, 3, 1, 1, 1, 3, 4, 1, 1, 1, 3, 2, 4, 2, 2, 2, 3, 4, 3, 1, 2, 2, 5]"
+[201],"TGTCCTCCCTACTATGACACAGCTGAATCTTAAGTATGCTATTAGTGGTAAAGAACGTGCTAGAACTGTT
+","[1, 3, 1, 4, 4, 1, 4, 4, 4, 1, 2, 4, 1, 2, 1, 3, 2, 4, 2, 4, 2, 3, 4, 1, 3, 2, 2, 1, 4, 1, 1, 2, 2, 3, 1, 2, 1, 3, 4, 1, 2, 1, 1, 2, 3, 1, 3, 3, 1, 2, 2, 2, 3, 2, 2, 4, 3, 1, 3, 4, 1, 2, 3, 2, 2, 4, 1, 3, 1, 1, 5]"
+[202],"GGTGGTGTTTCTCTGTTGTCTACAATGACCACAAGACAATACCATCAAAAACATCTTAAATCCATTGTTA
+","[3, 3, 1, 3, 3, 1, 3, 1, 1, 1, 4, 1, 4, 1, 3, 1, 1, 3, 1, 4, 1, 2, 4, 2, 2, 1, 3, 2, 4, 4, 2, 4, 2, 2, 3, 2, 4, 2, 2, 1, 2, 4, 4, 2, 1, 4, 2, 2, 2, 2, 2, 4, 2, 1, 4, 1, 1, 2, 2, 2, 1, 4, 4, 2, 1, 1, 3, 1, 1, 2, 5]"
+[203],"ATACACGCAATGCCACTGTTGTTATTGGTACTACCAAATTTTATGGTGGTTGGAATAATATGTTGCGTAC
+","[2, 1, 2, 4, 2, 4, 3, 4, 2, 2, 1, 3, 4, 4, 2, 4, 1, 3, 1, 1, 3, 1, 1, 2, 1, 1, 3, 3, 1, 2, 4, 1, 2, 4, 4, 2, 2, 2, 1, 1, 1, 1, 2, 1, 3, 3, 1, 3, 3, 1, 1, 3, 3, 2, 2, 1, 2, 2, 1, 2, 1, 3, 1, 1, 3, 4, 3, 1, 2, 4, 5]"
+[204],"TTTAATTGATGGTGTTGAAAACCCTATGCTTATGGGTTGGGATTATCCCAAATGTGATAGAGCTTTGCCT
+","[1, 1, 1, 2, 2, 1, 1, 3, 2, 1, 3, 3, 1, 3, 1, 1, 3, 2, 2, 2, 2, 4, 4, 4, 1, 2, 1, 3, 4, 1, 1, 2, 1, 3, 3, 3, 1, 1, 3, 3, 3, 2, 1, 1, 2, 1, 4, 4, 4, 2, 2, 2, 1, 3, 1, 3, 2, 1, 2, 3, 2, 3, 4, 1, 1, 1, 3, 4, 4, 1, 5]"
+[205],"AACATGATACGTATGATTTCAGCCATGGTGTTGGGCTCTAAGCATGTTAATTGTTGTACTGCAACAGATA
+","[2, 2, 4, 2, 1, 3, 2, 1, 2, 4, 3, 1, 2, 1, 3, 2, 1, 1, 1, 4, 2, 3, 4, 4, 2, 1, 3, 3, 1, 3, 1, 1, 3, 3, 3, 4, 1, 4, 1, 2, 2, 3, 4, 2, 1, 3, 1, 1, 2, 2, 1, 1, 3, 1, 1, 3, 1, 2, 4, 1, 3, 4, 2, 2, 4, 2, 3, 2, 1, 2, 5]"
+[206],"GGTTTTATAGGCTTGGTAATGAGTTGGCACAAGTTTTAACAGAAGTTGTTTATTCTAATGGTGGTTTTTA
+","[3, 3, 1, 1, 1, 1, 2, 1, 2, 3, 3, 4, 1, 1, 3, 3, 1, 2, 2, 1, 3, 2, 3, 1, 1, 3, 3, 4, 2, 4, 2, 2, 3, 1, 1, 1, 1, 2, 2, 4, 2, 3, 2, 2, 3, 1, 1, 3, 1, 1, 1, 2, 1, 1, 4, 1, 2, 2, 1, 3, 3, 1, 3, 3, 1, 1, 1, 1, 1, 2, 5]"
+[207],"TTTTAAGCCAGGTGGTACGACTTCTGGTGACGCTAGTACAGCTTATGCTAATTCTATTTTTAACATTTTT
+","[1, 1, 1, 1, 2, 2, 3, 4, 4, 2, 3, 3, 1, 3, 3, 1, 2, 4, 3, 2, 4, 1, 1, 4, 1, 3, 3, 1, 3, 2, 4, 3, 4, 1, 2, 3, 1, 2, 4, 2, 3, 4, 1, 1, 2, 1, 3, 4, 1, 2, 2, 1, 1, 4, 1, 2, 1, 1, 1, 1, 1, 2, 2, 4, 2, 1, 1, 1, 1, 1, 5]"
+[208],"CAAGCCGTGAGTTCTAACATTAACAGGTTGCTTAGTGTCCCATCAGATTCATGTAATAATGTTAATGTTA
+","[4, 2, 2, 3, 4, 4, 3, 1, 3, 2, 3, 1, 1, 4, 1, 2, 2, 4, 2, 1, 1, 2, 2, 4, 2, 3, 3, 1, 1, 3, 4, 1, 1, 2, 3, 1, 3, 1, 4, 4, 4, 2, 1, 4, 2, 3, 2, 1, 1, 4, 2, 1, 3, 1, 2, 2, 1, 2, 2, 1, 3, 1, 1, 2, 2, 1, 3, 1, 1, 2, 5]"
+[209],"GGGATCTACAACGACGTCTGTATGATAATTGTTATAGGTTAACTAGTGTTGAAGAGTCATTCATTGATGA
+","[3, 3, 3, 2, 1, 4, 1, 2, 4, 2, 2, 4, 3, 2, 4, 3, 1, 4, 1, 3, 1, 2, 1, 3, 2, 1, 2, 2, 1, 1, 3, 1, 1, 2, 1, 2, 3, 3, 1, 1, 2, 2, 4, 1, 2, 3, 1, 3, 1, 1, 3, 2, 2, 3, 2, 3, 1, 4, 2, 1, 1, 4, 2, 1, 1, 3, 2, 1, 3, 2, 5]"
+[210],"TTATTATGGTTATCTTAGGAAACATTTTTCAATGATGATTCTCTCTGATGACGGTGTTGTCTGTTATAAC
+","[1, 1, 2, 1, 1, 2, 1, 3, 3, 1, 1, 2, 1, 4, 1, 1, 2, 3, 3, 2, 2, 2, 4, 2, 1, 1, 1, 1, 1, 4, 2, 2, 1, 3, 2, 1, 3, 2, 1, 1, 4, 1, 4, 1, 4, 1, 3, 2, 1, 3, 2, 4, 3, 3, 1, 3, 1, 1, 3, 1, 4, 1, 3, 1, 1, 2, 1, 2, 2, 4, 5]"
+[211],"AAGGATTATGCTGAGTTAGGTTATATAGCAGACATTAGTGCTTTTAAAGCCACTTTGTATTACCAGAATA
+","[2, 2, 3, 3, 2, 1, 1, 2, 1, 3, 4, 1, 3, 2, 3, 1, 1, 2, 3, 3, 1, 1, 2, 1, 2, 1, 2, 3, 4, 2, 3, 2, 4, 2, 1, 1, 2, 3, 1, 3, 4, 1, 1, 1, 1, 2, 2, 2, 3, 4, 4, 2, 4, 1, 1, 1, 3, 1, 2, 1, 1, 2, 4, 4, 2, 3, 2, 2, 1, 2, 5]"
+[212],"ATGTCTTTATGAGTACTTCTAAATGTTGGGTTGAAGAAGATTTAACTAAGGGACCACATGAGTTTTGTTC
+","[2, 1, 3, 1, 4, 1, 1, 1, 2, 1, 3, 2, 3, 1, 2, 4, 1, 1, 4, 1, 2, 2, 2, 1, 3, 1, 1, 3, 3, 3, 1, 1, 3, 2, 2, 3, 2, 2, 3, 2, 1, 1, 1, 2, 2, 4, 1, 2, 2, 3, 3, 3, 2, 4, 4, 2, 4, 2, 1, 3, 2, 3, 1, 1, 1, 1, 3, 1, 1, 4, 5]"
+[213],"CCAGCATACTATGCAAATAGTTGACAAAGATGGTACCTATTATTTGCCTTACCCAGATCCTAGTAGGATC
+","[4, 4, 2, 3, 4, 2, 1, 2, 4, 1, 2, 1, 3, 4, 2, 2, 2, 1, 2, 3, 1, 1, 3, 2, 4, 2, 2, 2, 3, 2, 1, 3, 3, 1, 2, 4, 4, 1, 2, 1, 1, 2, 1, 1, 1, 3, 4, 4, 1, 1, 2, 4, 4, 4, 2, 3, 2, 1, 4, 4, 1, 2, 3, 1, 2, 3, 3, 2, 1, 4, 5]"
+[214],"TTGTCAGCTGGTGTTTTTGTTGATGATGTTGTTAAGACAGATGCTGTTGTTTTGTTAGAACGTTATGTGT
+","[1, 1, 3, 1, 4, 2, 3, 4, 1, 3, 3, 1, 3, 1, 1, 1, 1, 1, 3, 1, 1, 3, 2, 1, 3, 2, 1, 3, 1, 1, 3, 1, 1, 2, 2, 3, 2, 4, 2, 3, 2, 1, 3, 4, 1, 3, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 2, 3, 2, 2, 4, 3, 1, 1, 2, 1, 3, 1, 3, 1, 5]"
+[215],"CTTTAGCTATTGATGCATACCCTCTTTCAAAACACCCTAATTCCGAATATCGTAAGGTTTTTTACGTATT
+","[4, 1, 1, 1, 2, 3, 4, 1, 2, 1, 1, 3, 2, 1, 3, 4, 2, 1, 2, 4, 4, 4, 1, 4, 1, 1, 1, 4, 2, 2, 2, 2, 4, 2, 4, 4, 4, 1, 2, 2, 1, 1, 4, 4, 3, 2, 2, 1, 2, 1, 4, 3, 1, 2, 2, 3, 3, 1, 1, 1, 1, 1, 1, 2, 4, 3, 1, 2, 1, 1, 5]"
+[216],"ACTTGATTGGGTTAAGCATCTTAACAAAAATTTGAATGAGGGTGTTCTTGAATCTTTTTCTGTTACACTT
+","[2, 4, 1, 1, 3, 2, 1, 1, 3, 3, 3, 1, 1, 2, 2, 3, 4, 2, 1, 4, 1, 1, 2, 2, 4, 2, 2, 2, 2, 2, 1, 1, 1, 3, 2, 2, 1, 3, 2, 3, 3, 3, 1, 3, 1, 1, 4, 1, 1, 3, 2, 2, 1, 4, 1, 1, 1, 1, 1, 4, 1, 3, 1, 1, 2, 4, 2, 4, 1, 1, 5]"
+[217],"CTTGATAATCAAGAAGATAAGTTTTGGTGTGAAGATTTTTATGCTAGTATGTATGAAAATTCTACAATAT
+","[4, 1, 1, 3, 2, 1, 2, 2, 1, 4, 2, 2, 3, 2, 2, 3, 2, 1, 2, 2, 3, 1, 1, 1, 1, 3, 3, 1, 3, 1, 3, 2, 2, 3, 2, 1, 1, 1, 1, 1, 2, 1, 3, 4, 1, 2, 3, 1, 2, 1, 3, 1, 2, 1, 3, 2, 2, 2, 2, 1, 1, 4, 1, 2, 4, 2, 2, 1, 2, 1, 5]"
+[218],"TGCAAGCTGCTGGTTTATGTGTTGTTTGTGGTTCACAAACTGTACTTCGTTGTGGTGATTGTCTGCGTAA
+","[1, 3, 4, 2, 2, 3, 4, 1, 3, 4, 1, 3, 3, 1, 1, 1, 2, 1, 3, 1, 3, 1, 1, 3, 1, 1, 1, 3, 1, 3, 3, 1, 1, 4, 2, 4, 2, 2, 2, 4, 1, 3, 1, 2, 4, 1, 1, 4, 3, 1, 1, 3, 1, 3, 3, 1, 3, 2, 1, 1, 3, 1, 4, 1, 3, 4, 3, 1, 2, 2, 5]"
+[219],"GCCTATGTTGTGCACTAAATGCGCATATGATCATGTATTTGGTACCGACCACAAGTTTATTTTGGCTATA
+","[3, 4, 4, 1, 2, 1, 3, 1, 1, 3, 1, 3, 4, 2, 4, 1, 2, 2, 2, 1, 3, 4, 3, 4, 2, 1, 2, 1, 3, 2, 1, 4, 2, 1, 3, 1, 2, 1, 1, 1, 3, 3, 1, 2, 4, 4, 3, 2, 4, 4, 2, 4, 2, 2, 3, 1, 1, 1, 2, 1, 1, 1, 1, 3, 3, 4, 1, 2, 1, 2, 5]"
+[220],"ACACCGTATGTATGTAATGCATCAGGTTGTGGTGTTAGTGATGTCAAAAAATTGTATCTTGGTGGTTTGA
+","[2, 4, 2, 4, 4, 3, 1, 2, 1, 3, 1, 2, 1, 3, 1, 2, 2, 1, 3, 4, 2, 1, 4, 2, 3, 3, 1, 1, 3, 1, 3, 3, 1, 3, 1, 1, 2, 3, 1, 3, 2, 1, 3, 1, 4, 2, 2, 2, 2, 2, 2, 1, 1, 3, 1, 2, 1, 4, 1, 1, 3, 3, 1, 3, 3, 1, 1, 1, 3, 2, 5]"
+[221],"ATTACTATTGTACAAATCATAAACCACAGTTGTCTTTTCCATTATGTTCAGCTGGTAATATATTTGGTTT
+","[2, 1, 1, 2, 4, 1, 2, 1, 1, 3, 1, 2, 4, 2, 2, 2, 1, 4, 2, 1, 2, 2, 2, 4, 4, 2, 4, 2, 3, 1, 1, 3, 1, 4, 1, 1, 1, 1, 4, 4, 2, 1, 1, 2, 1, 3, 1, 1, 4, 2, 3, 4, 1, 3, 3, 1, 2, 2, 1, 2, 1, 2, 1, 1, 1, 3, 3, 1, 1, 1, 5]"
+[222],"ATATAAAAATTCAGCAACTGGTTCCTTAGATGTTGAAGTTTTTAATAGGCTTGCAACGTCTGATTGGACT
+","[2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 4, 2, 3, 4, 2, 2, 4, 1, 3, 3, 1, 1, 4, 4, 1, 1, 2, 3, 2, 1, 3, 1, 1, 3, 2, 2, 3, 1, 1, 1, 1, 1, 2, 2, 1, 2, 3, 3, 4, 1, 1, 3, 4, 2, 2, 4, 3, 1, 4, 1, 3, 2, 1, 1, 3, 3, 2, 4, 1, 5]"
+[223],"GATGTTAGGGACTATAAACTTGCTAATGATGTTAAAGATACACTTAGACTCTTTGCGGCTGAAACTATTA
+","[3, 2, 1, 3, 1, 1, 2, 3, 3, 3, 2, 4, 1, 2, 1, 2, 2, 2, 4, 1, 1, 3, 4, 1, 2, 2, 1, 3, 2, 1, 3, 1, 1, 2, 2, 2, 3, 2, 1, 2, 4, 2, 4, 1, 1, 2, 3, 2, 4, 1, 4, 1, 1, 1, 3, 4, 3, 3, 4, 1, 3, 2, 2, 2, 4, 1, 2, 1, 1, 2, 5]"
+[224],"AAGCTAAAGAAGAGAGTGTTAAGTCTTCTTATGCTTTTGCAACTCTTAAAGAGGTTGTTGGACCTAAAGA
+","[2, 2, 3, 4, 1, 2, 2, 2, 3, 2, 2, 3, 2, 3, 2, 3, 1, 3, 1, 1, 2, 2, 3, 1, 4, 1, 1, 4, 1, 1, 2, 1, 3, 4, 1, 1, 1, 1, 3, 4, 2, 2, 4, 1, 4, 1, 1, 2, 2, 2, 3, 2, 3, 3, 1, 1, 3, 1, 1, 3, 3, 2, 4, 4, 1, 2, 2, 2, 3, 2, 5]"
+[225],"ATTGCTTCTTAGTTGGGAAAGTGGTAAAGTTAAACCACCTTTGAATCGTAATTCTGTTTTCACTTGTTTT
+","[2, 1, 1, 3, 4, 1, 1, 4, 1, 1, 2, 3, 1, 1, 3, 3, 3, 2, 2, 2, 3, 1, 3, 3, 1, 2, 2, 2, 3, 1, 1, 2, 2, 2, 4, 4, 2, 4, 4, 1, 1, 1, 3, 2, 2, 1, 4, 3, 1, 2, 2, 1, 1, 4, 1, 3, 1, 1, 1, 1, 4, 2, 4, 1, 1, 3, 1, 1, 1, 1, 5]"
+[226],"CAAATAAGTAAGGACTCAAAATTCCAAATAGGTGAGTTCATCTTTGAGAAGGTTGAATATGGTTCTGATA
+","[4, 2, 2, 2, 1, 2, 2, 3, 1, 2, 2, 3, 3, 2, 4, 1, 4, 2, 2, 2, 2, 1, 1, 4, 4, 2, 2, 2, 1, 2, 3, 3, 1, 3, 2, 3, 1, 1, 4, 2, 1, 4, 1, 1, 1, 3, 2, 3, 2, 2, 3, 3, 1, 1, 3, 2, 2, 1, 2, 1, 3, 3, 1, 1, 4, 1, 3, 2, 1, 2, 5]"
+[227],"CTGTTACGTATAAGTCTACTGTAACTACTAAGTTAGTTCCTGGTATGATTTTTGTCTTAACATCTCACAA
+","[4, 1, 3, 1, 1, 2, 4, 3, 1, 2, 1, 2, 2, 3, 1, 4, 1, 2, 4, 1, 3, 1, 2, 2, 4, 1, 2, 4, 1, 2, 2, 3, 1, 1, 2, 3, 1, 1, 4, 4, 1, 3, 3, 1, 2, 1, 3, 2, 1, 1, 1, 1, 1, 3, 1, 4, 1, 1, 2, 2, 4, 2, 1, 4, 1, 4, 2, 4, 2, 2, 5]"
+[228],"TGTCCAACCTTTACGTGCACCAACTATTGCAAACCAAGAGAAGTATTCTAGCATTTATAAATTGCACCCT
+","[1, 3, 1, 4, 4, 2, 2, 4, 4, 1, 1, 1, 2, 4, 3, 1, 3, 4, 2, 4, 4, 2, 2, 4, 1, 2, 1, 1, 3, 4, 2, 2, 2, 4, 4, 2, 2, 3, 2, 3, 2, 2, 3, 1, 2, 1, 1, 4, 1, 2, 3, 4, 2, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 3, 4, 2, 4, 4, 4, 1, 5]"
+[229],"GCTTTTAATGTCAGTGATGCATATGCTAATTTGGTTCCATATTACCAACTTATTGGTAAACAAAAGATAA
+","[3, 4, 1, 1, 1, 1, 2, 2, 1, 3, 1, 4, 2, 3, 1, 3, 2, 1, 3, 4, 2, 1, 2, 1, 3, 4, 1, 2, 2, 1, 1, 1, 3, 3, 1, 1, 4, 4, 2, 1, 2, 1, 1, 2, 4, 4, 2, 2, 4, 1, 1, 2, 1, 1, 3, 3, 1, 2, 2, 2, 4, 2, 2, 2, 2, 3, 2, 1, 2, 2, 5]"
+[230],"CTACAATACAGGGTCCTCCTGGTAGTGGTAAGTCACATTGTTCCATTGGACTTGGATTGTACTACCCAGG
+","[4, 1, 2, 4, 2, 2, 1, 2, 4, 2, 3, 3, 3, 1, 4, 4, 1, 4, 4, 1, 3, 3, 1, 2, 3, 1, 3, 3, 1, 2, 2, 3, 1, 4, 2, 4, 2, 1, 1, 3, 1, 1, 4, 4, 2, 1, 1, 3, 3, 2, 4, 1, 1, 3, 3, 2, 1, 1, 3, 1, 2, 4, 1, 2, 4, 4, 4, 2, 3, 3, 5]"
+[231],"TGCGCGTATTGTTTTTGTTGCTTGTGCCCATGCTGCTGTTGATTCCTTATGTGCAAAAGCTATGACTGTT
+","[1, 3, 4, 3, 4, 3, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 1, 3, 4, 1, 1, 3, 1, 3, 4, 4, 4, 2, 1, 3, 4, 1, 3, 4, 1, 3, 1, 1, 3, 2, 1, 1, 4, 4, 1, 1, 2, 1, 3, 1, 3, 4, 2, 2, 2, 2, 3, 4, 1, 2, 1, 3, 2, 4, 1, 3, 1, 1, 5]"
+[232],"TATAGCATTGATAAGTGTACTAGGATTATACCTGCAAGAGCTCGGGTTGAGTGTTATAGTGGCTTTAAAC
+","[1, 2, 1, 2, 3, 4, 2, 1, 1, 3, 2, 1, 2, 2, 3, 1, 3, 1, 2, 4, 1, 2, 3, 3, 2, 1, 1, 2, 1, 2, 4, 4, 1, 3, 4, 2, 2, 3, 2, 3, 4, 1, 4, 3, 3, 3, 1, 1, 3, 2, 3, 1, 3, 1, 1, 2, 1, 2, 3, 1, 3, 3, 4, 1, 1, 1, 2, 2, 2, 4, 5]"
+[233],"CAAATAACACTAGTGCACAATACATATTTAGCACTGTTAACGCATTACCTGAGTGTAATGCTGATATCGT
+","[4, 2, 2, 2, 1, 2, 2, 4, 2, 4, 1, 2, 3, 1, 3, 4, 2, 4, 2, 2, 1, 2, 4, 2, 1, 2, 1, 1, 1, 2, 3, 4, 2, 4, 1, 3, 1, 1, 2, 2, 4, 3, 4, 2, 1, 1, 2, 4, 4, 1, 3, 2, 3, 1, 3, 1, 2, 2, 1, 3, 4, 1, 3, 2, 1, 2, 1, 4, 3, 1, 5]"
+[234],"TGTTGTAGATGAAGTTTCAATGTGTACAAATTATGACCTTTCTGTTATTAACCAGCGTTTATCATATAAA
+","[1, 3, 1, 1, 3, 1, 2, 3, 2, 1, 3, 2, 2, 3, 1, 1, 1, 4, 2, 2, 1, 3, 1, 3, 1, 2, 4, 2, 2, 2, 1, 1, 2, 1, 3, 2, 4, 4, 1, 1, 1, 4, 1, 3, 1, 1, 2, 1, 1, 2, 2, 4, 4, 2, 3, 4, 3, 1, 1, 1, 2, 1, 4, 2, 1, 2, 1, 2, 2, 2, 5]"
+[235],"CATATTGTTTATGTTGGTGATCCACAACAACTTCCTGCACCTAGAGTAATGATTACTAAAGGTGTTATGG
+","[4, 2, 1, 2, 1, 1, 3, 1, 1, 1, 2, 1, 3, 1, 1, 3, 3, 1, 3, 2, 1, 4, 4, 2, 4, 2, 2, 4, 2, 2, 4, 1, 1, 4, 4, 1, 3, 4, 2, 4, 4, 1, 2, 3, 2, 3, 1, 2, 2, 1, 3, 2, 1, 1, 2, 4, 1, 2, 2, 2, 3, 3, 1, 3, 1, 1, 2, 1, 3, 3, 5]"
+[236],"AGCCTGTTGATTATAACGTTGTTACTCAACGTATGTGTGCTATAGGCCCTGATGTTTTTCTTCATAAATG
+","[2, 3, 4, 4, 1, 3, 1, 1, 3, 2, 1, 1, 2, 1, 2, 2, 4, 3, 1, 1, 3, 1, 1, 2, 4, 1, 4, 2, 2, 4, 3, 1, 2, 1, 3, 1, 3, 1, 3, 4, 1, 2, 1, 2, 3, 3, 4, 4, 4, 1, 3, 2, 1, 3, 1, 1, 1, 1, 1, 4, 1, 1, 4, 2, 1, 2, 2, 2, 1, 3, 5]"
+[237],"TTATAGATGTCCTGCTGAAATAGTTAATACAGTTTCTGAACTTGTTTATGAGAACAAGTTTGTCCCTGTT
+","[1, 1, 2, 1, 2, 3, 2, 1, 3, 1, 4, 4, 1, 3, 4, 1, 3, 2, 2, 2, 1, 2, 3, 1, 1, 2, 2, 1, 2, 4, 2, 3, 1, 1, 1, 4, 1, 3, 2, 2, 4, 1, 1, 3, 1, 1, 1, 2, 1, 3, 2, 3, 2, 2, 4, 2, 2, 3, 1, 1, 1, 3, 1, 4, 4, 4, 1, 3, 1, 1, 5]"
+[238],"AAACCTGCTAGTAAACAGTGTTTTAAAGTCTTTTTTAAGGGTAATGTACAGGTTGACAATGGTTCTAGTA
+","[2, 2, 2, 4, 4, 1, 3, 4, 1, 2, 3, 1, 2, 2, 2, 4, 2, 3, 1, 3, 1, 1, 1, 1, 2, 2, 2, 3, 1, 4, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 1, 2, 2, 1, 3, 1, 2, 4, 2, 3, 3, 1, 1, 3, 2, 4, 2, 2, 1, 3, 3, 1, 1, 4, 1, 2, 3, 1, 2, 5]"
+[239],"TTAACAGAAAGCAGCTTGAAATAGTTAAGCTGTTTTTAGTTAAAAATCCAAGTTGGAGTAAGGCTGTGTT
+","[1, 1, 2, 2, 4, 2, 3, 2, 2, 2, 3, 4, 2, 3, 4, 1, 1, 3, 2, 2, 2, 1, 2, 3, 1, 1, 2, 2, 3, 4, 1, 3, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2, 2, 2, 2, 2, 1, 4, 4, 2, 2, 3, 1, 1, 3, 3, 2, 3, 1, 2, 2, 3, 3, 4, 1, 3, 1, 3, 1, 1, 5]"
+[240],"TATTTCTCCTTATAATAGTCAGAATTATGTTGCTAGTAGATTTTTAGGACTTCAAATTCAAACTGTTGAT
+","[1, 2, 1, 1, 1, 4, 1, 4, 4, 1, 1, 2, 1, 2, 2, 1, 2, 3, 1, 4, 2, 3, 2, 2, 1, 1, 2, 1, 3, 1, 1, 3, 4, 1, 2, 3, 1, 2, 3, 2, 1, 1, 1, 1, 1, 2, 3, 3, 2, 4, 1, 1, 4, 2, 2, 2, 1, 1, 4, 2, 2, 2, 4, 1, 3, 1, 1, 3, 2, 1, 5]"
+[241],"TCTTCTCAAGGTAGTGAGTATGATTATGTAATCTATGCACAAACTTCTGACACTGCACATGCTTGCAATG
+","[1, 4, 1, 1, 4, 1, 4, 2, 2, 3, 3, 1, 2, 3, 1, 3, 2, 3, 1, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 2, 2, 1, 4, 1, 2, 1, 3, 4, 2, 4, 2, 2, 2, 4, 1, 1, 4, 1, 3, 2, 4, 2, 4, 1, 3, 4, 2, 4, 2, 1, 3, 4, 1, 1, 3, 4, 2, 2, 1, 3, 5]"
+[242],"TAAACCGTTTTAATGTTGCTATAACACGTGCTAAGAAGGGTATATTTTGTGTAATGTGTGATAAAACTTT
+","[1, 2, 2, 2, 4, 4, 3, 1, 1, 1, 1, 2, 2, 1, 3, 1, 1, 3, 4, 1, 2, 1, 2, 2, 4, 2, 4, 3, 1, 3, 4, 1, 2, 2, 3, 2, 2, 3, 3, 3, 1, 2, 1, 2, 1, 1, 1, 1, 3, 1, 3, 1, 2, 2, 1, 3, 1, 3, 1, 3, 2, 1, 2, 2, 2, 2, 4, 1, 1, 1, 5]"
+[243],"GTTTGATTCACTTAAGTTTTTTGAGATTAAACATGCAGATTTACACTCTAGCCAGGTTTGTGGCTTGTTT
+","[3, 1, 1, 1, 3, 2, 1, 1, 4, 2, 4, 1, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 3, 2, 3, 2, 1, 1, 2, 2, 2, 4, 2, 1, 3, 4, 2, 3, 2, 1, 1, 1, 2, 4, 2, 4, 1, 4, 1, 2, 3, 4, 4, 2, 3, 3, 1, 1, 1, 3, 1, 3, 3, 4, 1, 1, 3, 1, 1, 1, 5]"
+[244],"AAAAATTGTACACGCACTCCTCTTAATTTACCACCAACTCATGCACACACTTTCTTGTCGTTGTCAGATC
+","[2, 2, 2, 2, 2, 1, 1, 3, 1, 2, 4, 2, 4, 3, 4, 2, 4, 1, 4, 4, 1, 4, 1, 1, 2, 2, 1, 1, 1, 2, 4, 4, 2, 4, 4, 2, 2, 4, 1, 4, 2, 1, 3, 4, 2, 4, 2, 4, 2, 4, 1, 1, 1, 4, 1, 1, 3, 1, 4, 3, 1, 1, 3, 1, 4, 2, 3, 2, 1, 4, 5]"
+[245],"AGTTTAAGACTACAGGTGATTTAGCTGTTCAAATAGGTTCAAATAACGTTTGTACTTATGAACATGTTAT
+","[2, 3, 1, 1, 1, 2, 2, 3, 2, 4, 1, 2, 4, 2, 3, 3, 1, 3, 2, 1, 1, 1, 2, 3, 4, 1, 3, 1, 1, 4, 2, 2, 2, 1, 2, 3, 3, 1, 1, 4, 2, 2, 2, 1, 2, 2, 4, 3, 1, 1, 1, 3, 1, 2, 4, 1, 1, 2, 1, 3, 2, 2, 4, 2, 1, 3, 1, 1, 2, 1, 5]"
+[246],"ATCATTTATGGGTTTTAGGTTTGATATTAGTATTCCTGGTAGTCATAGTTTGTTTTGTACACGTGACTTT
+","[2, 1, 4, 2, 1, 1, 1, 2, 1, 3, 3, 3, 1, 1, 1, 1, 2, 3, 3, 1, 1, 1, 3, 2, 1, 2, 1, 1, 2, 3, 1, 2, 1, 1, 4, 4, 1, 3, 3, 1, 2, 3, 1, 4, 2, 1, 2, 3, 1, 1, 1, 3, 1, 1, 1, 1, 3, 1, 2, 4, 2, 4, 3, 1, 3, 2, 4, 1, 1, 1, 5]"
+[247],"GCTATTCGTAATGTGCGTGGTTGGTTGGGTATGGATGTTGAAAGTGCTCATGTTTGTGGCGATAACATAG
+","[3, 4, 1, 2, 1, 1, 4, 3, 1, 2, 2, 1, 3, 1, 3, 4, 3, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 3, 3, 1, 2, 1, 3, 3, 2, 1, 3, 1, 1, 3, 2, 2, 2, 3, 1, 3, 4, 1, 4, 2, 1, 3, 1, 1, 1, 3, 1, 3, 3, 4, 3, 2, 1, 2, 2, 4, 2, 1, 2, 3, 5]"
+[248],"GTACTAATGTTCCTTTACAGGTTGGTTTTTCAAATGGTGTTAATTTTGTTGTGCAAACTGAAGGTTGTGT
+","[3, 1, 2, 4, 1, 2, 2, 1, 3, 1, 1, 4, 4, 1, 1, 1, 2, 4, 2, 3, 3, 1, 1, 3, 3, 1, 1, 1, 1, 1, 4, 2, 2, 2, 1, 3, 3, 1, 3, 1, 1, 2, 2, 1, 1, 1, 1, 3, 1, 1, 3, 1, 3, 4, 2, 2, 2, 4, 1, 3, 2, 2, 3, 3, 1, 1, 3, 1, 3, 1, 5]"
+[249],"GTCTACCAATTTTGGTGATGTTATTAAACCTGTTTGTGCAAAATCTCCACCAGGTGAACAATTTAGACAC
+","[3, 1, 4, 1, 2, 4, 4, 2, 2, 1, 1, 1, 1, 3, 3, 1, 3, 2, 1, 3, 1, 1, 2, 1, 1, 2, 2, 2, 4, 4, 1, 3, 1, 1, 1, 3, 1, 3, 4, 2, 2, 2, 2, 1, 4, 1, 4, 4, 2, 4, 4, 2, 3, 3, 1, 3, 2, 2, 4, 2, 2, 1, 1, 1, 2, 3, 2, 4, 2, 4, 5]"
+[250],"CTTATTCCTCTTTTACGTAAAGGACAACCTTGGTTAATTGTTCGTAGACGCATTGTGCAAATGATATCTG
+","[4, 1, 1, 2, 1, 1, 4, 4, 1, 4, 1, 1, 1, 1, 2, 4, 3, 1, 2, 2, 2, 3, 3, 2, 4, 2, 2, 4, 4, 1, 1, 3, 3, 1, 1, 2, 2, 1, 1, 3, 1, 1, 4, 3, 1, 2, 3, 2, 4, 3, 4, 2, 1, 1, 3, 1, 3, 4, 2, 2, 2, 1, 3, 2, 1, 2, 1, 4, 1, 3, 5]"
+[251],"ATTATTTGTCCAATTTGTCTGACATTCTTGTCTTTGTTTTGTGGGCAGGTAGTTTGGAATTAACTACAAT
+","[2, 1, 1, 2, 1, 1, 1, 3, 1, 4, 4, 2, 2, 1, 1, 1, 3, 1, 4, 1, 3, 2, 4, 2, 1, 1, 4, 1, 1, 3, 1, 4, 1, 1, 1, 3, 1, 1, 1, 1, 3, 1, 3, 3, 3, 4, 2, 3, 3, 1, 2, 3, 1, 1, 1, 3, 3, 2, 2, 1, 1, 2, 2, 4, 1, 2, 4, 2, 2, 1, 5]"
+[252],"GCGTTACTTTGTAAAAATAGGGCCAATTAAATATTGTTATTGTGGTAATTCTGCCACTTGTTATAATTCA
+","[3, 4, 3, 1, 1, 2, 4, 1, 1, 1, 3, 1, 2, 2, 2, 2, 2, 1, 2, 3, 3, 3, 4, 4, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 3, 1, 3, 3, 1, 2, 2, 1, 1, 4, 1, 3, 4, 4, 2, 4, 1, 1, 3, 1, 1, 2, 1, 2, 2, 1, 1, 4, 2, 5]"
+[253],"GTTAGTAATGAATATTGTTGTTTTAAACATGCATTGGGTTGTGATTATGTTTACAATCCGTATGCTTTTG
+","[3, 1, 1, 2, 3, 1, 2, 2, 1, 3, 2, 2, 1, 2, 1, 1, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 4, 2, 1, 3, 4, 2, 1, 1, 3, 3, 3, 1, 1, 3, 1, 3, 2, 1, 1, 2, 1, 3, 1, 1, 1, 2, 4, 2, 2, 1, 4, 4, 3, 1, 2, 1, 3, 4, 1, 1, 1, 1, 3, 5]"
+[254],"ATATACAACAGTGGGGTTATGTTGGTTCCTTGAGCCAAAACCACCACACATTCTGTAACATTCATAGAAA
+","[2, 1, 2, 1, 2, 4, 2, 2, 4, 2, 3, 1, 3, 3, 3, 3, 1, 1, 2, 1, 3, 1, 1, 3, 3, 1, 1, 4, 4, 1, 1, 3, 2, 3, 4, 4, 2, 2, 2, 2, 4, 4, 2, 4, 4, 2, 4, 2, 4, 2, 1, 1, 4, 1, 3, 1, 2, 2, 4, 2, 1, 1, 4, 2, 1, 2, 3, 2, 2, 2, 5]"
+[255],"CGAGCATGATGCCTCTGGTGATGCTGTTATGACACGTTGTTTGGCAGTACATGATTGTTTTGTCAAAAAT
+","[4, 3, 2, 3, 4, 2, 1, 3, 2, 1, 3, 4, 4, 1, 4, 1, 3, 3, 1, 3, 2, 1, 3, 4, 1, 3, 1, 1, 2, 1, 3, 2, 4, 2, 4, 3, 1, 1, 3, 1, 1, 1, 3, 3, 4, 2, 3, 1, 2, 4, 2, 1, 3, 2, 1, 1, 3, 1, 1, 1, 1, 3, 1, 4, 2, 2, 2, 2, 2, 1, 5]"
+[256],"GTTGATTGGACTGTAACGTACCCCTTTATTGCAAATGAGAAATTTATCAATGGCTGTGGGCGTAATGTCC
+","[3, 1, 1, 3, 2, 1, 1, 3, 3, 2, 4, 1, 3, 1, 2, 2, 4, 3, 1, 2, 4, 4, 4, 4, 1, 1, 1, 2, 1, 1, 3, 4, 2, 2, 2, 1, 3, 2, 3, 2, 2, 2, 1, 1, 1, 2, 1, 4, 2, 2, 1, 3, 3, 4, 1, 3, 1, 3, 3, 3, 4, 3, 1, 2, 2, 1, 3, 1, 4, 4, 5]"
+[257],"AGGGACATGTTGTTCGTGCAGCCTTGAAATTGTATAAACCTAGTGTTATTCATGACATTGGTAATCCTAA
+","[2, 3, 3, 3, 2, 4, 2, 1, 3, 1, 1, 3, 1, 1, 4, 3, 1, 3, 4, 2, 3, 4, 4, 1, 1, 3, 2, 2, 2, 1, 1, 3, 1, 2, 1, 2, 2, 2, 4, 4, 1, 2, 3, 1, 3, 1, 1, 2, 1, 1, 4, 2, 1, 3, 2, 4, 2, 1, 1, 3, 3, 1, 2, 2, 1, 4, 4, 1, 2, 2, 5]"
+[258],"AGGTGTACGTTGTGCTGTTACTGATGCCAAATGGTACTGTTATGACAAGCAACCTGTTAATAGTAATGTC
+","[2, 3, 3, 1, 3, 1, 2, 4, 3, 1, 1, 3, 1, 3, 4, 1, 3, 1, 1, 2, 4, 1, 3, 2, 1, 3, 4, 4, 2, 2, 2, 1, 3, 3, 1, 2, 4, 1, 3, 1, 1, 2, 1, 3, 2, 4, 2, 2, 3, 4, 2, 2, 4, 4, 1, 3, 1, 1, 2, 2, 1, 2, 3, 1, 2, 2, 1, 3, 1, 4, 5]"
+[259],"AAGTTGTTGGATTATGATTATGCAACCCATGGTCAACTTGATGGTCTTTGTTTATTCTGGAATTGTAATG
+","[2, 2, 3, 1, 1, 3, 1, 1, 3, 3, 2, 1, 1, 2, 1, 3, 2, 1, 1, 2, 1, 3, 4, 2, 2, 4, 4, 4, 2, 1, 3, 3, 1, 4, 2, 2, 4, 1, 1, 3, 2, 1, 3, 3, 1, 4, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 4, 1, 3, 3, 2, 2, 1, 1, 3, 1, 2, 2, 1, 3, 5]"
+[260],"TTGATATGTATCCAGAATTTTCAATTGTGTGTCGTTTTGACACACGTACTCGTTCTGTTTTTAATTTAGA
+","[1, 1, 3, 2, 1, 2, 1, 3, 1, 2, 1, 4, 4, 2, 3, 2, 2, 1, 1, 1, 1, 4, 2, 2, 1, 1, 3, 1, 3, 1, 3, 1, 4, 3, 1, 1, 1, 1, 3, 2, 4, 2, 4, 2, 4, 3, 1, 2, 4, 1, 4, 3, 1, 1, 4, 1, 3, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 3, 2, 5]"
+[261],"AGGTGTTAATGGTGGTTCTCTTTATGTTAACAAACATGCGTTTCATACACCAGCATATGATAAACGTGCT
+","[2, 3, 3, 1, 3, 1, 1, 2, 2, 1, 3, 3, 1, 3, 3, 1, 1, 4, 1, 4, 1, 1, 1, 2, 1, 3, 1, 1, 2, 2, 4, 2, 2, 2, 4, 2, 1, 3, 4, 3, 1, 1, 1, 4, 2, 1, 2, 4, 2, 4, 4, 2, 3, 4, 2, 1, 2, 1, 3, 2, 1, 2, 2, 2, 4, 3, 1, 3, 4, 1, 5]"
+[262],"TTTGTTAAATTAAAACCTATGCCCTTTTTTTACTTTGATGACAGTGATTGTGATGTTGTGCAAGAACAAG
+","[1, 1, 1, 3, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 4, 4, 1, 2, 1, 3, 4, 4, 4, 1, 1, 1, 1, 1, 1, 1, 2, 4, 1, 1, 1, 3, 2, 1, 3, 2, 4, 2, 3, 1, 3, 2, 1, 1, 3, 1, 3, 2, 1, 3, 1, 1, 3, 1, 3, 4, 2, 2, 3, 2, 2, 4, 2, 2, 3, 5]"
+[263],"TTAATTATGTACCCCTTCGCGCTAGTAGTTGTGTTACTCGTTGTAATATAGGTGGTGCTGTTTGTTCAAA
+","[1, 1, 2, 2, 1, 1, 2, 1, 3, 1, 2, 4, 4, 4, 4, 1, 1, 4, 3, 4, 3, 4, 1, 2, 3, 1, 2, 3, 1, 1, 3, 1, 3, 1, 1, 2, 4, 1, 4, 3, 1, 1, 3, 1, 2, 2, 1, 2, 1, 2, 3, 3, 1, 3, 3, 1, 3, 4, 1, 3, 1, 1, 1, 3, 1, 1, 4, 2, 2, 2, 5]"
+[264],"ACATGCAAATTTGTATCAAAAATATGTTGAGGCATATAATACATTTACACAGGCAGGTTTTAACATTTGG
+","[2, 4, 2, 1, 3, 4, 2, 2, 2, 1, 1, 1, 3, 1, 2, 1, 4, 2, 2, 2, 2, 2, 1, 2, 1, 3, 1, 1, 3, 2, 3, 3, 4, 2, 1, 2, 1, 2, 2, 1, 2, 4, 2, 1, 1, 1, 2, 4, 2, 4, 2, 3, 3, 4, 2, 3, 3, 1, 1, 1, 1, 2, 2, 4, 2, 1, 1, 1, 3, 3, 5]"
+[265],"GTACCACATAGTTTTGATGTTTATAATTTGTGGCAAATTTTTATTGAAACTAATTTACAAAGTCTTGAAA
+","[3, 1, 2, 4, 4, 2, 4, 2, 1, 2, 3, 1, 1, 1, 1, 3, 2, 1, 3, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 3, 1, 3, 3, 4, 2, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 2, 2, 2, 4, 1, 2, 2, 1, 1, 1, 2, 4, 2, 2, 2, 3, 1, 4, 1, 1, 3, 2, 2, 2, 5]"
+[266],"ATATAGCATTTAATGTTGTAAAAAAAGGGTGTTTTACTGGTGTTGATGGTGAGTTACCTGTTGCAGTTGT
+","[2, 1, 2, 1, 2, 3, 4, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 3, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 1, 3, 1, 1, 1, 1, 2, 4, 1, 3, 3, 1, 3, 1, 1, 3, 2, 1, 3, 3, 1, 3, 2, 3, 1, 1, 2, 4, 4, 1, 3, 1, 1, 3, 4, 2, 3, 1, 1, 3, 1, 5]"
+[267],"TAACGACAAAGTTTTTGTTCGCTATGGCGATGTTGACAACTTGGTTTTTACAAATAAAACAACATTGCCT
+","[1, 2, 2, 4, 3, 2, 4, 2, 2, 2, 3, 1, 1, 1, 1, 1, 3, 1, 1, 4, 3, 4, 1, 2, 1, 3, 3, 4, 3, 2, 1, 3, 1, 1, 3, 2, 4, 2, 2, 4, 1, 1, 3, 3, 1, 1, 1, 1, 1, 2, 4, 2, 2, 2, 1, 2, 2, 2, 2, 4, 2, 2, 4, 2, 1, 1, 3, 4, 4, 1, 5]"
+[268],"ACTAATGTTGCTTTTGAATTGTTTGCAAAACGAAAAATGGGTTTAACACCACCATTGTCTATTCTCAAAA
+","[2, 4, 1, 2, 2, 1, 3, 1, 1, 3, 4, 1, 1, 1, 1, 3, 2, 2, 1, 1, 3, 1, 1, 1, 3, 4, 2, 2, 2, 2, 4, 3, 2, 2, 2, 2, 2, 1, 3, 3, 3, 1, 1, 1, 2, 2, 4, 2, 4, 4, 2, 4, 4, 2, 1, 1, 3, 1, 4, 1, 2, 1, 1, 4, 1, 4, 2, 2, 2, 2, 5]"
+[269],"ATCTCGGTGTTGTTGCTACATATAAATTTGTTTTATGGGATTATGAAGCTGAAAGACCTTTTACCTCATA
+","[2, 1, 4, 1, 4, 3, 3, 1, 3, 1, 1, 3, 1, 1, 3, 4, 1, 2, 4, 2, 1, 2, 1, 2, 2, 2, 1, 1, 1, 3, 1, 1, 1, 1, 2, 1, 3, 3, 3, 2, 1, 1, 2, 1, 3, 2, 2, 3, 4, 1, 3, 2, 2, 2, 3, 2, 4, 4, 1, 1, 1, 1, 2, 4, 4, 1, 4, 2, 1, 2, 5]"
+[270],"TACTAAGAGTGTATGTAAATACACTGATTTTAATGAGGATGTTTGTGTTTGTTTTGACAATAGTATTCAG
+","[1, 2, 4, 1, 2, 2, 3, 2, 3, 1, 3, 1, 2, 1, 3, 1, 2, 2, 2, 1, 2, 4, 2, 4, 1, 3, 2, 1, 1, 1, 1, 2, 2, 1, 3, 2, 3, 3, 2, 1, 3, 1, 1, 1, 3, 1, 3, 1, 1, 1, 3, 1, 1, 1, 1, 3, 2, 4, 2, 2, 1, 2, 3, 1, 2, 1, 1, 4, 2, 3, 5]"
+[271],"GGTTCGTATGAGCGTTTTACGCTTACTACGAACGCTGTTTTATTTTCTACTGTTGTCATTAAAAATTTAA
+","[3, 3, 1, 1, 4, 3, 1, 2, 1, 3, 2, 3, 4, 3, 1, 1, 1, 1, 2, 4, 3, 4, 1, 1, 2, 4, 1, 2, 4, 3, 2, 2, 4, 3, 4, 1, 3, 1, 1, 1, 1, 2, 1, 1, 1, 1, 4, 1, 2, 4, 1, 3, 1, 1, 3, 1, 4, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 2, 5]"
+[272],"CACCTATAAAGTTGAATTTTGGTATGTTGAATGGTATGCCAGTTTCTTCTATTAAGGGTGATAAAGGTGT
+","[4, 2, 4, 4, 1, 2, 1, 2, 2, 2, 3, 1, 1, 3, 2, 2, 1, 1, 1, 1, 3, 3, 1, 2, 1, 3, 1, 1, 3, 2, 2, 1, 3, 3, 1, 2, 1, 3, 4, 4, 2, 3, 1, 1, 1, 4, 1, 1, 4, 1, 2, 1, 1, 2, 2, 3, 3, 3, 1, 3, 2, 1, 2, 2, 2, 3, 3, 1, 3, 1, 5]"
+[273],"TGAAAAATTAGTTAATTGGTACATATATGTTCGTAAAAATGGTCAATTTCAAGATCACTATGATGGTTTT
+","[1, 3, 2, 2, 2, 2, 2, 1, 1, 2, 3, 1, 1, 2, 2, 1, 1, 3, 3, 1, 2, 4, 2, 1, 2, 1, 2, 1, 3, 1, 1, 4, 3, 1, 2, 2, 2, 2, 2, 1, 3, 3, 1, 4, 2, 2, 1, 1, 1, 4, 2, 2, 3, 2, 1, 4, 2, 4, 1, 2, 1, 3, 2, 1, 3, 3, 1, 1, 1, 1, 5]"
+[274],"TACACTCAAGGTAGGAATTTATCAGACTTTACACCAAGAAGTGATATGGAGTATGATTTTCTTAACATGG
+","[1, 2, 4, 2, 4, 1, 4, 2, 2, 3, 3, 1, 2, 3, 3, 2, 2, 1, 1, 1, 2, 1, 4, 2, 3, 2, 4, 1, 1, 1, 2, 4, 2, 4, 4, 2, 2, 3, 2, 2, 3, 1, 3, 2, 1, 2, 1, 3, 3, 2, 3, 1, 2, 1, 3, 2, 1, 1, 1, 1, 4, 1, 1, 2, 2, 4, 2, 1, 3, 3, 5]"
+[275],"ATATGGGTGTTTTTATTAATAAATATGGTCTTGAGGATTTTAATTTTGAACATGTTGTATATGGTGATGT
+","[2, 1, 2, 1, 3, 3, 3, 1, 3, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 2, 2, 1, 2, 1, 3, 3, 1, 4, 1, 1, 3, 2, 3, 3, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 3, 2, 2, 4, 2, 1, 3, 1, 1, 3, 1, 2, 1, 2, 1, 3, 3, 1, 3, 2, 1, 3, 1, 5]"
+[276],"TTCAAAAACTACATTAGGAGGTCTTCATTTGTTGATATCACAGTTTAGGCTTAGTAAAATGGGTGTTTTG
+","[1, 1, 4, 2, 2, 2, 2, 2, 4, 1, 2, 4, 2, 1, 1, 2, 3, 3, 2, 3, 3, 1, 4, 1, 1, 4, 2, 1, 1, 1, 3, 1, 1, 3, 2, 1, 2, 1, 4, 2, 4, 2, 3, 1, 1, 1, 2, 3, 3, 4, 1, 1, 2, 3, 1, 2, 2, 2, 2, 1, 3, 3, 3, 1, 3, 1, 1, 1, 1, 3, 5]"
+[277],"AAAGCTGATGATTTTGTCACTGCTTCTGACACAACTTTGAGGTGCTGTACTGTTACTTATCTTAATGAAC
+","[2, 2, 2, 3, 4, 1, 3, 2, 1, 3, 2, 1, 1, 1, 1, 3, 1, 4, 2, 4, 1, 3, 4, 1, 1, 4, 1, 3, 2, 4, 2, 4, 2, 2, 4, 1, 1, 1, 3, 2, 3, 3, 1, 3, 4, 1, 3, 1, 2, 4, 1, 3, 1, 1, 2, 4, 1, 1, 2, 1, 4, 1, 1, 2, 2, 1, 3, 2, 2, 4, 5]"
+[278],"TTAGTTCAAAAGTTGTTTGTACTTATATGGATTTGTTGTTGGACGACTTTGTTACTATACTAAAGAGTTT
+","[1, 1, 2, 3, 1, 1, 4, 2, 2, 2, 2, 3, 1, 1, 3, 1, 1, 1, 3, 1, 2, 4, 1, 1, 2, 1, 2, 1, 3, 3, 2, 1, 1, 1, 3, 1, 1, 3, 1, 1, 3, 3, 2, 4, 3, 2, 4, 1, 1, 1, 3, 1, 1, 2, 4, 1, 2, 1, 2, 4, 1, 2, 2, 2, 3, 2, 3, 1, 1, 1, 5]"
+[279],"AGATCTTGGTGTAATATCTAAAGTTCATGAAGTTATTATAGATAATAAACCTTATAGGTGGATGTTGTGG
+","[2, 3, 2, 1, 4, 1, 1, 3, 3, 1, 3, 1, 2, 2, 1, 2, 1, 4, 1, 2, 2, 2, 3, 1, 1, 4, 2, 1, 3, 2, 2, 3, 1, 1, 2, 1, 1, 2, 1, 2, 3, 2, 1, 2, 2, 1, 2, 2, 2, 4, 4, 1, 1, 2, 1, 2, 3, 3, 1, 3, 3, 2, 1, 3, 1, 1, 3, 1, 3, 3, 5]"
+[280],"TGTAAAGATAACCACTTGTCCACTTTTTATCCACAGTTGCAGTCTGCTGAATGGAAGTGTGGTTATGCTA
+","[1, 3, 1, 2, 2, 2, 3, 2, 1, 2, 2, 4, 4, 2, 4, 1, 1, 3, 1, 4, 4, 2, 4, 1, 1, 1, 1, 1, 2, 1, 4, 4, 2, 4, 2, 3, 1, 1, 3, 4, 2, 3, 1, 4, 1, 3, 4, 1, 3, 2, 2, 1, 3, 3, 2, 2, 3, 1, 3, 1, 3, 3, 1, 1, 2, 1, 3, 4, 1, 2, 5]"
+[281],"TGCCACAAATTTATAAGCTTCAACGTATGTGTTTGGAACCTTGTAATTTATATAATTATGGTGCTGGTAT
+","[1, 3, 4, 4, 2, 4, 2, 2, 2, 1, 1, 1, 2, 1, 2, 2, 3, 4, 1, 1, 4, 2, 2, 4, 3, 1, 2, 1, 3, 1, 3, 1, 1, 1, 3, 3, 2, 2, 4, 4, 1, 1, 3, 1, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 3, 3, 1, 3, 4, 1, 3, 3, 1, 2, 1, 5]"
+[282],"TAAGTTGCCTAGTGGTATAATGTTAAATGTTGTTAAATACACTCAGCTTTGTCAATACCTAAATAGCACT
+","[1, 2, 2, 3, 1, 1, 3, 4, 4, 1, 2, 3, 1, 3, 3, 1, 2, 1, 2, 2, 1, 3, 1, 1, 2, 2, 2, 1, 3, 1, 1, 3, 1, 1, 2, 2, 2, 1, 2, 4, 2, 4, 1, 4, 2, 3, 4, 1, 1, 1, 3, 1, 4, 2, 2, 1, 2, 4, 4, 1, 2, 2, 2, 1, 2, 3, 4, 2, 4, 1, 5]"
+[283],"ACAATGTGCGTACCTCATAATATGCGTGTTTTGCACTATGGTGCTGGTTCTGACAAAGGTGTGGCACCTG
+","[2, 4, 2, 2, 1, 3, 1, 3, 4, 3, 1, 2, 4, 4, 1, 4, 2, 1, 2, 2, 1, 2, 1, 3, 4, 3, 1, 3, 1, 1, 1, 1, 3, 4, 2, 4, 1, 2, 1, 3, 3, 1, 3, 4, 1, 3, 3, 1, 1, 4, 1, 3, 2, 4, 2, 2, 2, 3, 3, 1, 3, 1, 3, 3, 4, 2, 4, 4, 1, 3, 5]"
+[284],"GTACAACTGTTTTAAAACGTTGGCTACCACCCGATGCAATAATCATTGATAATGATATCAATGATTATGT
+","[3, 1, 2, 4, 2, 2, 4, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 4, 3, 1, 1, 3, 3, 4, 1, 2, 4, 4, 2, 4, 4, 4, 3, 2, 1, 3, 4, 2, 2, 1, 2, 2, 1, 4, 2, 1, 1, 3, 2, 1, 2, 2, 1, 3, 2, 1, 2, 1, 4, 2, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 5]"
+[285],"TAGTGATGCAGATTTTAGCATTACAGGTGATTGTGCTACTGTTTATCTTGAAGATAAGTTTGACTTACTT
+","[1, 2, 3, 1, 3, 2, 1, 3, 4, 2, 3, 2, 1, 1, 1, 1, 2, 3, 4, 2, 1, 1, 2, 4, 2, 3, 3, 1, 3, 2, 1, 1, 3, 1, 3, 4, 1, 2, 4, 1, 3, 1, 1, 1, 2, 1, 4, 1, 1, 3, 2, 2, 3, 2, 1, 2, 2, 3, 1, 1, 1, 3, 2, 4, 1, 1, 2, 4, 1, 1, 5]"
+[286],"ATTTCTGATATGTATGATGGTAGAATTAAATTTTGTGATGGTGAAAATGTCTCTAAAGATGGGTTTTTTA
+","[2, 1, 1, 1, 4, 1, 3, 2, 1, 2, 1, 3, 1, 2, 1, 3, 2, 1, 3, 3, 1, 2, 3, 2, 2, 1, 1, 2, 2, 2, 1, 1, 1, 1, 3, 1, 3, 2, 1, 3, 3, 1, 3, 2, 2, 2, 2, 1, 3, 1, 4, 1, 4, 1, 2, 2, 2, 3, 2, 1, 3, 3, 3, 1, 1, 1, 1, 1, 1, 2, 5]"
+[287],"CTTATCTTAATGGTGTTATTAGAGAAAAATTAGCTATTGGTGGTAGTGTTGCCATTAAGATTACAGAATA
+","[4, 1, 1, 2, 1, 4, 1, 1, 2, 2, 1, 3, 3, 1, 3, 1, 1, 2, 1, 1, 2, 3, 2, 3, 2, 2, 2, 2, 2, 1, 1, 2, 3, 4, 1, 2, 1, 1, 3, 3, 1, 3, 3, 1, 2, 3, 1, 3, 1, 1, 3, 4, 4, 2, 1, 1, 2, 2, 3, 2, 1, 1, 2, 4, 2, 3, 2, 2, 1, 2, 5]"
+[288],"TAGTTGGAATAAGTATCTTTATGAATTAATACAAAGATTTGCTTTTTGGACTTTGTTTTGCACGTCTGTT
+","[1, 2, 3, 1, 1, 3, 3, 2, 2, 1, 2, 2, 3, 1, 2, 1, 4, 1, 1, 1, 2, 1, 3, 2, 2, 1, 1, 2, 2, 1, 2, 4, 2, 2, 2, 3, 2, 1, 1, 1, 3, 4, 1, 1, 1, 1, 1, 3, 3, 2, 4, 1, 1, 1, 3, 1, 1, 1, 1, 3, 4, 2, 4, 3, 1, 4, 1, 3, 1, 1, 5]"
+[289],"AATACATCCTCTTCAGAAGCTTTTCTTATTGGTATTAATTATTTAGGTGACTTTATTCAAGGTCCTTTTA
+","[2, 2, 1, 2, 4, 2, 1, 4, 4, 1, 4, 1, 1, 4, 2, 3, 2, 2, 3, 4, 1, 1, 1, 1, 4, 1, 1, 2, 1, 1, 3, 3, 1, 2, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 2, 3, 3, 1, 3, 2, 4, 1, 1, 1, 2, 1, 1, 4, 2, 2, 3, 3, 1, 4, 4, 1, 1, 1, 1, 2, 5]"
+[290],"TAGCTGGTAACACTGTTCATGCTAATTATATATTTTGGCGTAATTCTACTATTATGTCTTTGTCATACAA
+","[1, 2, 3, 4, 1, 3, 3, 1, 2, 2, 4, 2, 4, 1, 3, 1, 1, 4, 2, 1, 3, 4, 1, 2, 2, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 3, 3, 4, 3, 1, 2, 2, 1, 1, 4, 1, 2, 4, 1, 2, 1, 1, 2, 1, 3, 1, 4, 1, 1, 1, 3, 1, 4, 2, 1, 2, 4, 2, 2, 5]"
+[291],"TTCAGTTTTAGATTTAAGTAAGTTTGAATGTAAACATAAAGCCACTGTTGTTGTTACACTTAAAGATAGT
+","[1, 1, 4, 2, 3, 1, 1, 1, 1, 2, 3, 2, 1, 1, 1, 2, 2, 3, 1, 2, 2, 3, 1, 1, 1, 3, 2, 2, 1, 3, 1, 2, 2, 2, 4, 2, 1, 2, 2, 2, 3, 4, 4, 2, 4, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 2, 4, 2, 4, 1, 1, 2, 2, 2, 3, 2, 1, 2, 3, 1, 5]"
+[292],"GATGTAAATGATATGGTTTTGAGTTTGATTAAGAGTGGTAGGTTGTTGTTACGCAATAATGGTCGTTTTG
+","[3, 2, 1, 3, 1, 2, 2, 2, 1, 3, 2, 1, 2, 1, 3, 3, 1, 1, 1, 1, 3, 2, 3, 1, 1, 1, 3, 2, 1, 1, 2, 2, 3, 2, 3, 1, 3, 3, 1, 2, 3, 3, 1, 1, 3, 1, 1, 3, 1, 1, 2, 4, 3, 4, 2, 2, 1, 2, 2, 1, 3, 3, 1, 4, 3, 1, 1, 1, 1, 3, 5]"
+[293],"GTGGTTTTAGTAATCATTTAGTCTCAACTAAATGAAACTTTTCTTGATTTTGCTTGTTTTGCCCCTGGCC
+","[3, 1, 3, 3, 1, 1, 1, 1, 2, 3, 1, 2, 2, 1, 4, 2, 1, 1, 1, 2, 3, 1, 4, 1, 4, 2, 2, 4, 1, 2, 2, 2, 1, 3, 2, 2, 2, 4, 1, 1, 1, 1, 4, 1, 1, 3, 2, 1, 1, 1, 1, 3, 4, 1, 1, 3, 1, 1, 1, 1, 3, 4, 4, 4, 4, 1, 3, 3, 4, 4, 5]"
+[294],"TCTTGCTTTTTCACATGTAATAGTAATGCTAATCTCTCTATGTTACAATTAGGTGTTCCTGACAATTCTT
+","[1, 4, 1, 1, 3, 4, 1, 1, 1, 1, 1, 4, 2, 4, 2, 1, 3, 1, 2, 2, 1, 2, 3, 1, 2, 2, 1, 3, 4, 1, 2, 2, 1, 4, 1, 4, 1, 4, 1, 2, 1, 3, 1, 1, 2, 4, 2, 2, 1, 1, 2, 3, 3, 1, 3, 1, 1, 4, 4, 1, 3, 2, 4, 2, 2, 1, 1, 4, 1, 1, 5]"
+[295],"CAACTATTGTTACGGGTTTATTGCCAACTCATTGGTTTTGTGCTAATCAGAGTACATCTGTTTACTCAGC
+","[4, 2, 2, 4, 1, 2, 1, 1, 3, 1, 1, 2, 4, 3, 3, 3, 1, 1, 1, 2, 1, 1, 3, 4, 4, 2, 2, 4, 1, 4, 2, 1, 1, 3, 3, 1, 1, 1, 1, 3, 1, 3, 4, 1, 2, 2, 1, 4, 2, 3, 2, 3, 1, 2, 4, 2, 1, 4, 1, 3, 1, 1, 1, 2, 4, 1, 4, 2, 3, 4, 5]"
+[296],"CAATGGTTTCTTTTATATTGATGTTGGTAATCACCGTAGTGCTTTTGCGCTCCATACTGGTTATTATGAT
+","[4, 2, 2, 1, 3, 3, 1, 1, 1, 4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 3, 2, 1, 3, 1, 1, 3, 3, 1, 2, 2, 1, 4, 2, 4, 4, 3, 1, 2, 3, 1, 3, 4, 1, 1, 1, 1, 3, 4, 3, 4, 1, 4, 4, 2, 1, 2, 4, 1, 3, 3, 1, 1, 2, 1, 1, 2, 1, 3, 2, 1, 5]"
+[297],"GCTAATCAGTATTATATTTATGTTACTAATGAAATAGGCTTAAATGCTTCTGTTACTCTTAAGATTTGTA
+","[3, 4, 1, 2, 2, 1, 4, 2, 3, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 3, 1, 1, 2, 4, 1, 2, 2, 1, 3, 2, 2, 2, 1, 2, 3, 3, 4, 1, 1, 2, 2, 2, 1, 3, 4, 1, 1, 4, 1, 3, 1, 1, 2, 4, 1, 4, 1, 1, 2, 2, 3, 2, 1, 1, 1, 3, 1, 2, 5]"
+[298],"AGTTTAGTAGAAACACTACTTTTGATTTTTTAAGTAATGCTTCTAGTTCTTTTGACTGTATAGTTAATTT
+","[2, 3, 1, 1, 1, 2, 3, 1, 2, 3, 2, 2, 2, 4, 2, 4, 1, 2, 4, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2, 2, 3, 1, 2, 2, 1, 3, 4, 1, 1, 4, 1, 2, 3, 1, 1, 4, 1, 1, 1, 1, 3, 2, 4, 1, 3, 1, 2, 1, 2, 3, 1, 1, 2, 2, 1, 1, 1, 5]"
+[299],"GTTATTTACAGAACAGTTAGGTGCGCCTTTGGGCATAACTATATCTGGTGAAACTGTGCGTCTGCATTTA
+","[3, 1, 1, 2, 1, 1, 1, 2, 4, 2, 3, 2, 2, 4, 2, 3, 1, 1, 2, 3, 3, 1, 3, 4, 3, 4, 4, 1, 1, 1, 3, 3, 3, 4, 2, 1, 2, 2, 4, 1, 2, 1, 2, 1, 4, 1, 3, 3, 1, 3, 2, 2, 2, 4, 1, 3, 1, 3, 4, 3, 1, 4, 1, 3, 4, 2, 1, 1, 1, 2, 5]"
+[300],"TATAATGTAACTCGTACTTTTTATGTGCCAGCAGCTTATAAACTTACTAAACTTAGTGTTAAATGTTACT
+","[1, 2, 1, 2, 2, 1, 3, 1, 2, 2, 4, 1, 4, 3, 1, 2, 4, 1, 1, 1, 1, 1, 2, 1, 3, 1, 3, 4, 4, 2, 3, 4, 2, 3, 4, 1, 1, 2, 1, 2, 2, 2, 4, 1, 1, 2, 4, 1, 2, 2, 2, 4, 1, 1, 2, 3, 1, 3, 1, 1, 2, 2, 2, 1, 3, 1, 1, 2, 4, 1, 5]"
+[301],"TTAACTATTCCTGTGTTTTTAGTGTTGTCAACGCCACCGTTACTGTGAATGTCACCACACATAATGGCCG
+","[1, 1, 2, 2, 4, 1, 2, 1, 1, 4, 4, 1, 3, 1, 3, 1, 1, 1, 1, 1, 2, 3, 1, 3, 1, 1, 3, 1, 4, 2, 2, 4, 3, 4, 4, 2, 4, 4, 3, 1, 1, 2, 4, 1, 3, 1, 3, 2, 2, 1, 3, 1, 4, 2, 4, 4, 2, 4, 2, 4, 2, 1, 2, 2, 1, 3, 3, 4, 4, 3, 5]"
+[302],"TGTAGTTAACTACACTGTTTGTGATGATTGTAATGGTTATACTGATAACATATTTTCTGTTCAACAGGAT
+","[1, 3, 1, 2, 3, 1, 1, 2, 2, 4, 1, 2, 4, 2, 4, 1, 3, 1, 1, 1, 3, 1, 3, 2, 1, 3, 2, 1, 1, 3, 1, 2, 2, 1, 3, 3, 1, 1, 2, 1, 2, 4, 1, 3, 2, 1, 2, 2, 4, 2, 1, 2, 1, 1, 1, 1, 4, 1, 3, 1, 1, 4, 2, 2, 4, 2, 3, 3, 2, 1, 5]"
+[303],"GGCCGCATTCCTAATGGTTTCCCTTTTAATAATTGGTTTTTGTTAACTAATGGTTCCACACTAGTGGACG
+","[3, 3, 4, 4, 3, 4, 2, 1, 1, 4, 4, 1, 2, 2, 1, 3, 3, 1, 1, 1, 4, 4, 4, 1, 1, 1, 1, 2, 2, 1, 2, 2, 1, 1, 3, 3, 1, 1, 1, 1, 1, 3, 1, 1, 2, 2, 4, 1, 2, 2, 1, 3, 3, 1, 1, 4, 4, 2, 4, 2, 4, 1, 2, 3, 1, 3, 3, 2, 4, 3, 5]"
+[304],"GGGTCTCTAGACTTTATCAACCACTCCGTTTAACTTGTTTATGGCCTGTACCTGGTCTTAAATCTTCAAC
+","[3, 3, 3, 1, 4, 1, 4, 1, 2, 3, 2, 4, 1, 1, 1, 2, 1, 4, 2, 2, 4, 4, 2, 4, 1, 4, 4, 3, 1, 1, 1, 2, 2, 4, 1, 1, 3, 1, 1, 1, 2, 1, 3, 3, 4, 4, 1, 3, 1, 2, 4, 4, 1, 3, 3, 1, 4, 1, 1, 2, 2, 2, 1, 4, 1, 1, 4, 2, 2, 4, 5]"
+[305],"TGGTTTTGTTTATTTTAATGCCACTGGTTCTGATGTTAATTGTAACGGCTATCAACATAATTCTGTTGTT
+","[1, 3, 3, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 1, 3, 4, 4, 2, 4, 1, 3, 3, 1, 1, 4, 1, 3, 2, 1, 3, 1, 1, 2, 2, 1, 1, 3, 1, 2, 2, 4, 3, 3, 4, 1, 2, 1, 4, 2, 2, 4, 2, 1, 2, 2, 1, 1, 4, 1, 3, 1, 1, 3, 1, 1, 5]"
+[306],"GATGTTATGCGTTACAATCTTAACTTCAGTGCTAATTCTTTGGACAATCTCAAGAGTGGTGTTATAGTTT
+","[3, 2, 1, 3, 1, 1, 2, 1, 3, 4, 3, 1, 1, 2, 4, 2, 2, 1, 4, 1, 1, 2, 2, 4, 1, 1, 4, 2, 3, 1, 3, 4, 1, 2, 2, 1, 1, 4, 1, 1, 1, 3, 3, 2, 4, 2, 2, 1, 4, 1, 4, 2, 2, 3, 2, 3, 1, 3, 3, 1, 3, 1, 1, 2, 1, 2, 3, 1, 1, 1, 5]"
+[307],"TTAAAACTTTACAGTACGATGTTTTGTTTTATTGTAGTAATTCTTCCTCAGGTGTTCTTGACACCACAAT
+","[1, 1, 2, 2, 2, 2, 4, 1, 1, 1, 2, 4, 2, 3, 1, 2, 4, 3, 2, 1, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 3, 1, 2, 2, 1, 1, 4, 1, 1, 4, 4, 1, 4, 2, 3, 3, 1, 3, 1, 1, 4, 1, 1, 3, 2, 4, 2, 4, 4, 2, 4, 2, 2, 1, 5]"
+[308],"ACCTTTTGGCCCGTCCTCTCAACCTTATTACTGTTTTATAAACAGCACTATCAACACTACTCATGTTAGC
+","[2, 4, 4, 1, 1, 1, 1, 3, 3, 4, 4, 4, 3, 1, 4, 4, 1, 4, 1, 4, 2, 2, 4, 4, 1, 1, 2, 1, 1, 2, 4, 1, 3, 1, 1, 1, 1, 2, 1, 2, 2, 2, 4, 2, 3, 4, 2, 4, 1, 2, 1, 4, 2, 2, 4, 2, 4, 1, 2, 4, 1, 4, 2, 1, 3, 1, 1, 2, 3, 4, 5]"
+[309],"ACTTTTGTGGGTATTTTACCACCCACTGTGCGTGAAATTGTTGTTGCTAGAACTGGCCAGTTTTATATTA
+","[2, 4, 1, 1, 1, 1, 3, 1, 3, 3, 3, 1, 2, 1, 1, 1, 1, 2, 4, 4, 2, 4, 4, 4, 2, 4, 1, 3, 1, 3, 4, 3, 1, 3, 2, 2, 2, 1, 1, 3, 1, 1, 3, 1, 1, 3, 4, 1, 2, 3, 2, 2, 4, 1, 3, 3, 4, 4, 2, 3, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 5]"
+[310],"ATGGTTTTAAGTATTTCGATTTGGGTTTCATAGAAGCTGTCAATTTTAATGTCACGACTGCTAGCGCCAC
+","[2, 1, 3, 3, 1, 1, 1, 1, 2, 2, 3, 1, 2, 1, 1, 1, 4, 3, 2, 1, 1, 1, 3, 3, 3, 1, 1, 1, 4, 2, 1, 2, 3, 2, 2, 3, 4, 1, 3, 1, 4, 2, 2, 1, 1, 1, 1, 2, 2, 1, 3, 1, 4, 2, 4, 3, 2, 4, 1, 3, 4, 1, 2, 3, 4, 3, 4, 4, 2, 4, 5]"
+[311],"AGATTTTTGGACGGTTGCATTTGCTACTTTTGTTGATGTTTTGGTTAATGTTAGTGCAACTAACATTCAA
+","[2, 3, 2, 1, 1, 1, 1, 1, 3, 3, 2, 4, 3, 3, 1, 1, 3, 4, 2, 1, 1, 1, 3, 4, 1, 2, 4, 1, 1, 1, 1, 3, 1, 1, 3, 2, 1, 3, 1, 1, 1, 1, 3, 3, 1, 1, 2, 2, 1, 3, 1, 1, 2, 3, 1, 3, 4, 2, 2, 4, 1, 2, 2, 4, 2, 1, 1, 4, 2, 2, 5]"
+[312],"AACTTACTTTATTGCGATTCTCCATTTGAAAAGTTGCAGTGTGAGCACTTGCAGTTTGGATTGCAGGATG
+","[2, 2, 4, 1, 1, 2, 4, 1, 1, 1, 2, 1, 1, 3, 4, 3, 2, 1, 1, 4, 1, 4, 4, 2, 1, 1, 1, 3, 2, 2, 2, 2, 3, 1, 1, 3, 4, 2, 3, 1, 3, 1, 3, 2, 3, 4, 2, 4, 1, 1, 3, 4, 2, 3, 1, 1, 1, 3, 3, 2, 1, 1, 3, 4, 2, 3, 3, 2, 1, 3, 5]"
+[313],"GTTTTTATTCTGCAAATTTTCTTGATGATAATGTTTTGCCTGAGACTTATGTTGCACTCCCCATTTATTA
+","[3, 1, 1, 1, 1, 1, 2, 1, 1, 4, 1, 3, 4, 2, 2, 2, 1, 1, 1, 1, 4, 1, 1, 3, 2, 1, 3, 2, 1, 2, 2, 1, 3, 1, 1, 1, 1, 3, 4, 4, 1, 3, 2, 3, 2, 4, 1, 1, 2, 1, 3, 1, 1, 3, 4, 2, 4, 1, 4, 4, 4, 4, 2, 1, 1, 1, 2, 1, 1, 2, 5]"
+[314],"TCAACACACGGACATAAATTTTACTGCAACTGCATCTTTTGGTGGTTCTTGTTATGTTTGTAAACCACAC
+","[1, 4, 2, 2, 4, 2, 4, 2, 4, 3, 3, 2, 4, 2, 1, 2, 2, 2, 1, 1, 1, 1, 2, 4, 1, 3, 4, 2, 2, 4, 1, 3, 4, 2, 1, 4, 1, 1, 1, 1, 3, 3, 1, 3, 3, 1, 1, 4, 1, 1, 3, 1, 1, 2, 1, 3, 1, 1, 1, 3, 1, 2, 2, 2, 4, 4, 2, 4, 2, 4, 5]"
+[315],"CAGGTTAATATATCTCTTAATGGTAACACTTCAGTGTGTGTTAGAACATCTCATTTTTCAATTAGGTATA
+","[4, 2, 3, 3, 1, 1, 2, 2, 1, 2, 1, 2, 1, 4, 1, 4, 1, 1, 2, 2, 1, 3, 3, 1, 2, 2, 4, 2, 4, 1, 1, 4, 2, 3, 1, 3, 1, 3, 1, 3, 1, 1, 2, 3, 2, 2, 4, 2, 1, 4, 1, 4, 2, 1, 1, 1, 1, 1, 4, 2, 2, 1, 1, 2, 3, 3, 1, 2, 1, 2, 5]"
+[316],"TTTATAACCGCGTTAAGAGTGGTTCACCAGGTGACTCTTCATGGCACATTTATTTAAAGAGTGGCACTTG
+","[1, 1, 1, 2, 1, 2, 2, 4, 4, 3, 4, 3, 1, 1, 2, 2, 3, 2, 3, 1, 3, 3, 1, 1, 4, 2, 4, 4, 2, 3, 3, 1, 3, 2, 4, 1, 4, 1, 1, 4, 2, 1, 3, 3, 4, 2, 4, 2, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 3, 2, 3, 1, 3, 3, 4, 2, 4, 1, 1, 3, 5]"
+[317],"TCCATTTTCTTTTTCTAAGTTAAATAATTTTCAAAAGTTCAAGACTATTTGTTTCTCAACCGTCGAAGTG
+","[1, 4, 4, 2, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 4, 1, 2, 2, 3, 1, 1, 2, 2, 2, 1, 2, 2, 1, 1, 1, 1, 4, 2, 2, 2, 2, 3, 1, 1, 4, 2, 2, 3, 2, 4, 1, 2, 1, 1, 1, 3, 1, 1, 1, 4, 1, 4, 2, 2, 4, 4, 3, 1, 4, 3, 2, 2, 3, 1, 3, 5]"
+[318],"CCTGGTAGTTGTAATTTTCCGCTTGAAGCCACCTGGCATTACACTTCTTATACTATTGTTGGTGCTTTGT
+","[4, 4, 1, 3, 3, 1, 2, 3, 1, 1, 3, 1, 2, 2, 1, 1, 1, 1, 4, 4, 3, 4, 1, 1, 3, 2, 2, 3, 4, 4, 2, 4, 4, 1, 3, 3, 4, 2, 1, 1, 2, 4, 2, 4, 1, 1, 4, 1, 1, 2, 1, 2, 4, 1, 2, 1, 1, 3, 1, 1, 3, 3, 1, 3, 4, 1, 1, 1, 3, 1, 5]"
+[319],"ATGTTACTTGGTCTGAAGGTAATTCTATTACTGGTGTACCTTATCCTGTCTCTGGTATTCGTGAGTTTAG
+","[2, 1, 3, 1, 1, 2, 4, 1, 1, 3, 3, 1, 4, 1, 3, 2, 2, 3, 3, 1, 2, 2, 1, 1, 4, 1, 2, 1, 1, 2, 4, 1, 3, 3, 1, 3, 1, 2, 4, 4, 1, 1, 2, 1, 4, 4, 1, 3, 1, 4, 1, 4, 1, 3, 3, 1, 2, 1, 1, 4, 3, 1, 3, 2, 3, 1, 1, 1, 2, 3, 5]"
+[320],"TAATTTAGTTTTAAATAATTGTACCAAATATAATATTTATGATTATGTTGGTACTGGAATTATACGTTCT
+","[1, 2, 2, 1, 1, 1, 2, 3, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2, 1, 1, 3, 1, 2, 4, 4, 2, 2, 2, 1, 2, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 3, 2, 1, 1, 2, 1, 3, 1, 1, 3, 3, 1, 2, 4, 1, 3, 3, 2, 2, 1, 1, 2, 1, 2, 4, 3, 1, 1, 4, 1, 5]"
+[321],"TCAAACCAGTCACTTGCTGGTGGTATTACATATGTTTCTAACTCTGGTAATTTACTTGGTTTTAAAAATG
+","[1, 4, 2, 2, 2, 4, 4, 2, 3, 1, 4, 2, 4, 1, 1, 3, 4, 1, 3, 3, 1, 3, 3, 1, 2, 1, 1, 2, 4, 2, 1, 2, 1, 3, 1, 1, 1, 4, 1, 2, 2, 4, 1, 4, 1, 3, 3, 1, 2, 2, 1, 1, 1, 2, 4, 1, 1, 3, 3, 1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 3, 5]"
+[322],"TTTCCACTGGTAACATTTTTATTGTGACACCATGTAACCAACCAGACCAAGTAGCTGTTTATCAACAAAG
+","[1, 1, 1, 4, 4, 2, 4, 1, 3, 3, 1, 2, 2, 4, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 3, 2, 4, 2, 4, 4, 2, 1, 3, 1, 2, 2, 4, 4, 2, 2, 4, 4, 2, 3, 2, 4, 4, 2, 2, 3, 1, 2, 3, 4, 1, 3, 1, 1, 1, 2, 1, 4, 2, 2, 4, 2, 2, 2, 3, 5]"
+[323],"CATTATTGGTGCCATGACCGCTGTTAATGAGTCTAGATATGGCTTGCAAAACTTACTACAGTTACCTAAC
+","[4, 2, 1, 1, 2, 1, 1, 3, 3, 1, 3, 4, 4, 2, 1, 3, 2, 4, 4, 3, 4, 1, 3, 1, 1, 2, 2, 1, 3, 2, 3, 1, 4, 1, 2, 3, 2, 1, 2, 1, 3, 3, 4, 1, 1, 3, 4, 2, 2, 2, 2, 4, 1, 1, 2, 4, 1, 2, 4, 2, 3, 1, 1, 2, 4, 4, 1, 2, 2, 4, 5]"
+[324],"TTTTATTATGTTAGTAATGGTGGTAACAATTGCACTACGGCCGTTATGACTTATTCTAATTTTGGTATTT
+","[1, 1, 1, 1, 2, 1, 1, 2, 1, 3, 1, 1, 2, 3, 1, 2, 2, 1, 3, 3, 1, 3, 3, 1, 2, 2, 4, 2, 2, 1, 1, 3, 4, 2, 4, 1, 2, 4, 3, 3, 4, 4, 3, 1, 1, 2, 1, 3, 2, 4, 1, 1, 2, 1, 1, 4, 1, 2, 2, 1, 1, 1, 1, 3, 3, 1, 2, 1, 1, 1, 5]"
+[325],"GTGCTGATGGTTCTTTGATTCCTGTTCGTCCGCGTAATTCTAGTGATAATGGTATTTCAGCCATAATCAC
+","[3, 1, 3, 4, 1, 3, 2, 1, 3, 3, 1, 1, 4, 1, 1, 1, 3, 2, 1, 1, 4, 4, 1, 3, 1, 1, 4, 3, 1, 4, 4, 3, 4, 3, 1, 2, 2, 1, 1, 4, 1, 2, 3, 1, 3, 2, 1, 2, 2, 1, 3, 3, 1, 2, 1, 1, 1, 4, 2, 3, 4, 4, 2, 1, 2, 2, 1, 4, 2, 4, 5]"
+[326],"TGCTAATTTATCCATTCCTTCTAACTGGACTACTTCAGTTCAAGTTGAGTACCTCCAAATTACTAGTACT
+","[1, 3, 4, 1, 2, 2, 1, 1, 1, 2, 1, 4, 4, 2, 1, 1, 4, 4, 1, 1, 4, 1, 2, 2, 4, 1, 3, 3, 2, 4, 1, 2, 4, 1, 1, 4, 2, 3, 1, 1, 4, 2, 2, 3, 1, 1, 3, 2, 3, 1, 2, 4, 4, 1, 4, 4, 2, 2, 2, 1, 1, 2, 4, 1, 2, 3, 1, 2, 4, 1, 5]"
+[327],"CCAATAGTTGTTGATTGTGCTACTTATGTGTGTAATGGTAACCCTCGCTGTAAGAATCTACTTAAGCAGT
+","[4, 4, 2, 2, 1, 2, 3, 1, 1, 3, 1, 1, 3, 2, 1, 1, 3, 1, 3, 4, 1, 2, 4, 1, 1, 2, 1, 3, 1, 3, 1, 3, 1, 2, 2, 1, 3, 3, 1, 2, 2, 4, 4, 4, 1, 4, 3, 4, 1, 3, 1, 2, 2, 3, 2, 2, 1, 4, 1, 2, 4, 1, 1, 2, 2, 3, 4, 2, 3, 1, 5]"
+[328],"ATACTTCTGCTTGTAAAACTATTGAAGATGCCTTACGACTTAGTGCTCATTTGGAAACTAATGATGTTAG
+","[2, 1, 2, 4, 1, 1, 4, 1, 3, 4, 1, 1, 3, 1, 2, 2, 2, 2, 4, 1, 2, 1, 1, 3, 2, 2, 3, 2, 1, 3, 4, 4, 1, 1, 2, 4, 3, 2, 4, 1, 1, 2, 3, 1, 3, 4, 1, 4, 2, 1, 1, 1, 3, 3, 2, 2, 2, 4, 1, 2, 2, 1, 3, 2, 1, 3, 1, 1, 2, 3, 5]"
+[329],"TAGTATGCTAACTTTCGATAGCAATGCTTTTAGTTTGGCTAATGTTACTAGTTTTGGAGATTATAACCTT
+","[1, 2, 3, 1, 2, 1, 3, 4, 1, 2, 2, 4, 1, 1, 1, 4, 3, 2, 1, 2, 3, 4, 2, 2, 1, 3, 4, 1, 1, 1, 1, 2, 3, 1, 1, 1, 3, 3, 4, 1, 2, 2, 1, 3, 1, 1, 2, 4, 1, 2, 3, 1, 1, 1, 1, 3, 3, 2, 3, 2, 1, 1, 2, 1, 2, 2, 4, 4, 1, 1, 5]"
+[330],"TCTAGTGTTTTACCTCAGAGAAACATTCGTTCAAGCCGTATAGCAGGACGTAGTGCTTTGGAAGATTTGT
+","[1, 4, 1, 2, 3, 1, 3, 1, 1, 1, 1, 2, 4, 4, 1, 4, 2, 3, 2, 3, 2, 2, 2, 4, 2, 1, 1, 4, 3, 1, 1, 4, 2, 2, 3, 4, 4, 3, 1, 2, 1, 2, 3, 4, 2, 3, 3, 2, 4, 3, 1, 2, 3, 1, 3, 4, 1, 1, 1, 3, 3, 2, 2, 3, 2, 1, 1, 1, 3, 1, 5]"
+[331],"TGTTTAGCAAAGTTGTTACATCTGGTTTGGGTACTGTTGATGTTGACTATAAGTCTTGTACTAAAGGTCT
+","[1, 3, 1, 1, 1, 2, 3, 4, 2, 2, 2, 3, 1, 1, 3, 1, 1, 2, 4, 2, 1, 4, 1, 3, 3, 1, 1, 1, 3, 3, 3, 1, 2, 4, 1, 3, 1, 1, 3, 2, 1, 3, 1, 1, 3, 2, 4, 1, 2, 1, 2, 2, 3, 1, 4, 1, 1, 3, 1, 2, 4, 1, 2, 2, 2, 3, 3, 1, 4, 1, 5]"
+[332],"TTCTATTGCTGACCTTGCTTGTGCTCAGTACTACAATGGCATAATGGTTTTGCCAGGTGTTGCTGATGCT
+","[1, 1, 4, 1, 2, 1, 1, 3, 4, 1, 3, 2, 4, 4, 1, 1, 3, 4, 1, 1, 3, 1, 3, 4, 1, 4, 2, 3, 1, 2, 4, 1, 2, 4, 2, 2, 1, 3, 3, 4, 2, 1, 2, 2, 1, 3, 3, 1, 1, 1, 1, 3, 4, 4, 2, 3, 3, 1, 3, 1, 1, 3, 4, 1, 3, 2, 1, 3, 4, 1, 5]"
+[333],"GAACGTATGGCCATGTACACAGGTTCTCTTATAGGTGGCATGGTGCTCGGAGGTCTTACATCAGCAGCCG
+","[3, 2, 2, 4, 3, 1, 2, 1, 3, 3, 4, 4, 2, 1, 3, 1, 2, 4, 2, 4, 2, 3, 3, 1, 1, 4, 1, 4, 1, 1, 2, 1, 2, 3, 3, 1, 3, 3, 4, 2, 1, 3, 3, 1, 3, 4, 1, 4, 3, 3, 2, 3, 3, 1, 4, 1, 1, 2, 4, 2, 1, 4, 2, 3, 4, 2, 3, 4, 4, 3, 5]"
+[334],"CCATACCTTTTTCTTTGGCACTGCAAGCACGACTTAACTATGTTGCTTTACAAACTGATGTGCTTCAAGA
+","[4, 4, 2, 1, 2, 4, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 3, 3, 4, 2, 4, 1, 3, 4, 2, 2, 3, 4, 2, 4, 3, 2, 4, 1, 1, 2, 2, 4, 1, 2, 1, 3, 1, 1, 3, 4, 1, 1, 1, 2, 4, 2, 2, 2, 4, 1, 3, 2, 1, 3, 1, 3, 4, 1, 1, 4, 2, 2, 3, 2, 5]"
+[335],"AAATCAGAAAATTTTGGCTGCATCATTTAATAAGGCTATTAATAATATTGTTGCTTCTTTTAGTAGCGTT
+","[2, 2, 2, 1, 4, 2, 3, 2, 2, 2, 2, 1, 1, 1, 1, 3, 3, 4, 1, 3, 4, 2, 1, 4, 2, 1, 1, 1, 2, 2, 1, 2, 2, 3, 3, 4, 1, 2, 1, 1, 2, 2, 1, 2, 2, 1, 2, 1, 1, 3, 1, 1, 3, 4, 1, 1, 4, 1, 1, 1, 1, 2, 3, 1, 2, 3, 4, 3, 1, 1, 5]"
+[336],"AATGATGCTATTACACAAACTGCAGAGGCTATACATACTGTTACTATTGCACTTAATAAGATTCAGGATG
+","[2, 2, 1, 3, 2, 1, 3, 4, 1, 2, 1, 1, 2, 4, 2, 4, 2, 2, 2, 4, 1, 3, 4, 2, 3, 2, 3, 3, 4, 1, 2, 1, 2, 4, 2, 1, 2, 4, 1, 3, 1, 1, 2, 4, 1, 2, 1, 1, 3, 4, 2, 4, 1, 1, 2, 2, 1, 2, 2, 3, 2, 1, 1, 4, 2, 3, 3, 2, 1, 3, 5]"
+[337],"TTGTTAATCAACAGGGTAGTGCTCTTAACCATCTCACTTCACAATTGAGACATAATTTTCAGGCCATTTC
+","[1, 1, 3, 1, 1, 2, 2, 1, 4, 2, 2, 4, 2, 3, 3, 3, 1, 2, 3, 1, 3, 4, 1, 4, 1, 1, 2, 2, 4, 4, 2, 1, 4, 1, 4, 2, 4, 1, 1, 4, 2, 4, 2, 2, 1, 1, 3, 2, 3, 2, 4, 2, 1, 2, 2, 1, 1, 1, 1, 4, 2, 3, 3, 4, 4, 2, 1, 1, 1, 4, 5]"
+[338],"TAATTCAATTCAGGCTATTTATGACCGGCTTGATTCAATTCAAGCCGATCAACAAGTTGACAGATTAATT
+","[1, 2, 2, 1, 1, 4, 2, 2, 1, 1, 4, 2, 3, 3, 4, 1, 2, 1, 1, 1, 2, 1, 3, 2, 4, 4, 3, 3, 4, 1, 1, 3, 2, 1, 1, 4, 2, 2, 1, 1, 4, 2, 2, 3, 4, 4, 3, 2, 1, 4, 2, 2, 4, 2, 2, 3, 1, 1, 3, 2, 4, 2, 3, 2, 1, 1, 2, 2, 1, 1, 5]"
+[339],"ACTGGACGGCTTGCAGCTTTGAATGCATTTGTTTCCCAAGTTTTGAATAAATATACTGAAGTTCGTGGTT
+","[2, 4, 1, 3, 3, 2, 4, 3, 3, 4, 1, 1, 3, 4, 2, 3, 4, 1, 1, 1, 3, 2, 2, 1, 3, 4, 2, 1, 1, 1, 3, 1, 1, 1, 4, 4, 4, 2, 2, 3, 1, 1, 1, 1, 3, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2, 4, 1, 3, 2, 2, 3, 1, 1, 4, 3, 1, 3, 3, 1, 1, 5]"
+[340],"CAAGACGCTTAGCACAGCAGAAGATTAATGAATGTGTCAAGTCACAATCTAATAGATATGGTTTTTGTGG
+","[4, 2, 2, 3, 2, 4, 3, 4, 1, 1, 2, 3, 4, 2, 4, 2, 3, 4, 2, 3, 2, 2, 3, 2, 1, 1, 2, 2, 1, 3, 2, 2, 1, 3, 1, 3, 1, 4, 2, 2, 3, 1, 4, 2, 4, 2, 2, 1, 4, 1, 2, 2, 1, 2, 3, 2, 1, 2, 1, 3, 3, 1, 1, 1, 1, 1, 3, 1, 3, 3, 5]"
+[341],"CAATGGCACTCACATCTTTTCAATCGTCAACTCAGCTCCAGATGGTTTGCTTTTTCTTCATACTGTTTTG
+","[4, 2, 2, 1, 3, 3, 4, 2, 4, 1, 4, 2, 4, 2, 1, 4, 1, 1, 1, 1, 4, 2, 2, 1, 4, 3, 1, 4, 2, 2, 4, 1, 4, 2, 3, 4, 1, 4, 4, 2, 3, 2, 1, 3, 3, 1, 1, 1, 3, 4, 1, 1, 1, 1, 1, 4, 1, 1, 4, 2, 1, 2, 4, 1, 3, 1, 1, 1, 1, 3, 5]"
+[342],"CTGCCAACTGATTACAAGAATGTAAAGGCGTGGTCTGGTATCTGTGTTGATGGCATTTATGGCTATGTTC
+","[4, 1, 3, 4, 4, 2, 2, 4, 1, 3, 2, 1, 1, 2, 4, 2, 2, 3, 2, 2, 1, 3, 1, 2, 2, 2, 3, 3, 4, 3, 1, 3, 3, 1, 4, 1, 3, 3, 1, 2, 1, 4, 1, 3, 1, 3, 1, 1, 3, 2, 1, 3, 3, 4, 2, 1, 1, 1, 2, 1, 3, 3, 4, 1, 2, 1, 3, 1, 1, 4, 5]"
+[343],"TGCGTCAACCTAACTTGGTTCTTTATTCTGATAATGGTGTCTTTCGTGTAACTTCCAGGGTCATGTTTCA
+","[1, 3, 4, 3, 1, 4, 2, 2, 4, 4, 1, 2, 2, 4, 1, 1, 3, 3, 1, 1, 4, 1, 1, 1, 2, 1, 1, 4, 1, 3, 2, 1, 2, 2, 1, 3, 3, 1, 3, 1, 4, 1, 1, 1, 4, 3, 1, 3, 1, 2, 2, 4, 1, 1, 4, 4, 2, 3, 3, 3, 1, 4, 2, 1, 3, 1, 1, 1, 4, 2, 5]"
+[344],"ACCTCGCTTACCTGTTTTGTCTGATTTTGTGCAAATATATAATTGTAATGTTACTTTTGTTAACATATCT
+","[2, 4, 4, 1, 4, 3, 4, 1, 1, 2, 4, 4, 1, 3, 1, 1, 1, 1, 3, 1, 4, 1, 3, 2, 1, 1, 1, 1, 3, 1, 3, 4, 2, 2, 2, 1, 2, 1, 2, 1, 2, 2, 1, 1, 3, 1, 2, 2, 1, 3, 1, 1, 2, 4, 1, 1, 1, 1, 3, 1, 1, 2, 2, 4, 2, 1, 2, 1, 4, 1, 5]"
+[345],"CGTGTTGAGTTACATACTGTCATACCTGACTACGTTGATGTTAATAAAACATTACAAGAGTTTGCACAAA
+","[4, 3, 1, 3, 1, 1, 3, 2, 3, 1, 1, 2, 4, 2, 1, 2, 4, 1, 3, 1, 4, 2, 1, 2, 4, 4, 1, 3, 2, 4, 1, 2, 4, 3, 1, 1, 3, 2, 1, 3, 1, 1, 2, 2, 1, 2, 2, 2, 2, 4, 2, 1, 1, 2, 4, 2, 2, 3, 2, 3, 1, 1, 1, 3, 4, 2, 4, 2, 2, 2, 5]"
+[346],"ACTTACCAAAGTATGTTAAGCCTAATTTTGACTTGACTCCTTTTAATTTAACATATCTTAATTTGAGTTC
+","[2, 4, 1, 1, 2, 4, 4, 2, 2, 2, 3, 1, 2, 1, 3, 1, 1, 2, 2, 3, 4, 4, 1, 2, 2, 1, 1, 1, 1, 3, 2, 4, 1, 1, 3, 2, 4, 1, 4, 4, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 4, 2, 1, 2, 1, 4, 1, 1, 2, 2, 1, 1, 1, 3, 2, 3, 1, 1, 4, 5]"
+[347],"TGAGTTGAAGCAACTCGAAGCTAAAACTGCTAGTCTTTTTCAAACTACTGTTGAATTACAAGGTCTTATT
+","[1, 3, 2, 3, 1, 1, 3, 2, 2, 3, 4, 2, 2, 4, 1, 4, 3, 2, 2, 3, 4, 1, 2, 2, 2, 2, 4, 1, 3, 4, 1, 2, 3, 1, 4, 1, 1, 1, 1, 1, 4, 2, 2, 2, 4, 1, 2, 4, 1, 3, 1, 1, 3, 2, 2, 1, 1, 2, 4, 2, 2, 3, 3, 1, 4, 1, 1, 2, 1, 1, 5]"
+[348],"GATCAGATTAACAGTACATATGTTGATTTGAAGTTGCTTAATAGGTTTGAAAATTATATCAAATGGCCTT
+","[3, 2, 1, 4, 2, 3, 2, 1, 1, 2, 2, 4, 2, 3, 1, 2, 4, 2, 1, 2, 1, 3, 1, 1, 3, 2, 1, 1, 1, 3, 2, 2, 3, 1, 1, 3, 4, 1, 1, 2, 2, 1, 2, 3, 3, 1, 1, 1, 3, 2, 2, 2, 2, 1, 1, 2, 1, 2, 1, 4, 2, 2, 2, 1, 3, 3, 4, 4, 1, 1, 5]"
+[349],"GGTGGGTTTGGCTCATTATTTCTGTTGTTTTTGTTGTATTGTTGAGTCTTCTTGTGTTTTGTTGTCTTTC
+","[3, 3, 1, 3, 3, 3, 1, 1, 1, 3, 3, 4, 1, 4, 2, 1, 1, 2, 1, 1, 1, 4, 1, 3, 1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 1, 3, 1, 2, 1, 1, 3, 1, 1, 3, 2, 3, 1, 4, 1, 1, 4, 1, 1, 3, 1, 3, 1, 1, 1, 1, 3, 1, 1, 3, 1, 4, 1, 1, 1, 4, 5]"
+[350],"TACAGGTTGTTGTGGTTGTTGCAATTGTTTAACTTCATCAATGCGAGGCTGTTGTGATTGTGGTTCAACT
+","[1, 2, 4, 2, 3, 3, 1, 1, 3, 1, 1, 3, 1, 3, 3, 1, 1, 3, 1, 1, 3, 4, 2, 2, 1, 1, 3, 1, 1, 1, 2, 2, 4, 1, 1, 4, 2, 1, 4, 2, 2, 1, 3, 4, 3, 2, 3, 3, 4, 1, 3, 1, 1, 3, 1, 3, 2, 1, 1, 3, 1, 3, 3, 1, 1, 4, 2, 2, 4, 1, 5]"
+[351],"AAACTTCCTTATTACGAATTTGAAAAGGTCCACGTTCAATAATGCCTTTTGGTGGCCTATTTCAACTTAC
+","[2, 2, 2, 4, 1, 1, 4, 4, 1, 1, 2, 1, 1, 2, 4, 3, 2, 2, 1, 1, 1, 3, 2, 2, 2, 2, 3, 3, 1, 4, 4, 2, 4, 3, 1, 1, 4, 2, 2, 1, 2, 2, 1, 3, 4, 4, 1, 1, 1, 1, 3, 3, 1, 3, 3, 4, 4, 1, 2, 1, 1, 1, 4, 2, 2, 4, 1, 1, 2, 4, 5]"
+[352],"TCTTGAAAGTACTATTAATAAGAGTGTGGCTAATCTCAAATTACCACCTCATGATGTTACTGTCTTGCGT
+","[1, 4, 1, 1, 3, 2, 2, 2, 3, 1, 2, 4, 1, 2, 1, 1, 2, 2, 1, 2, 2, 3, 2, 3, 1, 3, 1, 3, 3, 4, 1, 2, 2, 1, 4, 1, 4, 2, 2, 2, 1, 1, 2, 4, 4, 2, 4, 4, 1, 4, 2, 1, 3, 2, 1, 3, 1, 1, 2, 4, 1, 3, 1, 4, 1, 1, 3, 4, 3, 1, 5]"
+[353],"GACAATCTTAAACCTGTTACTACACTTAGTACTATTACTGCTTATTTGTTAGTTAGTTTGTTTGTCACTT
+","[3, 2, 4, 2, 2, 1, 4, 1, 1, 2, 2, 2, 4, 4, 1, 3, 1, 1, 2, 4, 1, 2, 4, 2, 4, 1, 1, 2, 3, 1, 2, 4, 1, 2, 1, 1, 2, 4, 1, 3, 4, 1, 1, 2, 1, 1, 1, 3, 1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 1, 3, 1, 1, 1, 3, 1, 4, 2, 4, 1, 1, 5]"
+[354],"ACTTTGCTTTATTCAAACCTCTTACTGCTAGAGGTCGTGTTGCTTGTTTTGTTTTAAAACTATTGACACT
+","[2, 4, 1, 1, 1, 3, 4, 1, 1, 1, 2, 1, 1, 4, 2, 2, 2, 4, 4, 1, 4, 1, 1, 2, 4, 1, 3, 4, 1, 2, 3, 2, 3, 3, 1, 4, 3, 1, 3, 1, 1, 3, 4, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 4, 1, 2, 1, 1, 3, 2, 4, 2, 4, 1, 5]"
+[355],"ATTTGTCTATGTGCCTTTATTGGTTCTTTTTGGTATGTATCTTGACAGTTTTATAATTTTTTCTACGCTG
+","[2, 1, 1, 1, 3, 1, 4, 1, 2, 1, 3, 1, 3, 4, 4, 1, 1, 1, 2, 1, 1, 3, 3, 1, 1, 4, 1, 1, 1, 1, 1, 3, 3, 1, 2, 1, 3, 1, 2, 1, 4, 1, 1, 3, 2, 4, 2, 3, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 1, 4, 1, 2, 4, 3, 4, 1, 3, 5]"
+[356],"TTGTTTCGATTCATACATGTTGGCTATTATGCCTATCTCTATAAAAATTTTTCATTTGTTTTGTTCAATG
+","[1, 1, 3, 1, 1, 1, 4, 3, 2, 1, 1, 4, 2, 1, 2, 4, 2, 1, 3, 1, 1, 3, 3, 4, 1, 2, 1, 1, 2, 1, 3, 4, 4, 1, 2, 1, 4, 1, 4, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 4, 2, 1, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 4, 2, 2, 1, 3, 5]"
+[357],"TTACTAAACTATGCTTCGTTTCAGGCAAGTGTTGGTATCTTGAACAATCATTTTATGAAAATCGTTTTGC
+","[1, 1, 2, 4, 1, 2, 2, 2, 4, 1, 2, 1, 3, 4, 1, 1, 4, 3, 1, 1, 1, 4, 2, 3, 3, 4, 2, 2, 3, 1, 3, 1, 1, 3, 3, 1, 2, 1, 4, 1, 1, 3, 2, 2, 4, 2, 2, 1, 4, 2, 1, 1, 1, 1, 2, 1, 3, 2, 2, 2, 2, 1, 4, 3, 1, 1, 1, 1, 3, 4, 5]"
+[358],"TGCTATTTATGGTGGTGACCACTATGTCGTTTTAGGTGGTGAAACTATTACTTTTGTTTCTTTTGATGAC
+","[1, 3, 4, 1, 2, 1, 1, 1, 2, 1, 3, 3, 1, 3, 3, 1, 3, 2, 4, 4, 2, 4, 1, 2, 1, 3, 1, 4, 3, 1, 1, 1, 1, 2, 3, 3, 1, 3, 3, 1, 3, 2, 2, 2, 4, 1, 2, 1, 1, 2, 4, 1, 1, 1, 1, 3, 1, 1, 1, 4, 1, 1, 1, 1, 3, 2, 1, 3, 2, 4, 5]"
+[359],"CTTTATGTTGCTATTAGAGGTTCTTGTGAAAAGAACCTACAACTTATGCGTAAGGTTGACTTGTATAATG
+","[4, 1, 1, 1, 2, 1, 3, 1, 1, 3, 4, 1, 2, 1, 1, 2, 3, 2, 3, 3, 1, 1, 4, 1, 1, 3, 1, 3, 2, 2, 2, 2, 3, 2, 2, 4, 4, 1, 2, 4, 2, 2, 4, 1, 1, 2, 1, 3, 4, 3, 1, 2, 2, 3, 3, 1, 1, 3, 2, 4, 1, 1, 3, 1, 2, 1, 2, 2, 1, 3, 5]"
+[360],"GTGCTGTCATTTACATTTTTGCCGAAGAGCCTGTTGTTGGTATAGTCTACTCTTCTCAACTATACGAAGA
+","[3, 1, 3, 4, 1, 3, 1, 4, 2, 1, 1, 1, 2, 4, 2, 1, 1, 1, 1, 1, 3, 4, 4, 3, 2, 2, 3, 2, 3, 4, 4, 1, 3, 1, 1, 3, 1, 1, 3, 3, 1, 2, 1, 2, 3, 1, 4, 1, 2, 4, 1, 4, 1, 1, 4, 1, 4, 2, 2, 4, 1, 2, 1, 2, 4, 3, 2, 2, 3, 2, 5]"
+[361],"TGTTCCTTCGATTAATTGATGACAATGGTATTGTCCTCAATTCCATTTTATGGCTCCTTGTTATGATATT
+","[1, 3, 1, 1, 4, 4, 1, 1, 4, 3, 2, 1, 1, 2, 2, 1, 1, 3, 2, 1, 3, 2, 4, 2, 2, 1, 3, 3, 1, 2, 1, 1, 3, 1, 4, 4, 1, 4, 2, 2, 1, 1, 4, 4, 2, 1, 1, 1, 1, 2, 1, 3, 3, 4, 1, 4, 4, 1, 1, 3, 1, 1, 2, 1, 3, 2, 1, 2, 1, 1, 5]"
+[362],"TTTCTTTGTGTTGGCAATGACCTTTATTAAACTGATTCAATTGTGTTTTACTTGTCATTATTTTTTTAGT
+","[1, 1, 1, 4, 1, 1, 1, 3, 1, 3, 1, 1, 3, 3, 4, 2, 2, 1, 3, 2, 4, 4, 1, 1, 1, 2, 1, 1, 2, 2, 2, 4, 1, 3, 2, 1, 1, 4, 2, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 2, 4, 1, 1, 3, 1, 4, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 5]"
+[363],"AGGACATTATATCAACCAGTTTATAAAATTTTTCTTGCTTACCAAGATTATATGCAAATAGCACCTGTTC
+","[2, 3, 3, 2, 4, 2, 1, 1, 2, 1, 2, 1, 4, 2, 2, 4, 4, 2, 3, 1, 1, 1, 2, 1, 2, 2, 2, 2, 1, 1, 1, 1, 1, 4, 1, 1, 3, 4, 1, 1, 2, 4, 4, 2, 2, 3, 2, 1, 1, 2, 1, 2, 1, 3, 4, 2, 2, 2, 1, 2, 3, 4, 2, 4, 4, 1, 3, 1, 1, 4, 5]"
+[364],"CAGCTGAAGTACTAAATGTCTAAACTAAACGATGTCTAATAGTAGTGTGCCTCTTTTAGAGGTTTATGTC
+","[4, 2, 3, 4, 1, 3, 2, 2, 3, 1, 2, 4, 1, 2, 2, 2, 1, 3, 1, 4, 1, 2, 2, 2, 4, 1, 2, 2, 2, 4, 3, 2, 1, 3, 1, 4, 1, 2, 2, 1, 2, 3, 1, 2, 3, 1, 3, 1, 3, 4, 4, 1, 4, 1, 1, 1, 1, 2, 3, 2, 3, 3, 1, 1, 1, 2, 1, 3, 1, 4, 5]"
+[365],"CATTTACGTAACTGGAACTTTAGTTGGAATTTAATTCTAACGCTTTTTATAGTTGTGTTGCAGTATGGGC
+","[4, 2, 1, 1, 1, 2, 4, 3, 1, 2, 2, 4, 1, 3, 3, 2, 2, 4, 1, 1, 1, 2, 3, 1, 1, 3, 3, 2, 2, 1, 1, 1, 2, 2, 1, 1, 4, 1, 2, 2, 4, 3, 4, 1, 1, 1, 1, 1, 2, 1, 2, 3, 1, 1, 3, 1, 3, 1, 1, 3, 4, 2, 3, 1, 2, 1, 3, 3, 3, 4, 5]"
+[366],"ATTATAAGTATAGCAGACTTCTTTATGGTTTAAAGATGTCTGTTTTATGGTGTTTATGGCCACTTGTTCT
+","[2, 1, 1, 2, 1, 2, 2, 3, 1, 2, 1, 2, 3, 4, 2, 3, 2, 4, 1, 1, 4, 1, 1, 1, 2, 1, 3, 3, 1, 1, 1, 2, 2, 2, 3, 2, 1, 3, 1, 4, 1, 3, 1, 1, 1, 1, 2, 1, 3, 3, 1, 3, 1, 1, 1, 2, 1, 3, 3, 4, 4, 2, 4, 1, 1, 3, 1, 1, 4, 1, 5]"
+[367],"AGCTTTGTCTATTTTTGACTGTTTTGTCAATTTTAATGTGGACTGGGTCTTTTTTGGTTTTAGTATTCTT
+","[2, 3, 4, 1, 1, 1, 3, 1, 4, 1, 2, 1, 1, 1, 1, 1, 3, 2, 4, 1, 3, 1, 1, 1, 1, 3, 1, 4, 2, 2, 1, 1, 1, 1, 2, 2, 1, 3, 1, 3, 3, 2, 4, 1, 3, 3, 3, 1, 4, 1, 1, 1, 1, 1, 1, 3, 3, 1, 1, 1, 1, 2, 3, 1, 2, 1, 1, 4, 1, 1, 5]"
+[368],"ATGTCTATTATTACACTTTGTTTATGGGTTATGTATTTTGTTAATAGTTTCAGACTTTGGCGCCGTGTTA
+","[2, 1, 3, 1, 4, 1, 2, 1, 1, 2, 1, 1, 2, 4, 2, 4, 1, 1, 1, 3, 1, 1, 1, 2, 1, 3, 3, 3, 1, 1, 2, 1, 3, 1, 2, 1, 1, 1, 1, 3, 1, 1, 2, 2, 1, 2, 3, 1, 1, 1, 4, 2, 3, 2, 4, 1, 1, 1, 3, 3, 4, 3, 4, 4, 3, 1, 3, 1, 1, 2, 5]"
+[369],"AAACTTTTTGGGCTTTTAATCCTGAAACTAATGCAATCATCTCTCTCCAGGTTTACGGACATAATTATTA
+","[2, 2, 2, 4, 1, 1, 1, 1, 1, 3, 3, 3, 4, 1, 1, 1, 1, 2, 2, 1, 4, 4, 1, 3, 2, 2, 2, 4, 1, 2, 2, 1, 3, 4, 2, 2, 1, 4, 2, 1, 4, 1, 4, 1, 4, 1, 4, 4, 2, 3, 3, 1, 1, 1, 2, 4, 3, 3, 2, 4, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2, 5]"
+[370],"CTTACCGGTGATGGCTGCACCTACAGGTGTTACATTAACACTTCTTAGTGGTGTACTTCTTGTTGATGGC
+","[4, 1, 1, 2, 4, 4, 3, 3, 1, 3, 2, 1, 3, 3, 4, 1, 3, 4, 2, 4, 4, 1, 2, 4, 2, 3, 3, 1, 3, 1, 1, 2, 4, 2, 1, 1, 2, 2, 4, 2, 4, 1, 1, 4, 1, 1, 2, 3, 1, 3, 3, 1, 3, 1, 2, 4, 1, 1, 4, 1, 1, 3, 1, 1, 3, 2, 1, 3, 3, 4, 5]"
+[371],"CATAAGATTGCTACTCGTGTTCAAGTGGGTCAGTTGCCTAAATATGTAATAGTTGCTACGCCTAGTACCA
+","[4, 2, 1, 2, 2, 3, 2, 1, 1, 3, 4, 1, 2, 4, 1, 4, 3, 1, 3, 1, 1, 4, 2, 2, 3, 1, 3, 3, 3, 1, 4, 2, 3, 1, 1, 3, 4, 4, 1, 2, 2, 2, 1, 2, 1, 3, 1, 2, 2, 1, 2, 3, 1, 1, 3, 4, 1, 2, 4, 3, 4, 4, 1, 2, 3, 1, 2, 4, 4, 2, 5]"
+[372],"CAATTGTTTGTGACCGTGTTGGTCGCTCTGTTAATGAAACAAGCCAGACTGGTTGGGCATTCTACGTCCG
+","[4, 2, 2, 1, 1, 3, 1, 1, 1, 3, 1, 3, 2, 4, 4, 3, 1, 3, 1, 1, 3, 3, 1, 4, 3, 4, 1, 4, 1, 3, 1, 1, 2, 2, 1, 3, 2, 2, 2, 4, 2, 2, 3, 4, 4, 2, 3, 2, 4, 1, 3, 3, 1, 1, 3, 3, 3, 4, 2, 1, 1, 4, 1, 2, 4, 3, 1, 4, 4, 3, 5]"
+[373],"TGCTAAACATGGTGATTTTTCTGGTGTTGCCTCTCAGGAGGGTGTTTTGTCAGAAAGAGAGAAGTTGCTT
+","[1, 3, 4, 1, 2, 2, 2, 4, 2, 1, 3, 3, 1, 3, 2, 1, 1, 1, 1, 1, 4, 1, 3, 3, 1, 3, 1, 1, 3, 4, 4, 1, 4, 1, 4, 2, 3, 3, 2, 3, 3, 3, 1, 3, 1, 1, 1, 1, 3, 1, 4, 2, 3, 2, 2, 2, 3, 2, 3, 2, 3, 2, 2, 3, 1, 1, 3, 4, 1, 1, 5]"
+[374],"CATTTAATCTAAACTAAACAAAATGGCTAGTGTAAATTGGGCCGATGACAGAGCTGCTAGGAAGAAATTT
+","[4, 2, 1, 1, 1, 2, 2, 1, 4, 1, 2, 2, 2, 4, 1, 2, 2, 2, 4, 2, 2, 2, 2, 1, 3, 3, 4, 1, 2, 3, 1, 3, 1, 2, 2, 2, 1, 1, 3, 3, 3, 4, 4, 3, 2, 1, 3, 2, 4, 2, 3, 2, 3, 4, 1, 3, 4, 1, 2, 3, 3, 2, 2, 3, 2, 2, 2, 1, 1, 1, 5]"
+[375],"CCTCCTCCTTCATTTTACATGCCTCTTTTGGTTAGTTCTGATAAGGCACCATATAGGGTCATTCCCAGGA
+","[4, 4, 1, 4, 4, 1, 4, 4, 1, 1, 4, 2, 1, 1, 1, 1, 2, 4, 2, 1, 3, 4, 4, 1, 4, 1, 1, 1, 1, 3, 3, 1, 1, 2, 3, 1, 1, 4, 1, 3, 2, 1, 2, 2, 3, 3, 4, 2, 4, 4, 2, 1, 2, 1, 2, 3, 3, 3, 1, 4, 2, 1, 1, 4, 4, 4, 2, 3, 3, 2, 5]"
+[376],"ATCTTGTCCCTATTGGTAAGGGTAATAAAGATGAGCAGATTGGTTATTGGAATGTTCAAGAGCGTTGGCG
+","[2, 1, 4, 1, 1, 3, 1, 4, 4, 4, 1, 2, 1, 1, 3, 3, 1, 2, 2, 3, 3, 3, 1, 2, 2, 1, 2, 2, 2, 3, 2, 1, 3, 2, 3, 4, 2, 3, 2, 1, 1, 3, 3, 1, 1, 2, 1, 1, 3, 3, 2, 2, 1, 3, 1, 1, 4, 2, 2, 3, 2, 3, 4, 3, 1, 1, 3, 3, 4, 3, 5]"
+[377],"TATGCGCAGGGGGCAACGTGTTGATTTGCCTCCTAAAGTTCATTTTTATTACCTAGGTACTGGACCTCAT
+","[1, 2, 1, 3, 4, 3, 4, 2, 3, 3, 3, 3, 3, 4, 2, 2, 4, 3, 1, 3, 1, 1, 3, 2, 1, 1, 1, 3, 4, 4, 1, 4, 4, 1, 2, 2, 2, 3, 1, 1, 4, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 4, 4, 1, 2, 3, 3, 1, 2, 4, 1, 3, 3, 2, 4, 4, 1, 4, 2, 1, 5]"
+[378],"AAGGACCTTAAATTCAGACAACGTTCTGATGGTGTTGTTTGGGTTGCTAAGGAAGGTGCTAAAACTGTTA
+","[2, 2, 3, 3, 2, 4, 4, 1, 1, 2, 2, 2, 1, 1, 4, 2, 3, 2, 4, 2, 2, 4, 3, 1, 1, 4, 1, 3, 2, 1, 3, 3, 1, 3, 1, 1, 3, 1, 1, 1, 3, 3, 3, 1, 1, 3, 4, 1, 2, 2, 3, 3, 2, 2, 3, 3, 1, 3, 4, 1, 2, 2, 2, 2, 4, 1, 3, 1, 1, 2, 5]"
+[379],"ATACCAGTCTTGGTAATCGCAAACGTAATCAGAAACCTTTGGAACCAAAGTTCTCTATTGCTTTGCCTCC
+","[2, 1, 2, 4, 4, 2, 3, 1, 4, 1, 1, 3, 3, 1, 2, 2, 1, 4, 3, 4, 2, 2, 2, 4, 3, 1, 2, 2, 1, 4, 2, 3, 2, 2, 2, 4, 4, 1, 1, 1, 3, 3, 2, 2, 4, 4, 2, 2, 2, 3, 1, 1, 4, 1, 4, 1, 2, 1, 1, 3, 4, 1, 1, 1, 3, 4, 4, 1, 4, 4, 5]"
+[380],"AGAGCTCTCTGTTGTTGAGTTTGAGGATCGCTCTAATAACTCATCTCGTGCTAGCAGTCGTTCTTCAACT
+","[2, 3, 2, 3, 4, 1, 4, 1, 4, 1, 3, 1, 1, 3, 1, 1, 3, 2, 3, 1, 1, 1, 3, 2, 3, 3, 2, 1, 4, 3, 4, 1, 4, 1, 2, 2, 1, 2, 2, 4, 1, 4, 2, 1, 4, 1, 4, 3, 1, 3, 4, 1, 2, 3, 4, 2, 3, 1, 4, 3, 1, 1, 4, 1, 1, 4, 2, 2, 4, 1, 5]"
+[381],"CGTAACAACTCACGAGACTCTTCTCGTAGCACTTCAAGACAACAGTCTCGCACTCGTTCTGATTCTAACC
+","[4, 3, 1, 2, 2, 4, 2, 2, 4, 1, 4, 2, 4, 3, 2, 3, 2, 4, 1, 4, 1, 1, 4, 1, 4, 3, 1, 2, 3, 4, 2, 4, 1, 1, 4, 2, 2, 3, 2, 4, 2, 2, 4, 2, 3, 1, 4, 1, 4, 3, 4, 2, 4, 1, 4, 3, 1, 1, 4, 1, 3, 2, 1, 1, 4, 1, 2, 2, 4, 4, 5]"
+[382],"AGTCTTCTTCAGATCTTGTTGCTGCTGTTACTTTGGCTTTAAAGAACTTAGGTTTTGATAACCAGTCGAA
+","[2, 3, 1, 4, 1, 1, 4, 1, 1, 4, 2, 3, 2, 1, 4, 1, 1, 3, 1, 1, 3, 4, 1, 3, 4, 1, 3, 1, 1, 2, 4, 1, 1, 1, 3, 3, 4, 1, 1, 1, 2, 2, 2, 3, 2, 2, 4, 1, 1, 2, 3, 3, 1, 1, 1, 1, 3, 2, 1, 2, 2, 4, 4, 2, 3, 1, 4, 3, 2, 2, 5]"
+[383],"GTCACCTAGTTCTTCTGGTACTTCCACTCCTAAGAAACCTAATAAGCCTCTTTCTCAACCCAGGGCTGAT
+","[3, 1, 4, 2, 4, 4, 1, 2, 3, 1, 1, 4, 1, 1, 4, 1, 3, 3, 1, 2, 4, 1, 1, 4, 4, 2, 4, 1, 4, 4, 1, 2, 2, 3, 2, 2, 2, 4, 4, 1, 2, 2, 1, 2, 2, 3, 4, 4, 1, 4, 1, 1, 1, 4, 1, 4, 2, 2, 4, 4, 4, 2, 3, 3, 3, 4, 1, 3, 2, 1, 5]"
+[384],"AAGCCTTCTCAGTTGAAGAAACCTCGTTGGAAGCGTGTTCCTACCAGAGAGGAAAATGTTATTCAGTGCT
+","[2, 2, 3, 4, 4, 1, 1, 4, 1, 4, 2, 3, 1, 1, 3, 2, 2, 3, 2, 2, 2, 4, 4, 1, 4, 3, 1, 1, 3, 3, 2, 2, 3, 4, 3, 1, 3, 1, 1, 4, 4, 1, 2, 4, 4, 2, 3, 2, 3, 2, 3, 3, 2, 2, 2, 2, 1, 3, 1, 1, 2, 1, 1, 4, 2, 3, 1, 3, 4, 1, 5]"
+[385],"TTGGTCCTCGTGATTTTAATCACAATATGGGGGATTCAGATCTTGTTCAGAATGGTGTTGATGCCAAAGG
+","[1, 1, 3, 3, 1, 4, 4, 1, 4, 3, 1, 3, 2, 1, 1, 1, 1, 2, 2, 1, 4, 2, 4, 2, 2, 1, 2, 1, 3, 3, 3, 3, 3, 2, 1, 1, 4, 2, 3, 2, 1, 4, 1, 1, 3, 1, 1, 4, 2, 3, 2, 2, 1, 3, 3, 1, 3, 1, 1, 3, 2, 1, 3, 4, 4, 2, 2, 2, 3, 3, 5]"
+[386],"TTTTCCACAGCTTGCTGAATTGATTCCTAATCAGGCTGCGTTATTCTTTGATAGTGAGGTTAGCACTGAT
+","[1, 1, 1, 1, 4, 4, 2, 4, 2, 3, 4, 1, 1, 3, 4, 1, 3, 2, 2, 1, 1, 3, 2, 1, 1, 4, 4, 1, 2, 2, 1, 4, 2, 3, 3, 4, 1, 3, 4, 3, 1, 1, 2, 1, 1, 4, 1, 1, 1, 3, 2, 1, 2, 3, 1, 3, 2, 3, 3, 1, 1, 2, 3, 4, 2, 4, 1, 3, 2, 1, 5]"
+[387],"GAAGTGGGTGATAATGTTCAGATTACCTACACCTACAAAATGCTTGTAGCTAAGGATAATAAGAACCTTC
+","[3, 2, 2, 3, 1, 3, 3, 3, 1, 3, 2, 1, 2, 2, 1, 3, 1, 1, 4, 2, 3, 2, 1, 1, 2, 4, 4, 1, 2, 4, 2, 4, 4, 1, 2, 4, 2, 2, 2, 2, 1, 3, 4, 1, 1, 3, 1, 2, 3, 4, 1, 2, 2, 3, 3, 2, 1, 2, 2, 1, 2, 2, 3, 2, 2, 4, 4, 1, 1, 4, 5]"
+[388],"CTAAGTTCATTGAGCAGATTAGTGCTTTTACTAAACCCAGTTCTATCAAAGAAATGCAGTCACAATCATC
+","[4, 1, 2, 2, 3, 1, 1, 4, 2, 1, 1, 3, 2, 3, 4, 2, 3, 2, 1, 1, 2, 3, 1, 3, 4, 1, 1, 1, 1, 2, 4, 1, 2, 2, 2, 4, 4, 4, 2, 3, 1, 1, 4, 1, 2, 1, 4, 2, 2, 2, 3, 2, 2, 2, 1, 3, 4, 2, 3, 1, 4, 2, 4, 2, 2, 1, 4, 2, 1, 4, 5]"
+[389],"TCATGTTGCTCAGAACACAGTACTTAATGCTTCTATTCCAGAATCTAAACCATTGGCTGATGATGATTCA
+","[1, 4, 2, 1, 3, 1, 1, 3, 4, 1, 4, 2, 3, 2, 2, 4, 2, 4, 2, 3, 1, 2, 4, 1, 1, 2, 2, 1, 3, 4, 1, 1, 4, 1, 2, 1, 1, 4, 4, 2, 3, 2, 2, 1, 4, 1, 2, 2, 2, 4, 4, 2, 1, 1, 3, 3, 4, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 1, 4, 2, 5]"
+[390],"GCCATTATAGAAATTGTCAACGAGGTTTTGCATTAAATTGTTTTGTAATTCCAGTTGAATGTTTATTATT
+","[3, 4, 4, 2, 1, 1, 2, 1, 2, 3, 2, 2, 2, 1, 1, 3, 1, 4, 2, 2, 4, 3, 2, 3, 3, 1, 1, 1, 1, 3, 4, 2, 1, 1, 2, 2, 2, 1, 1, 3, 1, 1, 1, 1, 3, 1, 2, 2, 1, 1, 4, 4, 2, 3, 1, 1, 3, 2, 2, 1, 3, 1, 1, 1, 2, 1, 1, 2, 1, 1, 5]"
+,,
+,,
+,,
